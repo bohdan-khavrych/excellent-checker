@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T18:28:17.470Z",
+  "updatedAt": "2026-11-17T18:34:18.443Z",
   "properties": [
     {
       "kind": "house",
@@ -4408,8 +4408,8 @@
       "x": 2122.62,
       "y": 732.104,
       "price": 870000,
-      "owner": null,
-      "owned": false
+      "owner": "Jamal_Cartel",
+      "owned": true
     },
     {
       "kind": "house",
