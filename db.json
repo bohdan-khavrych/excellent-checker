@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T19:54:20.391Z",
+  "updatedAt": "2026-11-17T20:01:15.408Z",
   "properties": [
     {
       "kind": "house",
@@ -1968,8 +1968,8 @@
       "x": 2259.42,
       "y": -1019.12,
       "price": 160000,
-      "owner": "Sam_Winstrike",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -5298,8 +5298,8 @@
       "x": 252.266,
       "y": -121.284,
       "price": 140000,
-      "owner": "Orazio_Grassi",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
