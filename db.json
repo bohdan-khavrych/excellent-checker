@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T21:28:18.292Z",
+  "updatedAt": "2026-11-17T22:01:18.330Z",
   "properties": [
     {
       "kind": "house",
@@ -7188,8 +7188,8 @@
       "x": 758.839,
       "y": 375.017,
       "price": 36000,
-      "owner": "Rich_Barrington",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
