@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T23:02:17.523Z",
+  "updatedAt": "2026-11-17T23:18:21.321Z",
   "properties": [
     {
       "kind": "house",
@@ -6308,8 +6308,8 @@
       "x": 2049.77,
       "y": 2763.96,
       "price": 1230000,
-      "owner": "William_Darkwood",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
