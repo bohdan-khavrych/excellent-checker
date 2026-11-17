@@ -189,10 +189,7 @@ function diffProperties(oldList, newList) {
 
 // ---------- Один прохід ----------
 
-const CHECKS_PER_RUN = 2;      // кількість перевірок за один запуск
-const PAUSE_MS = 150 * 1000;   // пауза між ними (2,5 хв)
-
-async function checkOnce() {
+async function main() {
     const time = new Date().toISOString();
     const properties = await getProperties();
     const db = await loadDb();
@@ -223,20 +220,7 @@ async function checkOnce() {
     }
 }
 
-async function main() {
-    let failed = false;
-
-    for (let i = 0; i < CHECKS_PER_RUN; i++) {
-        try {
-            await checkOnce();
-        } catch (err) {
-            failed = true;
-            console.error('Помилка перевірки:', err.message);
-        }
-        if (i < CHECKS_PER_RUN - 1) await sleep(PAUSE_MS);
-    }
-
-    if (failed) process.exit(1);
-}
-
-main();
+main().catch((err) => {
+    console.error('Помилка перевірки:', err.message);
+    process.exit(1);
+});
