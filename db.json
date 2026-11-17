@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T18:06:19.100Z",
+  "updatedAt": "2026-11-17T18:28:17.470Z",
   "properties": [
     {
       "kind": "house",
@@ -1488,7 +1488,7 @@
       "x": 2002.49,
       "y": -1594.14,
       "price": 160000,
-      "owner": "Jones_Winchester",
+      "owner": "Fernando_Visconte",
       "owned": true
     },
     {
