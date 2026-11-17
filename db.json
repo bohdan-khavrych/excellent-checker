@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T20:08:17.890Z",
+  "updatedAt": "2026-11-17T20:46:20.429Z",
   "properties": [
     {
       "kind": "house",
@@ -9088,8 +9088,8 @@
       "x": 3385.86,
       "y": -274.251,
       "price": 10000000,
-      "owner": "Dima_Quinter",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
