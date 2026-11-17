@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T04:54:22.484Z",
+  "updatedAt": "2026-11-17T05:07:43.516Z",
   "properties": [
     {
       "kind": "house",
@@ -1908,8 +1908,8 @@
       "x": 1955.13,
       "y": -1115.4,
       "price": 140000,
-      "owner": null,
-      "owned": false
+      "owner": "Donkihote_Flou",
+      "owned": true
     },
     {
       "kind": "house",
@@ -1918,8 +1918,8 @@
       "x": 1939.29,
       "y": -1114.5,
       "price": 180000,
-      "owner": null,
-      "owned": false
+      "owner": "Donkihote_Flou",
+      "owned": true
     },
     {
       "kind": "house",
