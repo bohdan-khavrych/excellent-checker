@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T15:40:37.512Z",
+  "updatedAt": "2026-11-17T16:06:17.384Z",
   "properties": [
     {
       "kind": "house",
@@ -6708,8 +6708,8 @@
       "x": -89.1267,
       "y": -1564.49,
       "price": 38000,
-      "owner": null,
-      "owned": false
+      "owner": "Carolina_Ventura",
+      "owned": true
     },
     {
       "kind": "house",
