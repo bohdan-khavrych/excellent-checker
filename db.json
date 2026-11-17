@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T16:06:17.384Z",
+  "updatedAt": "2026-11-17T16:30:57.429Z",
   "properties": [
     {
       "kind": "house",
@@ -1848,8 +1848,8 @@
       "x": 2093.97,
       "y": -1122.67,
       "price": 140000,
-      "owner": "Andrey_Burim",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
