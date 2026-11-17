@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T13:08:22.622Z",
+  "updatedAt": "2026-11-17T13:14:18.533Z",
   "properties": [
     {
       "kind": "house",
@@ -6708,8 +6708,8 @@
       "x": -89.1267,
       "y": -1564.49,
       "price": 38000,
-      "owner": null,
-      "owned": false
+      "owner": "Ryan_Wainwright",
+      "owned": true
     },
     {
       "kind": "house",
