@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T19:48:48.050Z",
+  "updatedAt": "2026-11-17T19:54:20.391Z",
   "properties": [
     {
       "kind": "house",
@@ -1658,8 +1658,8 @@
       "x": 2256.54,
       "y": -1397.23,
       "price": 130000,
-      "owner": "Ivan_Ivanov",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
