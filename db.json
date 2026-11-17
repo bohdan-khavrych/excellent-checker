@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T13:01:12.835Z",
+  "updatedAt": "2026-11-17T13:08:22.622Z",
   "properties": [
     {
       "kind": "house",
@@ -6708,8 +6708,8 @@
       "x": -89.1267,
       "y": -1564.49,
       "price": 38000,
-      "owner": "Fernando_Torrero",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -10388,7 +10388,7 @@
       "x": -2242.5,
       "y": -2563.53,
       "price": 525500,
-      "owner": "Enzo_Rossentall",
+      "owner": "Lil_Uzi",
       "owned": true
     },
     {
