@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T20:50:35.661Z",
+  "updatedAt": "2026-11-17T21:01:12.174Z",
   "properties": [
     {
       "kind": "house",
@@ -5518,8 +5518,8 @@
       "x": 2197.8,
       "y": -60.7232,
       "price": 129000,
-      "owner": "Frank_Faraday",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
