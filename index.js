@@ -5,23 +5,34 @@ const API = 'https://exsellentrp.com';
 const DB_FILE = path.join(__dirname, 'db.json');
 
 const TG_BOT_TOKEN = process.env.TG_BOT_TOKEN;
-const TG_CHAT_ID = process.env.TG_CHAT_ID;
+const TG_CHAT_ID = process.env.TG_CHAT_ID;                 // основний канал (усі події)
+const TG_CHAT_ID_FILTER = process.env.TG_CHAT_ID_FILTER;   // канал з фільтром (необов'язковий)
 
 if (!TG_BOT_TOKEN || !TG_CHAT_ID) {
     console.error('Не задано TG_BOT_TOKEN або TG_CHAT_ID');
     process.exit(1);
 }
 
+// ---------- Налаштування фільтра ----------
+const FILTER_MIN_HOUSE_PRICE = 1450000;
+
+// Потрапляє в канал з фільтром: будь-який бізнес або будинок від мін. ціни
+function matchesFilter(p) {
+    if (p.kind === 'business') return true;
+    if (p.kind === 'house') return Number(p.price) >= FILTER_MIN_HOUSE_PRICE;
+    return false;
+}
+
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 // ---------- Telegram ----------
 
-async function sendTelegram(text, attempt = 1) {
+async function sendTelegram(chatId, text, attempt = 1) {
     const res = await fetch(`https://api.telegram.org/bot${TG_BOT_TOKEN}/sendMessage`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-            chat_id: TG_CHAT_ID,
+            chat_id: chatId,
             text,
             disable_web_page_preview: true,
         }),
@@ -35,17 +46,34 @@ async function sendTelegram(text, attempt = 1) {
     if (res.status === 429 && attempt <= 3) {
         const wait = (data.parameters?.retry_after ?? 5) + 1;
         await sleep(wait * 1000);
-        return sendTelegram(text, attempt + 1);
+        return sendTelegram(chatId, text, attempt + 1);
     }
 
     throw new Error(`Telegram ${res.status}: ${data.description ?? 'unknown error'}`);
 }
 
-async function notify(messages) {
-    for (const msg of messages) {
-        await sendTelegram(msg);
+// Повертає true, якщо відправка в канал з фільтром не вдалася
+async function notify(events) {
+    let filterFailed = false;
+
+    for (const ev of events) {
+        // Основний канал: помилка тут зупиняє збереження db.json (повторимо наступного разу)
+        await sendTelegram(TG_CHAT_ID, ev.text);
         await sleep(1100);
+
+        // Канал з фільтром: помилка не блокує збереження бази, лише логується
+        if (ev.filter && TG_CHAT_ID_FILTER) {
+            try {
+                await sendTelegram(TG_CHAT_ID_FILTER, ev.text);
+            } catch (err) {
+                filterFailed = true;
+                console.error('Не вдалося відправити в канал з фільтром:', err.message);
+            }
+            await sleep(1100);
+        }
     }
+
+    return filterFailed;
 }
 
 // ---------- API ----------
@@ -112,10 +140,12 @@ function getOtherProperties(list, owner, exceptKey) {
 }
 
 // ---------- Порівняння ----------
+// Повертає масив подій: { text, filter }
+// filter = true означає, що подію треба дублювати в канал з фільтром
 
 function diffProperties(oldList, newList) {
     const oldMap = new Map(oldList.map((p) => [keyOf(p), p]));
-    const messages = [];
+    const events = [];
 
     for (const cur of newList) {
         const prev = oldMap.get(keyOf(cur));
@@ -133,24 +163,28 @@ function diffProperties(oldList, newList) {
                 lines.push(`📗 Также во владении: ${others.map(title).join(', ')}`);
             }
 
-            messages.push(lines.join('\n'));
+            events.push({ text: lines.join('\n'), filter: matchesFilter(cur) });
         } else if (!prev.owned && cur.owned) {
-            messages.push(
-                `📕 ${title(cur)} был куплен\n` +
-                `📕 Гос. цена: ${formatPrice(cur.price)}\n` +
-                `📕 Новый владелец: ${cur.owner}`
-            );
+            events.push({
+                text:
+                    `📕 ${title(cur)} был куплен\n` +
+                    `📕 Гос. цена: ${formatPrice(cur.price)}\n` +
+                    `📕 Новый владелец: ${cur.owner}`,
+                filter: false,
+            });
         } else if (prev.owned && cur.owned && prev.owner !== cur.owner) {
-            messages.push(
-                `📕 ${title(cur)} сменил владельца\n` +
-                `📕 Гос. цена: ${formatPrice(cur.price)}\n` +
-                `📕 Бывший владелец: ${prev.owner}\n` +
-                `📕 Новый владелец: ${cur.owner}`
-            );
+            events.push({
+                text:
+                    `📕 ${title(cur)} сменил владельца\n` +
+                    `📕 Гос. цена: ${formatPrice(cur.price)}\n` +
+                    `📕 Бывший владелец: ${prev.owner}\n` +
+                    `📕 Новый владелец: ${cur.owner}`,
+                filter: false,
+            });
         }
     }
 
-    return messages;
+    return events;
 }
 
 // ---------- Один прохід ----------
@@ -169,12 +203,16 @@ async function checkOnce() {
         return;
     }
 
-    const messages = diffProperties(db.properties, properties);
+    const events = diffProperties(db.properties, properties);
 
-    if (messages.length) {
-        console.log(`[${time}] Змін: ${messages.length}\n`);
-        console.log(messages.join('\n\n'));
-        await notify(messages); // якщо впаде, db.json не оновиться
+    if (events.length) {
+        console.log(`[${time}] Змін: ${events.length}\n`);
+        console.log(
+            events.map((e) => (e.filter ? `[ФІЛЬТР]\n${e.text}` : e.text)).join('\n\n')
+        );
+
+        const filterFailed = await notify(events); // якщо основний канал впаде, db.json не оновиться
+        if (filterFailed) process.exitCode = 1;
     } else {
         console.log(`[${time}] Змін немає (${properties.length} об'єктів).`);
     }
