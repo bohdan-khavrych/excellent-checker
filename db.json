@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T13:31:13.369Z",
+  "updatedAt": "2026-11-17T14:01:15.663Z",
   "properties": [
     {
       "kind": "house",
@@ -6478,8 +6478,8 @@
       "x": -258.471,
       "y": 1168.85,
       "price": 340000,
-      "owner": "Danny_Weintraub",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
