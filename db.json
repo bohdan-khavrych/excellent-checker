@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T06:05:42.231Z",
+  "updatedAt": "2026-11-17T10:02:37.607Z",
   "properties": [
     {
       "kind": "house",
@@ -88,7 +88,7 @@
       "x": 1851.76,
       "y": -2134.85,
       "price": 90000,
-      "owner": "Mauricio_Cortez",
+      "owner": "Enzo_Rossentall",
       "owned": true
     },
     {
@@ -2708,8 +2708,8 @@
       "x": 921.894,
       "y": -1803.88,
       "price": 550000,
-      "owner": "James_Cobra",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -4518,8 +4518,8 @@
       "x": 1465.13,
       "y": 1920.04,
       "price": 406000,
-      "owner": "Yuki_Sakito",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -5758,8 +5758,8 @@
       "x": -2479.81,
       "y": 2449.27,
       "price": 410000,
-      "owner": "Soichiro_Honda",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -6228,8 +6228,8 @@
       "x": 1950.62,
       "y": 2664.37,
       "price": 405000,
-      "owner": null,
-      "owned": false
+      "owner": "Yami_Sukehiro",
+      "owned": true
     },
     {
       "kind": "house",
@@ -6488,8 +6488,8 @@
       "x": -260.591,
       "y": 1120.06,
       "price": 320000,
-      "owner": "Yami_Sukehiro",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -6708,7 +6708,7 @@
       "x": -89.1267,
       "y": -1564.49,
       "price": 38000,
-      "owner": "Alexei_Ivanov",
+      "owner": "Fernando_Torrero",
       "owned": true
     },
     {
@@ -9218,7 +9218,7 @@
       "x": 2419.71,
       "y": -1509.05,
       "price": 190000,
-      "owner": "Expensive_Pain",
+      "owner": "Meliodas_Markowkin",
       "owned": true
     },
     {
