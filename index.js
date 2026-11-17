@@ -77,31 +77,26 @@ async function notify(events) {
 }
 
 // ---------- API ----------
+// Один запит без повторів: при збої одразу кидаємо помилку,
+// наступна спроба буде при наступному запуску
 
-async function getProperties(attempt = 1) {
-    try {
-        const response = await fetch(`${API}/api/map/properties`, {
-            signal: AbortSignal.timeout(30000),
-        });
+async function getProperties() {
+    const response = await fetch(`${API}/api/map/properties`, {
+        signal: AbortSignal.timeout(30000),
+    });
 
-        if (!response.ok) {
-            throw new Error(`HTTP ${response.status}`);
-        }
-
-        const data = await response.json();
-
-        // Захист від порожньої або некоректної відповіді
-        if (!Array.isArray(data) || data.length === 0) {
-            throw new Error('некоректна відповідь API');
-        }
-
-        return data;
-    } catch (err) {
-        if (attempt >= 3) throw err;
-        console.log(`Спроба ${attempt} не вдалася (${err.message}), повтор через ${attempt * 5} с...`);
-        await sleep(attempt * 5000);
-        return getProperties(attempt + 1);
+    if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
     }
+
+    const data = await response.json();
+
+    // Захист від порожньої або некоректної відповіді
+    if (!Array.isArray(data) || data.length === 0) {
+        throw new Error('некоректна відповідь API');
+    }
+
+    return data;
 }
 
 // ---------- Файл-БД ----------
