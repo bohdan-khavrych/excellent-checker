@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T10:02:37.607Z",
+  "updatedAt": "2026-11-17T11:34:28.042Z",
   "properties": [
     {
       "kind": "house",
@@ -2428,7 +2428,7 @@
       "x": 189.48,
       "y": -1308.16,
       "price": 2680000,
-      "owner": "Dean_Winchester",
+      "owner": "Alex_Cobra",
       "owned": true
     },
     {
@@ -3098,8 +3098,8 @@
       "x": -2620.79,
       "y": -185.875,
       "price": 500000,
-      "owner": null,
-      "owned": false
+      "owner": "Jove_Calibro",
+      "owned": true
     },
     {
       "kind": "house",
@@ -7058,8 +7058,8 @@
       "x": 20.5944,
       "y": 948.912,
       "price": 32000,
-      "owner": "Christopher_Evil",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -9218,7 +9218,7 @@
       "x": 2419.71,
       "y": -1509.05,
       "price": 190000,
-      "owner": "Meliodas_Markowkin",
+      "owner": "Richard_Markowkin",
       "owned": true
     },
     {
@@ -9678,7 +9678,7 @@
       "x": -89.6112,
       "y": 1378.27,
       "price": 311000,
-      "owner": "Jaden_Ward",
+      "owner": "Enzo_Rossentall",
       "owned": true
     },
     {
@@ -10751,6 +10751,5 @@
       "owner": "Tyler_Pernyl",
       "owned": true
     }
-  ],
-  "fetchFailing": true
+  ]
 }
