@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: house-checker
@@ -15,7 +16,7 @@ concurrency:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 6
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v6
 
@@ -41,3 +42,14 @@ jobs:
             git pull --rebase
             git push
           fi
+
+      - name: Cleanup old runs
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ $((GITHUB_RUN_NUMBER % 50)) -ne 0 ]; then exit 0; fi
+          CUTOFF=$(date -u -d '3 days ago' +%Y-%m-%dT%H:%M:%SZ)
+          gh api -X GET "repos/$GITHUB_REPOSITORY/actions/workflows/checker.yml/runs" \
+            -f per_page=100 -f created="<$CUTOFF" --jq '.workflow_runs[].id' \
+            | xargs -r -I{} gh api -X DELETE "repos/$GITHUB_REPOSITORY/actions/runs/{}"
