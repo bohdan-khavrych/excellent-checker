@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T05:15:33.766Z",
+  "updatedAt": "2026-11-17T05:39:48.676Z",
   "properties": [
     {
       "kind": "house",
@@ -2258,8 +2258,8 @@
       "x": 1112.63,
       "y": -742.055,
       "price": 1450000,
-      "owner": null,
-      "owned": false
+      "owner": "Melantha_Evil",
+      "owned": true
     },
     {
       "kind": "house",
@@ -9328,8 +9328,8 @@
       "x": 1368.84,
       "y": -1279.84,
       "price": 1450000,
-      "owner": null,
-      "owned": false
+      "owner": "Omon_Vasquez",
+      "owned": true
     },
     {
       "kind": "business",
