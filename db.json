@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T18:34:18.443Z",
+  "updatedAt": "2026-11-17T19:01:28.045Z",
   "properties": [
     {
       "kind": "house",
@@ -5018,8 +5018,8 @@
       "x": 1554.61,
       "y": 2610.39,
       "price": 540000,
-      "owner": "Raphael_Olderez",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -9958,7 +9958,7 @@
       "x": 2177.43,
       "y": -1311.12,
       "price": 900000,
-      "owner": "Cody_Rooney",
+      "owner": "Armando_Nostra",
       "owned": true
     },
     {
