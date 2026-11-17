@@ -78,16 +78,30 @@ async function notify(events) {
 
 // ---------- API ----------
 
-async function getProperties() {
-    const response = await fetch(`${API}/api/map/properties`, {
-        signal: AbortSignal.timeout(30000),
-    });
+async function getProperties(attempt = 1) {
+    try {
+        const response = await fetch(`${API}/api/map/properties`, {
+            signal: AbortSignal.timeout(30000),
+        });
 
-    if (!response.ok) {
-        throw new Error(`HTTP ${response.status}`);
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+        }
+
+        const data = await response.json();
+
+        // Захист від порожньої або некоректної відповіді
+        if (!Array.isArray(data) || data.length === 0) {
+            throw new Error('некоректна відповідь API');
+        }
+
+        return data;
+    } catch (err) {
+        if (attempt >= 3) throw err;
+        console.log(`Спроба ${attempt} не вдалася (${err.message}), повтор через ${attempt * 5} с...`);
+        await sleep(attempt * 5000);
+        return getProperties(attempt + 1);
     }
-
-    return await response.json();
 }
 
 // ---------- Файл-БД ----------
@@ -102,12 +116,15 @@ async function loadDb() {
     }
 }
 
+async function writeDb(data) {
+    await fs.writeFile(DB_FILE, JSON.stringify(data, null, 2), 'utf8');
+}
+
 async function saveDb(properties) {
-    const data = {
+    await writeDb({
         updatedAt: new Date().toISOString(),
         properties,
-    };
-    await fs.writeFile(DB_FILE, JSON.stringify(data, null, 2), 'utf8');
+    });
 }
 
 // ---------- Допоміжні функції ----------
@@ -187,12 +204,57 @@ function diffProperties(oldList, newList) {
     return events;
 }
 
+// ---------- Обробка збою отримання даних ----------
+// Сповіщення йде один раз на початку збою, далі мовчимо до відновлення.
+// Стан зберігається в db.json (поле fetchFailing).
+
+async function handleFetchFailure(db, err, time) {
+    console.error(`[${time}] Не вдалося отримати актуальні дані: ${err.message}`);
+
+    if (db?.fetchFailing) {
+        console.log('Збій триває, повторне сповіщення не надсилаємо.');
+        return;
+    }
+
+    try {
+        await sendTelegram(
+            TG_CHAT_ID,
+            `⚠️ Не удалось получить актуальные данные (${err.message}).\n` +
+            `⚠️ Проверка приостановлена, повторная попытка при следующем запуске.`
+        );
+    } catch (tgErr) {
+        console.error('Не вдалося відправити сповіщення про збій:', tgErr.message);
+        return; // прапорець не ставимо, спробуємо ще раз наступного разу
+    }
+
+    if (db) {
+        await writeDb({ ...db, fetchFailing: true });
+    }
+}
+
 // ---------- Один прохід ----------
 
 async function main() {
     const time = new Date().toISOString();
-    const properties = await getProperties();
     const db = await loadDb();
+
+    let properties;
+    try {
+        properties = await getProperties();
+    } catch (err) {
+        await handleFetchFailure(db, err, time);
+        return; // код завершення 0
+    }
+
+    // Зв'язок відновився після збою
+    const wasFailing = Boolean(db?.fetchFailing);
+    if (wasFailing) {
+        try {
+            await sendTelegram(TG_CHAT_ID, '✅ Связь с сервером восстановлена, проверка возобновлена.');
+        } catch (err) {
+            console.error('Не вдалося відправити сповіщення про відновлення:', err.message);
+        }
+    }
 
     if (!db) {
         await saveDb(properties);
@@ -214,7 +276,8 @@ async function main() {
         console.log(`[${time}] Змін немає (${properties.length} об'єктів).`);
     }
 
-    if (JSON.stringify(db.properties) !== JSON.stringify(properties)) {
+    // Зберігаємо, якщо дані змінилися або треба зняти прапорець збою
+    if (wasFailing || JSON.stringify(db.properties) !== JSON.stringify(properties)) {
         await saveDb(properties);
         console.log('db.json оновлено.');
     }
