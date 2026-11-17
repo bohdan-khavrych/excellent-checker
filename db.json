@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T12:46:18.845Z",
+  "updatedAt": "2026-11-17T13:01:12.835Z",
   "properties": [
     {
       "kind": "house",
@@ -278,8 +278,8 @@
       "x": 2016.2,
       "y": -1716.93,
       "price": 90000,
-      "owner": "Robert_Nevedomskyj",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
