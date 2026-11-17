@@ -3,13 +3,18 @@ const path = require('path');
 
 const API = 'https://exsellentrp.com';
 const DB_FILE = path.join(__dirname, 'db.json');
-const INTERVAL_MS = 3 * 60 * 1000;
 
-// ---------- Telegram ----------
-const TG_BOT_TOKEN = process.env.TG_BOT_TOKEN || '9248665737:AAGX2TIZPIL-8igodhRnCSEAjSZbGDV6oYo';
-const TG_CHAT_ID = process.env.TG_CHAT_ID || '-1004457113832'; // або -100XXXXXXXXXX
+const TG_BOT_TOKEN = process.env.TG_BOT_TOKEN;
+const TG_CHAT_ID = process.env.TG_CHAT_ID;
+
+if (!TG_BOT_TOKEN || !TG_CHAT_ID) {
+    console.error('Не задано TG_BOT_TOKEN або TG_CHAT_ID');
+    process.exit(1);
+}
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+// ---------- Telegram ----------
 
 async function sendTelegram(text, attempt = 1) {
     const res = await fetch(`https://api.telegram.org/bot${TG_BOT_TOKEN}/sendMessage`, {
@@ -20,13 +25,13 @@ async function sendTelegram(text, attempt = 1) {
             text,
             disable_web_page_preview: true,
         }),
+        signal: AbortSignal.timeout(30000),
     });
 
     const data = await res.json().catch(() => ({}));
 
     if (res.ok && data.ok) return;
 
-    // Telegram просить зачекати (ліміт повідомлень)
     if (res.status === 429 && attempt <= 3) {
         const wait = (data.parameters?.retry_after ?? 5) + 1;
         await sleep(wait * 1000);
@@ -39,14 +44,16 @@ async function sendTelegram(text, attempt = 1) {
 async function notify(messages) {
     for (const msg of messages) {
         await sendTelegram(msg);
-        await sleep(1100); // не перевищуємо ліміт Telegram для каналів
+        await sleep(1100);
     }
 }
 
 // ---------- API ----------
 
 async function getProperties() {
-    const response = await fetch(`${API}/api/map/properties`);
+    const response = await fetch(`${API}/api/map/properties`, {
+        signal: AbortSignal.timeout(30000),
+    });
 
     if (!response.ok) {
         throw new Error(`HTTP ${response.status}`);
@@ -55,7 +62,7 @@ async function getProperties() {
     return await response.json();
 }
 
-// ---------- Робота з файлом-БД ----------
+// ---------- Файл-БД ----------
 
 async function loadDb() {
     try {
@@ -68,13 +75,11 @@ async function loadDb() {
 }
 
 async function saveDb(properties) {
-    const tmp = `${DB_FILE}.tmp`;
     const data = {
         updatedAt: new Date().toISOString(),
         properties,
     };
-    await fs.writeFile(tmp, JSON.stringify(data, null, 2), 'utf8');
-    await fs.rename(tmp, DB_FILE);
+    await fs.writeFile(DB_FILE, JSON.stringify(data, null, 2), 'utf8');
 }
 
 // ---------- Допоміжні функції ----------
@@ -93,8 +98,6 @@ function title(p) {
     return `${kind} (${p.id})`;
 }
 
-// Уся активна нерухомість власника в поточному списку,
-// крім об'єкта, який зараз виставлено на продаж
 function getOtherProperties(list, owner, exceptKey) {
     if (!owner) return [];
     const ownerLower = owner.toLowerCase();
@@ -150,56 +153,38 @@ function diffProperties(oldList, newList) {
     return messages;
 }
 
-// ---------- Основний цикл ----------
-
-async function check() {
-    const time = new Date().toLocaleString('uk-UA');
-
-    try {
-        const properties = await getProperties();
-        const db = await loadDb();
-
-        if (!db) {
-            await saveDb(properties);
-            console.log(`[${time}] Перший запуск: збережено ${properties.length} об'єктів.`);
-            return;
-        }
-
-        const messages = diffProperties(db.properties, properties);
-
-        if (messages.length) {
-            console.log(`[${time}] Змін: ${messages.length}\n`);
-            console.log(messages.join('\n\n'));
-            console.log();
-
-            // Якщо відправка в Telegram впаде, db.json не оновиться,
-            // і зміни буде повторно знайдено при наступній перевірці
-            await notify(messages);
-        } else {
-            console.log(`[${time}] Змін немає (${properties.length} об'єктів).`);
-        }
-
-        await saveDb(properties);
-    } catch (err) {
-        console.error(`[${time}] Помилка перевірки:`, err.message);
-    }
-}
-
-async function notifyStart() {
-    const time = new Date().toLocaleString('uk-UA');
-    try {
-        await sendTelegram(`✅ Чекер успешно запущен.\n🕒 ${time}`);
-        console.log(`[${time}] Повідомлення про запуск відправлено в Telegram.`);
-    } catch (err) {
-        // помилка Telegram не повинна зупиняти запуск чекера
-        console.error(`[${time}] Не вдалося відправити повідомлення про запуск:`, err.message);
-    }
-}
+// ---------- Один прохід ----------
 
 async function main() {
-    await notifyStart();
-    await check();
-    setInterval(check, INTERVAL_MS);
+    const time = new Date().toISOString();
+    const properties = await getProperties();
+    const db = await loadDb();
+
+    if (!db) {
+        await saveDb(properties);
+        console.log(`[${time}] Перший запуск: збережено ${properties.length} об'єктів.`);
+        return;
+    }
+
+    const messages = diffProperties(db.properties, properties);
+
+    if (messages.length) {
+        console.log(`[${time}] Змін: ${messages.length}\n`);
+        console.log(messages.join('\n\n'));
+        await notify(messages); // якщо впаде, db.json не оновиться
+    } else {
+        console.log(`[${time}] Змін немає (${properties.length} об'єктів).`);
+    }
+
+    // Файл перезаписуємо лише коли дані справді змінилися,
+    // щоб у репозиторій не летіли зайві коміти
+    if (JSON.stringify(db.properties) !== JSON.stringify(properties)) {
+        await saveDb(properties);
+        console.log('db.json оновлено.');
+    }
 }
 
-main();
+main().catch((err) => {
+    console.error('Помилка перевірки:', err.message);
+    process.exit(1);
+});

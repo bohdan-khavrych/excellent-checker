@@ -1,0 +1,37 @@
+name: House Checker
+
+on:
+  schedule:
+    - cron: '3-58/5 * * * *'   # кожні 5 хв, зі зсувом на 3 хв (менше затримок)
+  workflow_dispatch:           # кнопка ручного запуску
+
+permissions:
+  contents: write
+
+concurrency:
+  group: house-checker
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run checker
+        run: node index.js
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+
+      - name: Save db.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add db.json
+          git diff --cached --quiet || (git commit -m "update db" && git push)
