@@ -9328,8 +9328,8 @@
       "x": 1368.84,
       "y": -1279.84,
       "price": 1450000,
-      "owner": "Nick_Rover",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "business",
