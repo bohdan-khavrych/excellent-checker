@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T08:04:31.973Z",
+  "updatedAt": "2026-11-18T08:08:18.632Z",
   "properties": [
     {
       "kind": "house",
@@ -58,8 +58,8 @@
       "x": 1895.66,
       "y": -2068.9,
       "price": 100000,
-      "owner": null,
-      "owned": false
+      "owner": "Alex_Cobra",
+      "owned": true
     },
     {
       "kind": "house",
