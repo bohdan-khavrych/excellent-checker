@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T16:26:17.648Z",
+  "updatedAt": "2026-11-18T16:36:34.871Z",
   "properties": [
     {
       "kind": "house",
@@ -9558,8 +9558,8 @@
       "x": -2624.76,
       "y": 1412.72,
       "price": 1150000,
-      "owner": "Daniel_Forette",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "business",
