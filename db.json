@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T16:01:33.820Z",
+  "updatedAt": "2026-11-18T16:04:34.299Z",
   "properties": [
     {
       "kind": "house",
@@ -6518,8 +6518,8 @@
       "x": -247.866,
       "y": 1001.14,
       "price": 300000,
-      "owner": "John_Parker",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
