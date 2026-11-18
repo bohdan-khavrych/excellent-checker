@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T13:38:17.849Z",
+  "updatedAt": "2026-11-18T14:26:19.687Z",
   "properties": [
     {
       "kind": "house",
@@ -6708,8 +6708,8 @@
       "x": -89.1267,
       "y": -1564.49,
       "price": 38000,
-      "owner": null,
-      "owned": false
+      "owner": "Gavrilia_Escobar",
+      "owned": true
     },
     {
       "kind": "house",
