@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T21:56:21.374Z",
+  "updatedAt": "2026-11-18T22:01:09.114Z",
   "properties": [
     {
       "kind": "house",
@@ -5488,8 +5488,8 @@
       "x": 2293.82,
       "y": -124.224,
       "price": 132000,
-      "owner": null,
-      "owned": false
+      "owner": "Hugo_Hegwin",
+      "owned": true
     },
     {
       "kind": "house",
