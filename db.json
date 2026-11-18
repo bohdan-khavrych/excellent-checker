@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T17:10:36.973Z",
+  "updatedAt": "2026-11-18T17:30:58.552Z",
   "properties": [
     {
       "kind": "house",
@@ -8938,8 +8938,8 @@
       "x": 3156.14,
       "y": -395.497,
       "price": 10000000,
-      "owner": null,
-      "owned": false
+      "owner": "Guzman_Castellano",
+      "owned": true
     },
     {
       "kind": "house",
