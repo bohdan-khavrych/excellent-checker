@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T16:36:34.871Z",
+  "updatedAt": "2026-11-18T17:10:36.973Z",
   "properties": [
     {
       "kind": "house",
@@ -9558,8 +9558,8 @@
       "x": -2624.76,
       "y": 1412.72,
       "price": 1150000,
-      "owner": null,
-      "owned": false
+      "owner": "Maksym_Medow",
+      "owned": true
     },
     {
       "kind": "business",
