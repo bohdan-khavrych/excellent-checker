@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T00:01:13.063Z",
+  "updatedAt": "2026-11-18T07:01:15.796Z",
   "properties": [
     {
       "kind": "house",
@@ -6218,8 +6218,8 @@
       "x": 1969.64,
       "y": 2664.25,
       "price": 390000,
-      "owner": "Koldyn_Abuser",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -8958,8 +8958,8 @@
       "x": 3151.32,
       "y": -346.761,
       "price": 10000000,
-      "owner": "Eduardo_Villaescuza",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
