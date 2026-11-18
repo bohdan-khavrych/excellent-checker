@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T18:22:18.500Z",
+  "updatedAt": "2026-11-18T19:04:32.371Z",
   "properties": [
     {
       "kind": "house",
@@ -3618,8 +3618,8 @@
       "x": -2517.11,
       "y": 1142.41,
       "price": 480000,
-      "owner": "David_Price",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
