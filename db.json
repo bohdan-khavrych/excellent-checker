@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T23:18:21.321Z",
+  "updatedAt": "2026-11-18T00:01:13.063Z",
   "properties": [
     {
       "kind": "house",
@@ -7468,8 +7468,8 @@
       "x": 1641.19,
       "y": 2149.81,
       "price": 143000,
-      "owner": "Takeshi_Yamashita",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
