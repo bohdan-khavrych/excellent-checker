@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T09:24:16.986Z",
+  "updatedAt": "2026-11-18T09:26:30.156Z",
   "properties": [
     {
       "kind": "house",
@@ -378,8 +378,8 @@
       "x": 2067.09,
       "y": -1731.56,
       "price": 90000,
-      "owner": "Lance_Akkerman",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
