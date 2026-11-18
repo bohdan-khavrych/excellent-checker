@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T20:48:19.329Z",
+  "updatedAt": "2026-11-18T21:01:16.490Z",
   "properties": [
     {
       "kind": "house",
@@ -1288,8 +1288,8 @@
       "x": 2582.94,
       "y": -952.929,
       "price": 100000,
-      "owner": "Abu_Sulim",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -1298,8 +1298,8 @@
       "x": 2581.51,
       "y": -969.332,
       "price": 110000,
-      "owner": "Abu_Sulim",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -4358,8 +4358,8 @@
       "x": 2317.12,
       "y": 690.71,
       "price": 970000,
-      "owner": "Renatra_Flocka",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -5488,8 +5488,8 @@
       "x": 2293.82,
       "y": -124.224,
       "price": 132000,
-      "owner": "Shiny_Kenobi",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
