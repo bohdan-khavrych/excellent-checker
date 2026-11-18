@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T09:26:30.156Z",
+  "updatedAt": "2026-11-18T09:31:00.743Z",
   "properties": [
     {
       "kind": "house",
@@ -378,8 +378,8 @@
       "x": 2067.09,
       "y": -1731.56,
       "price": 90000,
-      "owner": null,
-      "owned": false
+      "owner": "Lil_Uzi",
+      "owned": true
     },
     {
       "kind": "house",
