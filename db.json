@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T21:01:16.490Z",
+  "updatedAt": "2026-11-18T21:16:18.316Z",
   "properties": [
     {
       "kind": "house",
@@ -8728,8 +8728,8 @@
       "x": 1030.37,
       "y": 1976.13,
       "price": 475000,
-      "owner": "Jonathan_Statham",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
