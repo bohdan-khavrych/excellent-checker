@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T15:44:18.266Z",
+  "updatedAt": "2026-11-19T16:01:14.922Z",
   "properties": [
     {
       "kind": "house",
@@ -1228,8 +1228,8 @@
       "x": 2284.14,
       "y": -1046.07,
       "price": 70000,
-      "owner": "Carla_Cute",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -5768,8 +5768,8 @@
       "x": -2437.41,
       "y": 2354.57,
       "price": 200000,
-      "owner": "Mike_Helm",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
