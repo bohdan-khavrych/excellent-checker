@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T07:12:19.026Z",
+  "updatedAt": "2026-11-19T07:40:34.613Z",
   "properties": [
     {
       "kind": "house",
@@ -6708,8 +6708,8 @@
       "x": -89.1267,
       "y": -1564.49,
       "price": 38000,
-      "owner": "Alex_Akimov",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
