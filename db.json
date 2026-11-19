@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T11:18:17.259Z",
+  "updatedAt": "2026-11-19T11:32:17.982Z",
   "properties": [
     {
       "kind": "house",
@@ -3628,8 +3628,8 @@
       "x": -2506.39,
       "y": 1142.15,
       "price": 470000,
-      "owner": "Bishop_Aquino",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
