@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T12:08:18.330Z",
+  "updatedAt": "2026-11-19T13:01:16.324Z",
   "properties": [
     {
       "kind": "house",
@@ -4088,8 +4088,8 @@
       "x": 2398.14,
       "y": 736.096,
       "price": 780000,
-      "owner": "Norman_Gray",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
