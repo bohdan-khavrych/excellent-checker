@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:38:21.750Z",
+  "updatedAt": "2026-11-19T19:01:15.613Z",
   "properties": [
     {
       "kind": "house",
@@ -4408,8 +4408,8 @@
       "x": 2122.62,
       "y": 732.104,
       "price": 870000,
-      "owner": "Jamal_Cartel",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -4448,8 +4448,8 @@
       "x": 2013.24,
       "y": 730.954,
       "price": 560000,
-      "owner": "Makc_Nazarbaev",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -7308,8 +7308,8 @@
       "x": 312.79,
       "y": -121.31,
       "price": 140000,
-      "owner": "Aurelio_Latte",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
