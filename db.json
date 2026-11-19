@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T14:01:13.198Z",
+  "updatedAt": "2026-11-19T15:44:18.266Z",
   "properties": [
     {
       "kind": "house",
@@ -6708,8 +6708,8 @@
       "x": -89.1267,
       "y": -1564.49,
       "price": 38000,
-      "owner": null,
-      "owned": false
+      "owner": "John_Rockefeller",
+      "owned": true
     },
     {
       "kind": "house",
