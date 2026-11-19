@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T19:56:16.982Z",
+  "updatedAt": "2026-11-19T20:01:27.387Z",
   "properties": [
     {
       "kind": "house",
@@ -7958,8 +7958,8 @@
       "x": 2237.96,
       "y": -1906.76,
       "price": 82300,
-      "owner": null,
-      "owned": false
+      "owner": "Sebastian_Twerrta",
+      "owned": true
     },
     {
       "kind": "house",
