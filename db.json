@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T00:34:15.888Z",
+  "updatedAt": "2026-11-19T03:28:18.016Z",
   "properties": [
     {
       "kind": "house",
@@ -58,8 +58,8 @@
       "x": 1895.66,
       "y": -2068.9,
       "price": 100000,
-      "owner": "Alex_Cobra",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -608,7 +608,7 @@
       "x": 2362.98,
       "y": -1643.16,
       "price": 60000,
-      "owner": "Fernando_Torrero",
+      "owner": "Alex_Cobra",
       "owned": true
     },
     {
