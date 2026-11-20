@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T23:06:19.819Z",
+  "updatedAt": "2026-11-20T23:20:47.940Z",
   "properties": [
     {
       "kind": "house",
@@ -8028,8 +8028,8 @@
       "x": 2275.82,
       "y": -1785.58,
       "price": 88200,
-      "owner": null,
-      "owned": false
+      "owner": "Liam_Sterling",
+      "owned": true
     },
     {
       "kind": "house",
