@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T18:06:26.034Z",
+  "updatedAt": "2026-11-20T18:10:43.372Z",
   "properties": [
     {
       "kind": "house",
@@ -3868,8 +3868,8 @@
       "x": 784.405,
       "y": -1436.04,
       "price": 800000,
-      "owner": null,
-      "owned": false
+      "owner": "Pasquale_Quincy",
+      "owned": true
     },
     {
       "kind": "house",
