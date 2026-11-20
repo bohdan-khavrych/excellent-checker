@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T15:34:23.282Z",
+  "updatedAt": "2026-11-20T15:40:42.108Z",
   "properties": [
     {
       "kind": "house",
@@ -7508,8 +7508,8 @@
       "x": 1596.46,
       "y": 2093.76,
       "price": 140000,
-      "owner": null,
-      "owned": false
+      "owner": "Eugenio_Saltaformajo",
+      "owned": true
     },
     {
       "kind": "house",
