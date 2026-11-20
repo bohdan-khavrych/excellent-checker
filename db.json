@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T16:54:25.242Z",
+  "updatedAt": "2026-11-20T17:01:20.913Z",
   "properties": [
     {
       "kind": "house",
@@ -48,8 +48,8 @@
       "x": 977.302,
       "y": -771.713,
       "price": 1800000,
-      "owner": "Israel_Yehuda",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -2278,8 +2278,8 @@
       "x": 1034.65,
       "y": -813.225,
       "price": 1250000,
-      "owner": "Tyaga_Navaro",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
