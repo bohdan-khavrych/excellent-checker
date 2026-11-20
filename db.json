@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T21:02:34.897Z",
+  "updatedAt": "2026-11-20T21:06:28.268Z",
   "properties": [
     {
       "kind": "house",
@@ -368,8 +368,8 @@
       "x": 2066.25,
       "y": -1716.91,
       "price": 90000,
-      "owner": null,
-      "owned": false
+      "owner": "Macho_Layers",
+      "owned": true
     },
     {
       "kind": "house",
@@ -2938,7 +2938,7 @@
       "x": 951.137,
       "y": -909.212,
       "price": 2500000,
-      "owner": "Richard_Markowkin",
+      "owner": "Maksym_Medow",
       "owned": true
     },
     {
@@ -2948,7 +2948,7 @@
       "x": 954.099,
       "y": -909.018,
       "price": 2500000,
-      "owner": "Richard_Markowkin",
+      "owner": "Maksym_Medow",
       "owned": true
     },
     {
@@ -4708,7 +4708,7 @@
       "x": -310.685,
       "y": 1303.54,
       "price": 1140000,
-      "owner": "Maksym_Medow",
+      "owner": "Renjiro_Tamura",
       "owned": true
     },
     {
@@ -9468,7 +9468,7 @@
       "x": 171.858,
       "y": -200.856,
       "price": 170000,
-      "owner": "Fernando_Florenzo",
+      "owner": "Omon_Vasquez",
       "owned": true
     },
     {
