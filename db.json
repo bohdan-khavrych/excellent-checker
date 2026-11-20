@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T20:01:22.323Z",
+  "updatedAt": "2026-11-20T21:01:15.786Z",
   "properties": [
     {
       "kind": "house",
@@ -1528,8 +1528,8 @@
       "x": 2152.21,
       "y": -1446.58,
       "price": 140000,
-      "owner": "Anim_Animov",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -6928,8 +6928,8 @@
       "x": -121.185,
       "y": 857.596,
       "price": 35000,
-      "owner": "Carlo_Parliament",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
