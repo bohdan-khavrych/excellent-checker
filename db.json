@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T13:01:20.899Z",
+  "updatedAt": "2026-11-20T13:06:37.718Z",
   "properties": [
     {
       "kind": "house",
@@ -1748,8 +1748,8 @@
       "x": 2133.32,
       "y": -1232.99,
       "price": 130000,
-      "owner": "Ewear_Feal",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -1968,8 +1968,8 @@
       "x": 2259.42,
       "y": -1019.12,
       "price": 160000,
-      "owner": null,
-      "owned": false
+      "owner": "Ewear_Feal",
+      "owned": true
     },
     {
       "kind": "house",
