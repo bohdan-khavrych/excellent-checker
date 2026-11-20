@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T11:58:21.454Z",
+  "updatedAt": "2026-11-20T13:01:20.899Z",
   "properties": [
     {
       "kind": "house",
@@ -7168,8 +7168,8 @@
       "x": 1419.41,
       "y": 389.579,
       "price": 35000,
-      "owner": "Niko_Nuko",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
