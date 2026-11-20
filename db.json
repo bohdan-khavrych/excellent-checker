@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T13:06:37.718Z",
+  "updatedAt": "2026-11-20T13:26:23.020Z",
   "properties": [
     {
       "kind": "house",
@@ -5058,8 +5058,8 @@
       "x": 1564.55,
       "y": 2793.57,
       "price": 597000,
-      "owner": null,
-      "owned": false
+      "owner": "Dino_Shved",
+      "owned": true
     },
     {
       "kind": "house",
