@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T15:40:42.108Z",
+  "updatedAt": "2026-11-20T15:48:21.369Z",
   "properties": [
     {
       "kind": "house",
@@ -1018,8 +1018,8 @@
       "x": 2576.67,
       "y": -1070.81,
       "price": 150000,
-      "owner": null,
-      "owned": false
+      "owner": "Scatch_Reyes",
+      "owned": true
     },
     {
       "kind": "house",
