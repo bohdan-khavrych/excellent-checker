@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T11:08:21.876Z",
+  "updatedAt": "2026-11-20T11:58:21.454Z",
   "properties": [
     {
       "kind": "house",
@@ -218,8 +218,8 @@
       "x": 1761.25,
       "y": -2125.43,
       "price": 91000,
-      "owner": "Macho_Layers",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
