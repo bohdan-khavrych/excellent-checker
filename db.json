@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T19:40:40.032Z",
+  "updatedAt": "2026-11-20T20:01:22.323Z",
   "properties": [
     {
       "kind": "house",
@@ -1788,8 +1788,8 @@
       "x": 2111.2,
       "y": -1278.99,
       "price": 160000,
-      "owner": "Tony_Fargo",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
