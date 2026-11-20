@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T15:48:21.369Z",
+  "updatedAt": "2026-11-20T16:01:19.572Z",
   "properties": [
     {
       "kind": "house",
@@ -6908,8 +6908,8 @@
       "x": -150.196,
       "y": 2687.87,
       "price": 34000,
-      "owner": "Kenshin_Nakamuro",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
