@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T21:01:15.786Z",
+  "updatedAt": "2026-11-20T21:02:34.897Z",
   "properties": [
     {
       "kind": "house",
@@ -368,8 +368,8 @@
       "x": 2066.25,
       "y": -1716.91,
       "price": 90000,
-      "owner": "Maximus_Layers",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -8838,8 +8838,8 @@
       "x": 1461.09,
       "y": 342.466,
       "price": 35000,
-      "owner": "Renjiro_Tamura",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
