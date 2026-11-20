@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T17:14:21.390Z",
+  "updatedAt": "2026-11-20T17:18:27.152Z",
   "properties": [
     {
       "kind": "house",
@@ -1478,8 +1478,8 @@
       "x": 2011.41,
       "y": -1594.33,
       "price": 160000,
-      "owner": null,
-      "owned": false
+      "owner": "Battista_Kietzman",
+      "owned": true
     },
     {
       "kind": "house",
