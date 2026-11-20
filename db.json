@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T17:01:20.913Z",
+  "updatedAt": "2026-11-20T17:02:22.487Z",
   "properties": [
     {
       "kind": "house",
@@ -2278,8 +2278,8 @@
       "x": 1034.65,
       "y": -813.225,
       "price": 1250000,
-      "owner": null,
-      "owned": false
+      "owner": "Fernando_Torrero",
+      "owned": true
     },
     {
       "kind": "house",
