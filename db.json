@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T14:48:26.176Z",
+  "updatedAt": "2026-11-20T15:28:24.245Z",
   "properties": [
     {
       "kind": "house",
@@ -668,8 +668,8 @@
       "x": 2524.33,
       "y": -1998.3,
       "price": 102000,
-      "owner": null,
-      "owned": false
+      "owner": "Dracula_Provincent",
+      "owned": true
     },
     {
       "kind": "house",
