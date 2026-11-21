@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T13:40:44.709Z",
+  "updatedAt": "2026-11-21T14:12:31.545Z",
   "properties": [
     {
       "kind": "house",
@@ -638,8 +638,8 @@
       "x": 2486.38,
       "y": -2021.55,
       "price": 115000,
-      "owner": null,
-      "owned": false
+      "owner": "Monserrrrrrrr_Saxa",
+      "owned": true
     },
     {
       "kind": "house",
