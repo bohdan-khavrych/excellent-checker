@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T10:16:22.972Z",
+  "updatedAt": "2026-11-21T12:01:14.462Z",
   "properties": [
     {
       "kind": "house",
@@ -1618,8 +1618,8 @@
       "x": 2191.13,
       "y": -1455.77,
       "price": 130000,
-      "owner": "John_Carpenter",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
