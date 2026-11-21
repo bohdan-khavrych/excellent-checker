@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T18:40:42.845Z",
+  "updatedAt": "2026-11-21T18:52:38.252Z",
   "properties": [
     {
       "kind": "house",
@@ -2778,7 +2778,7 @@
       "x": 841.229,
       "y": -1471.36,
       "price": 1500000,
-      "owner": "Gabriello_Gallardo",
+      "owner": "Gabriello_Murzella",
       "owned": true
     },
     {
@@ -5248,7 +5248,7 @@
       "x": 2518.5,
       "y": 128.338,
       "price": 158000,
-      "owner": "Gabriello_Gallardo",
+      "owner": "Gabriello_Murzella",
       "owned": true
     },
     {
@@ -5438,7 +5438,7 @@
       "x": 2324.46,
       "y": 162.369,
       "price": 225000,
-      "owner": "Gabriello_Gallardo",
+      "owner": "Gabriello_Murzella",
       "owned": true
     },
     {
@@ -10308,7 +10308,7 @@
       "x": 2119.28,
       "y": 925.397,
       "price": 525500,
-      "owner": "Gabriello_Gallardo",
+      "owner": "Gabriello_Murzella",
       "owned": true
     },
     {
