@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T13:24:21.605Z",
+  "updatedAt": "2026-11-21T13:32:22.025Z",
   "properties": [
     {
       "kind": "house",
@@ -7978,8 +7978,8 @@
       "x": 2359.91,
       "y": -1795.95,
       "price": 91000,
-      "owner": null,
-      "owned": false
+      "owner": "Edward_Tornero",
+      "owned": true
     },
     {
       "kind": "house",
