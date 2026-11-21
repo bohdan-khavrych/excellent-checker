@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T01:01:10.803Z",
+  "updatedAt": "2026-11-21T02:01:24.290Z",
   "properties": [
     {
       "kind": "house",
@@ -5628,8 +5628,8 @@
       "x": -2069.6,
       "y": -2495.04,
       "price": 32000,
-      "owner": "Pedro_Castor",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
