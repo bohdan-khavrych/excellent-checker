@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T13:32:22.025Z",
+  "updatedAt": "2026-11-21T13:40:44.709Z",
   "properties": [
     {
       "kind": "house",
@@ -1908,8 +1908,8 @@
       "x": 1955.13,
       "y": -1115.4,
       "price": 140000,
-      "owner": null,
-      "owned": false
+      "owner": "Andreas_Lauren",
+      "owned": true
     },
     {
       "kind": "house",
