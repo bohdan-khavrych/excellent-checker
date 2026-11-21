@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T09:40:40.636Z",
+  "updatedAt": "2026-11-21T10:16:22.972Z",
   "properties": [
     {
       "kind": "house",
@@ -7558,8 +7558,8 @@
       "x": 1680.38,
       "y": 2069.17,
       "price": 148000,
-      "owner": null,
-      "owned": false
+      "owner": "Gygynda_Gygynpole",
+      "owned": true
     },
     {
       "kind": "house",
