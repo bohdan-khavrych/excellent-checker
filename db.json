@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T16:54:22.358Z",
+  "updatedAt": "2026-11-21T17:01:13.481Z",
   "properties": [
     {
       "kind": "house",
@@ -328,8 +328,8 @@
       "x": 2067.71,
       "y": -1628.83,
       "price": 150000,
-      "owner": "Dal_Sapphire",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -3688,8 +3688,8 @@
       "x": 1141.81,
       "y": -1068.6,
       "price": 400000,
-      "owner": "Lorenzo_Mitchell",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
