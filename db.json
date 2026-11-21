@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T19:34:20.850Z",
+  "updatedAt": "2026-11-21T20:01:12.586Z",
   "properties": [
     {
       "kind": "house",
@@ -6328,8 +6328,8 @@
       "x": 2018.62,
       "y": 2766.68,
       "price": 1150000,
-      "owner": "Ksusha_LaFuente",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
