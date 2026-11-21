@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T13:20:43.036Z",
+  "updatedAt": "2026-11-21T13:24:21.605Z",
   "properties": [
     {
       "kind": "house",
@@ -7848,8 +7848,8 @@
       "x": 1453.8,
       "y": 2027,
       "price": 50000,
-      "owner": null,
-      "owned": false
+      "owner": "Daryi_Sobakov",
+      "owned": true
     },
     {
       "kind": "house",
