@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T20:01:12.586Z",
+  "updatedAt": "2026-11-21T20:31:10.658Z",
   "properties": [
     {
       "kind": "house",
@@ -48,8 +48,8 @@
       "x": 977.302,
       "y": -771.713,
       "price": 1800000,
-      "owner": "Sergio_Asad",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
