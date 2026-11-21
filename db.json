@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T17:04:20.679Z",
+  "updatedAt": "2026-11-21T18:01:19.587Z",
   "properties": [
     {
       "kind": "house",
@@ -358,7 +358,7 @@
       "x": 2065.12,
       "y": -1703.61,
       "price": 210000,
-      "owner": "Grozzatius_Herrera",
+      "owner": "Donkihote_Flou",
       "owned": true
     },
     {
@@ -6458,8 +6458,8 @@
       "x": -258.31,
       "y": 1151.12,
       "price": 340000,
-      "owner": "Korben_Dallas",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
