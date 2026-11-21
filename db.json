@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T07:46:21.874Z",
+  "updatedAt": "2026-11-21T08:20:45.542Z",
   "properties": [
     {
       "kind": "house",
@@ -8678,8 +8678,8 @@
       "x": 294.873,
       "y": -1623.71,
       "price": 500000,
-      "owner": null,
-      "owned": false
+      "owner": "Ross_Disquze",
+      "owned": true
     },
     {
       "kind": "house",
