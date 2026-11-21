@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T08:42:30.867Z",
+  "updatedAt": "2026-11-21T09:40:40.636Z",
   "properties": [
     {
       "kind": "house",
@@ -618,8 +618,8 @@
       "x": 2437.95,
       "y": -2020.83,
       "price": 110000,
-      "owner": null,
-      "owned": false
+      "owner": "Richard_Rolinson",
+      "owned": true
     },
     {
       "kind": "house",
