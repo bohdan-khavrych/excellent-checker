@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T14:44:22.554Z",
+  "updatedAt": "2026-11-21T14:48:23.545Z",
   "properties": [
     {
       "kind": "house",
@@ -648,8 +648,8 @@
       "x": 2507.97,
       "y": -2021.03,
       "price": 111000,
-      "owner": null,
-      "owned": false
+      "owner": "Dexter_Scaletta",
+      "owned": true
     },
     {
       "kind": "house",
