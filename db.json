@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T11:44:20.073Z",
+  "updatedAt": "2026-11-22T12:01:11.949Z",
   "properties": [
     {
       "kind": "house",
@@ -1928,8 +1928,8 @@
       "x": 1921.31,
       "y": -1115.28,
       "price": 150000,
-      "owner": "Levontiy_Sapphire",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
