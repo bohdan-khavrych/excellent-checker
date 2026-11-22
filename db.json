@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T16:58:22.743Z",
+  "updatedAt": "2026-11-22T17:01:15.435Z",
   "properties": [
     {
       "kind": "house",
@@ -4528,8 +4528,8 @@
       "x": 1439.71,
       "y": 1952.07,
       "price": 450000,
-      "owner": "Jordan_Lugo",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
