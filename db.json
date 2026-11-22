@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T13:06:24.208Z",
+  "updatedAt": "2026-11-22T13:10:41.333Z",
   "properties": [
     {
       "kind": "house",
@@ -7278,8 +7278,8 @@
       "x": 342.534,
       "y": 62.7402,
       "price": 36000,
-      "owner": "Tony_Hollister",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
