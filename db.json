@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T14:06:31.590Z",
+  "updatedAt": "2026-11-22T15:01:13.801Z",
   "properties": [
     {
       "kind": "house",
@@ -5188,8 +5188,8 @@
       "x": 2374.3,
       "y": 71.1556,
       "price": 160000,
-      "owner": "Jorik_Vortanov",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
