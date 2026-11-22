@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T13:04:22.744Z",
+  "updatedAt": "2026-11-22T13:06:24.208Z",
   "properties": [
     {
       "kind": "house",
@@ -3428,8 +3428,8 @@
       "x": -2018.55,
       "y": 832.006,
       "price": 370000,
-      "owner": null,
-      "owned": false
+      "owner": "Akella_Borz",
+      "owned": true
     },
     {
       "kind": "house",
@@ -7278,8 +7278,8 @@
       "x": 342.534,
       "y": 62.7402,
       "price": 36000,
-      "owner": null,
-      "owned": false
+      "owner": "Tony_Hollister",
+      "owned": true
     },
     {
       "kind": "house",
