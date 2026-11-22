@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T11:30:58.830Z",
+  "updatedAt": "2026-11-22T11:44:20.073Z",
   "properties": [
     {
       "kind": "house",
@@ -1968,8 +1968,8 @@
       "x": 2259.42,
       "y": -1019.12,
       "price": 160000,
-      "owner": null,
-      "owned": false
+      "owner": "Hypnoxus_Aon",
+      "owned": true
     },
     {
       "kind": "house",
