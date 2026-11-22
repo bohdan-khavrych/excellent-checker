@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T18:01:16.000Z",
+  "updatedAt": "2026-11-22T18:20:49.498Z",
   "properties": [
     {
       "kind": "house",
@@ -4888,7 +4888,7 @@
       "x": 1417.75,
       "y": 2567.84,
       "price": 980000,
-      "owner": "Diego_Murzella",
+      "owner": "Lina_Decado",
       "owned": true
     },
     {
@@ -8968,8 +8968,8 @@
       "x": 3206.94,
       "y": -341.251,
       "price": 10000000,
-      "owner": null,
-      "owned": false
+      "owner": "Michael_Lowly",
+      "owned": true
     },
     {
       "kind": "house",
