@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T20:01:15.117Z",
+  "updatedAt": "2026-11-22T22:01:10.710Z",
   "properties": [
     {
       "kind": "house",
@@ -1628,8 +1628,8 @@
       "x": 2190.45,
       "y": -1470.41,
       "price": 130000,
-      "owner": "El_Sethiwe",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -4708,7 +4708,7 @@
       "x": -310.685,
       "y": 1303.54,
       "price": 1140000,
-      "owner": "Angel_Parliament",
+      "owner": "Angel_Murz",
       "owned": true
     },
     {
