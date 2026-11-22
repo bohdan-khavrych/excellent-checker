@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T12:52:19.919Z",
+  "updatedAt": "2026-11-22T12:54:25.170Z",
   "properties": [
     {
       "kind": "house",
@@ -6188,8 +6188,8 @@
       "x": 2037,
       "y": 2663.98,
       "price": 382000,
-      "owner": "Akella_Borz",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -8888,8 +8888,8 @@
       "x": 1303.6,
       "y": 186.089,
       "price": 34000,
-      "owner": null,
-      "owned": false
+      "owner": "Andrew_Wakedon",
+      "owned": true
     },
     {
       "kind": "house",
