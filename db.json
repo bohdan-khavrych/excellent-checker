@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T08:46:21.654Z",
+  "updatedAt": "2026-11-22T10:52:29.254Z",
   "properties": [
     {
       "kind": "house",
@@ -7248,8 +7248,8 @@
       "x": 705.483,
       "y": 292.012,
       "price": 31000,
-      "owner": null,
-      "owned": false
+      "owner": "Evgeniy_Sliva",
+      "owned": true
     },
     {
       "kind": "house",
