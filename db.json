@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T13:10:41.333Z",
+  "updatedAt": "2026-11-22T13:38:19.942Z",
   "properties": [
     {
       "kind": "house",
@@ -48,8 +48,8 @@
       "x": 977.302,
       "y": -771.713,
       "price": 1800000,
-      "owner": null,
-      "owned": false
+      "owner": "Diego_Murzella",
+      "owned": true
     },
     {
       "kind": "house",
