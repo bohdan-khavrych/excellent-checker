@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T19:30:58.309Z",
+  "updatedAt": "2026-11-22T20:01:15.117Z",
   "properties": [
     {
       "kind": "house",
@@ -188,8 +188,8 @@
       "x": 1695.59,
       "y": -2125.82,
       "price": 90000,
-      "owner": "Darryl_Wade",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
