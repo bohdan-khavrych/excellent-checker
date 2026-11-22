@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T23:08:21.489Z",
+  "updatedAt": "2026-11-22T00:04:21.343Z",
   "properties": [
     {
       "kind": "house",
@@ -8008,8 +8008,8 @@
       "x": 2307.67,
       "y": -1785.63,
       "price": 87000,
-      "owner": "Stariy_Vor",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
