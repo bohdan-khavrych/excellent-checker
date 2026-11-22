@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T17:16:00.666Z",
+  "updatedAt": "2026-11-22T18:01:16.000Z",
   "properties": [
     {
       "kind": "house",
@@ -318,8 +318,8 @@
       "x": 2018.04,
       "y": -1629.83,
       "price": 160000,
-      "owner": "Soprano_Notineki",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -1918,8 +1918,8 @@
       "x": 1939.29,
       "y": -1114.5,
       "price": 180000,
-      "owner": "Donkihote_Flou",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -6638,8 +6638,8 @@
       "x": -636.528,
       "y": 1446.85,
       "price": 36000,
-      "owner": "Asyia_Penetration",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
