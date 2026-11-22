@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T19:08:19.227Z",
+  "updatedAt": "2026-11-22T19:16:23.117Z",
   "properties": [
     {
       "kind": "house",
@@ -6458,8 +6458,8 @@
       "x": -258.31,
       "y": 1151.12,
       "price": 340000,
-      "owner": null,
-      "owned": false
+      "owner": "Leon_Maddy",
+      "owned": true
     },
     {
       "kind": "house",
