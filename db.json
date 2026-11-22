@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T10:52:29.254Z",
+  "updatedAt": "2026-11-22T10:56:21.408Z",
   "properties": [
     {
       "kind": "house",
@@ -7188,8 +7188,8 @@
       "x": 758.839,
       "y": 375.017,
       "price": 36000,
-      "owner": "Dean_Arriano",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
