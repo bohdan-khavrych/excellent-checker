@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T15:08:33.237Z",
+  "updatedAt": "2026-11-23T15:50:39.705Z",
   "properties": [
     {
       "kind": "house",
@@ -4668,8 +4668,8 @@
       "x": -2725.07,
       "y": -92.5829,
       "price": 950000,
-      "owner": null,
-      "owned": false
+      "owner": "Joshua_Reed",
+      "owned": true
     },
     {
       "kind": "house",
