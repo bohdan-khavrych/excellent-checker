@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T15:50:39.705Z",
+  "updatedAt": "2026-11-23T16:06:27.046Z",
   "properties": [
     {
       "kind": "house",
@@ -4448,8 +4448,8 @@
       "x": 2013.24,
       "y": 730.954,
       "price": 560000,
-      "owner": null,
-      "owned": false
+      "owner": "Bernardo_Curtis",
+      "owned": true
     },
     {
       "kind": "house",
