@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T23:32:22.802Z",
+  "updatedAt": "2026-11-23T06:01:11.070Z",
   "properties": [
     {
       "kind": "house",
@@ -298,8 +298,8 @@
       "x": 2013.57,
       "y": -1656.25,
       "price": 170000,
-      "owner": "Roy_Cordero",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
