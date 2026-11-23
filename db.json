@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T18:24:22.362Z",
+  "updatedAt": "2026-11-23T18:50:38.758Z",
   "properties": [
     {
       "kind": "house",
@@ -10348,7 +10348,7 @@
       "x": -1476.56,
       "y": 1859.91,
       "price": 525500,
-      "owner": "Ewear_Feal",
+      "owner": "Salvador_Lendazzo",
       "owned": true
     },
     {
@@ -10751,6 +10751,5 @@
       "owner": "Tyler_Pernyl",
       "owned": true
     }
-  ],
-  "fetchFailing": true
+  ]
 }
