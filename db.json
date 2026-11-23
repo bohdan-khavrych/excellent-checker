@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T16:10:39.127Z",
+  "updatedAt": "2026-11-23T16:14:25.672Z",
   "properties": [
     {
       "kind": "house",
@@ -6358,8 +6358,8 @@
       "x": 1929.5,
       "y": 2774.33,
       "price": 1200000,
-      "owner": null,
-      "owned": false
+      "owner": "Alex_Arasaka",
+      "owned": true
     },
     {
       "kind": "house",
