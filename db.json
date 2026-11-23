@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T19:48:24.059Z",
+  "updatedAt": "2026-11-23T20:01:07.060Z",
   "properties": [
     {
       "kind": "house",
@@ -7198,8 +7198,8 @@
       "x": 805.377,
       "y": 358.444,
       "price": 36000,
-      "owner": "Leonardo_Prickle",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
