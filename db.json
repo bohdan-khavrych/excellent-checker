@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T18:50:38.758Z",
+  "updatedAt": "2026-11-23T19:01:11.200Z",
   "properties": [
     {
       "kind": "house",
@@ -7178,8 +7178,8 @@
       "x": 772.841,
       "y": 348.264,
       "price": 35000,
-      "owner": "Ivan_Goddamn",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
