@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T18:14:20.723Z",
+  "updatedAt": "2026-11-23T18:16:25.731Z",
   "properties": [
     {
       "kind": "house",
@@ -7118,8 +7118,8 @@
       "x": 1465.73,
       "y": 364.276,
       "price": 36000,
-      "owner": "Gabriello_Murzella",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
