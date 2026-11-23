@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T14:20:41.586Z",
+  "updatedAt": "2026-11-23T14:28:21.942Z",
   "properties": [
     {
       "kind": "house",
@@ -3808,8 +3808,8 @@
       "x": 769.205,
       "y": -1696.57,
       "price": 700000,
-      "owner": "Matthew_Holland",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
