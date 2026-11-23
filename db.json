@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T16:14:25.672Z",
+  "updatedAt": "2026-11-23T16:28:33.558Z",
   "properties": [
     {
       "kind": "house",
@@ -7678,8 +7678,8 @@
       "x": 1548.59,
       "y": 1996.41,
       "price": 50000,
-      "owner": "Soul_Mate",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -7708,8 +7708,8 @@
       "x": 1548.65,
       "y": 2003.85,
       "price": 50000,
-      "owner": "Soul_Mate",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
