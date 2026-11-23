@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T14:28:21.942Z",
+  "updatedAt": "2026-11-23T15:01:16.227Z",
   "properties": [
     {
       "kind": "house",
@@ -688,8 +688,8 @@
       "x": 2483.44,
       "y": -1995.35,
       "price": 116000,
-      "owner": "Mike_Subbatini",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
