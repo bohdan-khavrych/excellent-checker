@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T07:48:21.971Z",
+  "updatedAt": "2026-11-23T08:04:22.810Z",
   "properties": [
     {
       "kind": "house",
@@ -2818,8 +2818,8 @@
       "x": 822.256,
       "y": -1505.5,
       "price": 1510000,
-      "owner": null,
-      "owned": false
+      "owner": "Roberto_Catton",
+      "owned": true
     },
     {
       "kind": "house",
