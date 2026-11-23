@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T09:44:21.161Z",
+  "updatedAt": "2026-11-23T10:26:53.004Z",
   "properties": [
     {
       "kind": "house",
@@ -608,8 +608,8 @@
       "x": 2362.98,
       "y": -1643.16,
       "price": 60000,
-      "owner": "Alex_Cobra",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -9578,7 +9578,7 @@
       "x": -1213.89,
       "y": 1830.43,
       "price": 124000,
-      "owner": "Gabriello_Murzella",
+      "owner": "Pablo_Murzella",
       "owned": true
     },
     {
