@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T08:26:21.236Z",
+  "updatedAt": "2026-11-23T09:24:24.606Z",
   "properties": [
     {
       "kind": "house",
@@ -9578,7 +9578,7 @@
       "x": -1213.89,
       "y": 1830.43,
       "price": 124000,
-      "owner": "William_Darkwood",
+      "owner": "Gabriello_Murzella",
       "owned": true
     },
     {
@@ -10348,8 +10348,8 @@
       "x": -1476.56,
       "y": 1859.91,
       "price": 525500,
-      "owner": "William_Darkwood",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "business",
