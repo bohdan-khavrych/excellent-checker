@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T19:01:11.200Z",
+  "updatedAt": "2026-11-23T19:48:24.059Z",
   "properties": [
     {
       "kind": "house",
@@ -278,8 +278,8 @@
       "x": 2016.2,
       "y": -1716.93,
       "price": 90000,
-      "owner": null,
-      "owned": false
+      "owner": "Golden_Vice",
+      "owned": true
     },
     {
       "kind": "house",
