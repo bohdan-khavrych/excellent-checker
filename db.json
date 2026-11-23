@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T09:24:24.606Z",
+  "updatedAt": "2026-11-23T09:28:24.996Z",
   "properties": [
     {
       "kind": "house",
@@ -9888,7 +9888,7 @@
       "x": -1720.95,
       "y": 1359.72,
       "price": 475000,
-      "owner": "William_Darkwood",
+      "owner": "Gabriel_Martell",
       "owned": true
     },
     {
@@ -10348,8 +10348,8 @@
       "x": -1476.56,
       "y": 1859.91,
       "price": 525500,
-      "owner": null,
-      "owned": false
+      "owner": "Ewear_Feal",
+      "owned": true
     },
     {
       "kind": "business",
