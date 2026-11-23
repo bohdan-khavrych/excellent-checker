@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T16:36:24.648Z",
+  "updatedAt": "2026-11-23T17:01:16.855Z",
   "properties": [
     {
       "kind": "house",
@@ -9618,7 +9618,7 @@
       "x": 2331.92,
       "y": 75.1169,
       "price": 145300,
-      "owner": "Salvador_Ortega",
+      "owner": "Tony_Hollister",
       "owned": true
     },
     {
@@ -9728,8 +9728,8 @@
       "x": -2270.6,
       "y": -155.919,
       "price": 840000,
-      "owner": "Lorenzo_Mitchell",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "business",
