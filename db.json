@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T07:01:11.340Z",
+  "updatedAt": "2026-11-23T07:42:24.354Z",
   "properties": [
     {
       "kind": "house",
@@ -2818,8 +2818,8 @@
       "x": 822.256,
       "y": -1505.5,
       "price": 1510000,
-      "owner": "Baron_Night",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -5288,8 +5288,8 @@
       "x": 691.576,
       "y": -1275.91,
       "price": 12500000,
-      "owner": "Baron_Night",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
