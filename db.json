@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T12:01:22.182Z",
+  "updatedAt": "2026-11-24T12:22:21.753Z",
   "properties": [
     {
       "kind": "house",
@@ -2968,8 +2968,8 @@
       "x": -2027.83,
       "y": -40.6418,
       "price": 450000,
-      "owner": null,
-      "owned": false
+      "owner": "Arturka_Torrez",
+      "owned": true
     },
     {
       "kind": "house",
