@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T13:20:53.471Z",
+  "updatedAt": "2026-11-24T14:01:14.826Z",
   "properties": [
     {
       "kind": "house",
@@ -6968,8 +6968,8 @@
       "x": -151.157,
       "y": 933.933,
       "price": 34000,
-      "owner": "Daniel_Escobar",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -10058,7 +10058,7 @@
       "x": 172.995,
       "y": 1177.17,
       "price": 120000,
-      "owner": "Daniel_Escobar",
+      "owner": "Damian_Velasco",
       "owned": true
     },
     {
