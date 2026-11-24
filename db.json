@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T18:01:09.563Z",
+  "updatedAt": "2026-11-24T18:24:41.562Z",
   "properties": [
     {
       "kind": "house",
@@ -2388,8 +2388,8 @@
       "x": 300.332,
       "y": -1154.56,
       "price": 2666000,
-      "owner": "Vadim_Avery",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -2458,8 +2458,8 @@
       "x": 355.371,
       "y": -1281.02,
       "price": 600000,
-      "owner": "Vadim_Avery",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -9958,8 +9958,8 @@
       "x": 2177.43,
       "y": -1311.12,
       "price": 900000,
-      "owner": "Vadim_Avery",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "business",
@@ -10178,8 +10178,8 @@
       "x": 1504.56,
       "y": 2703.59,
       "price": 1500000,
-      "owner": "Vadim_Avery",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "business",
