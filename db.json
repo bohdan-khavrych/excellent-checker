@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T23:26:21.943Z",
+  "updatedAt": "2026-11-24T23:28:33.198Z",
   "properties": [
     {
       "kind": "house",
@@ -6458,8 +6458,8 @@
       "x": -258.31,
       "y": 1151.12,
       "price": 340000,
-      "owner": null,
-      "owned": false
+      "owner": "Gabriel_Martell",
+      "owned": true
     },
     {
       "kind": "house",
