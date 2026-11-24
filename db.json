@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:40:39.190Z",
+  "updatedAt": "2026-11-24T20:01:07.896Z",
   "properties": [
     {
       "kind": "house",
@@ -4488,8 +4488,8 @@
       "x": 2094.23,
       "y": 774.39,
       "price": 604000,
-      "owner": "Shota_Sakurai",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
