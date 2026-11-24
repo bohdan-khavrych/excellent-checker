@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T23:20:42.215Z",
+  "updatedAt": "2026-11-24T23:26:21.943Z",
   "properties": [
     {
       "kind": "house",
@@ -7538,8 +7538,8 @@
       "x": 1595.56,
       "y": 2038.45,
       "price": 132000,
-      "owner": "Gabriel_Martell",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -10751,6 +10751,5 @@
       "owner": "Tyler_Pernyl",
       "owned": true
     }
-  ],
-  "fetchFailing": true
+  ]
 }
