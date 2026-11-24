@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T09:01:15.257Z",
+  "updatedAt": "2026-11-24T10:10:49.078Z",
   "properties": [
     {
       "kind": "house",
@@ -388,8 +388,8 @@
       "x": 2244.4,
       "y": -1637.59,
       "price": 80000,
-      "owner": "Angello_Nostra",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
