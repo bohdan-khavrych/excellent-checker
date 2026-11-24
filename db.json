@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T18:24:41.562Z",
+  "updatedAt": "2026-11-24T18:44:21.041Z",
   "properties": [
     {
       "kind": "house",
@@ -2388,8 +2388,8 @@
       "x": 300.332,
       "y": -1154.56,
       "price": 2666000,
-      "owner": null,
-      "owned": false
+      "owner": "Che_Guevara",
+      "owned": true
     },
     {
       "kind": "house",
