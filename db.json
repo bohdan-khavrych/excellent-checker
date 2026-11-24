@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T18:44:21.041Z",
+  "updatedAt": "2026-11-24T18:48:38.701Z",
   "properties": [
     {
       "kind": "house",
@@ -2458,8 +2458,8 @@
       "x": 355.371,
       "y": -1281.02,
       "price": 600000,
-      "owner": null,
-      "owned": false
+      "owner": "Vadim_Avery",
+      "owned": true
     },
     {
       "kind": "house",
@@ -9958,8 +9958,8 @@
       "x": 2177.43,
       "y": -1311.12,
       "price": 900000,
-      "owner": null,
-      "owned": false
+      "owner": "Maximus_Layers",
+      "owned": true
     },
     {
       "kind": "business",
@@ -10178,8 +10178,8 @@
       "x": 1504.56,
       "y": 2703.59,
       "price": 1500000,
-      "owner": null,
-      "owned": false
+      "owner": "Jordan_Stewart",
+      "owned": true
     },
     {
       "kind": "business",
