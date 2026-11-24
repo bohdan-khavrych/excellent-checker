@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:32:22.312Z",
+  "updatedAt": "2026-11-24T22:06:26.011Z",
   "properties": [
     {
       "kind": "house",
@@ -5538,8 +5538,8 @@
       "x": 2245.65,
       "y": -1.6718,
       "price": 132000,
-      "owner": null,
-      "owned": false
+      "owner": "Gustavo_Alvarez",
+      "owned": true
     },
     {
       "kind": "house",
