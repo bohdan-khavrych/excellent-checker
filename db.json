@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T22:46:21.819Z",
+  "updatedAt": "2026-11-24T23:01:15.306Z",
   "properties": [
     {
       "kind": "house",
@@ -1538,8 +1538,8 @@
       "x": 2149.84,
       "y": -1433.84,
       "price": 130000,
-      "owner": "Tony_Soprano",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
