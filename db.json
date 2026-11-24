@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:26:21.311Z",
+  "updatedAt": "2026-11-24T19:28:23.627Z",
   "properties": [
     {
       "kind": "house",
@@ -458,8 +458,8 @@
       "x": 2385.52,
       "y": -1711.66,
       "price": 140000,
-      "owner": "Vadim_Avery",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
