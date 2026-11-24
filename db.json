@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T18:48:38.701Z",
+  "updatedAt": "2026-11-24T19:01:10.626Z",
   "properties": [
     {
       "kind": "house",
@@ -18,8 +18,8 @@
       "x": 1872.2,
       "y": -1911.79,
       "price": 205000,
-      "owner": "Looney_Marciano",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
