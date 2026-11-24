@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T17:24:21.648Z",
+  "updatedAt": "2026-11-24T18:01:09.563Z",
   "properties": [
     {
       "kind": "house",
@@ -108,8 +108,8 @@
       "x": 1801.8,
       "y": -2098.94,
       "price": 80000,
-      "owner": "Mercedes_Benz",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
