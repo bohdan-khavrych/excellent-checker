@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:01:10.626Z",
+  "updatedAt": "2026-11-24T19:10:54.297Z",
   "properties": [
     {
       "kind": "house",
@@ -6518,8 +6518,8 @@
       "x": -247.866,
       "y": 1001.14,
       "price": 300000,
-      "owner": "Alistair_Reign",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
