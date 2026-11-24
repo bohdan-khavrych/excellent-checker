@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T12:22:21.753Z",
+  "updatedAt": "2026-11-24T13:01:16.778Z",
   "properties": [
     {
       "kind": "house",
@@ -3758,8 +3758,8 @@
       "x": 793.984,
       "y": -1707.43,
       "price": 600000,
-      "owner": "John_Patrick",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -8888,8 +8888,8 @@
       "x": 1303.6,
       "y": 186.089,
       "price": 34000,
-      "owner": "Andrew_Wakedon",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
