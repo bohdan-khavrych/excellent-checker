@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T13:01:16.778Z",
+  "updatedAt": "2026-11-24T13:20:53.471Z",
   "properties": [
     {
       "kind": "house",
@@ -3098,8 +3098,8 @@
       "x": -2620.79,
       "y": -185.875,
       "price": 500000,
-      "owner": "Jove_Calibro",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
