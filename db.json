@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T23:06:22.221Z",
+  "updatedAt": "2026-11-24T01:12:22.808Z",
   "properties": [
     {
       "kind": "house",
@@ -1458,8 +1458,8 @@
       "x": 2470.37,
       "y": -1295.57,
       "price": 140000,
-      "owner": null,
-      "owned": false
+      "owner": "Bob_Velasco",
+      "owned": true
     },
     {
       "kind": "house",
