@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T11:08:31.435Z",
+  "updatedAt": "2026-11-24T12:01:22.182Z",
   "properties": [
     {
       "kind": "house",
@@ -1968,8 +1968,8 @@
       "x": 2259.42,
       "y": -1019.12,
       "price": 160000,
-      "owner": "Hypnoxus_Aon",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -2968,8 +2968,8 @@
       "x": -2027.83,
       "y": -40.6418,
       "price": 450000,
-      "owner": "Benito_Bones",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
