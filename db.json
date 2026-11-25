@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T19:01:16.242Z",
+  "updatedAt": "2026-11-25T19:31:09.599Z",
   "properties": [
     {
       "kind": "house",
@@ -388,8 +388,8 @@
       "x": 2244.4,
       "y": -1637.59,
       "price": 80000,
-      "owner": null,
-      "owned": false
+      "owner": "Kylusi_Yamada",
+      "owned": true
     },
     {
       "kind": "house",
