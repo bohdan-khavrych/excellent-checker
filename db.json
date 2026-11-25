@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T11:32:29.761Z",
+  "updatedAt": "2026-11-25T13:04:30.169Z",
   "properties": [
     {
       "kind": "house",
@@ -388,8 +388,8 @@
       "x": 2244.4,
       "y": -1637.59,
       "price": 80000,
-      "owner": null,
-      "owned": false
+      "owner": "Exoboss_Graizzex",
+      "owned": true
     },
     {
       "kind": "house",
