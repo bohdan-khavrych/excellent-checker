@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T08:36:33.162Z",
+  "updatedAt": "2026-11-25T08:40:38.637Z",
   "properties": [
     {
       "kind": "house",
@@ -9149,6 +9149,1606 @@
       "y": -960.849,
       "price": 1600000,
       "owner": "Lucifer_Dennitsa",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 1,
+      "name": "Railway Shop 24/7",
+      "x": 1848.3,
+      "y": -1871.69,
+      "price": 1400000,
+      "owner": "Kayode_Wayne",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 2,
+      "name": "Los-Santos Product Shop",
+      "x": 1833.77,
+      "y": -1842.62,
+      "price": 830000,
+      "owner": "Vakho_Bandit",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 3,
+      "name": "Club Alhambra",
+      "x": 1837.04,
+      "y": -1682.4,
+      "price": 450000,
+      "owner": "Sova_Insane",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 4,
+      "name": "Ballas Shop 24/7",
+      "x": 2081.4,
+      "y": -1205.34,
+      "price": 900000,
+      "owner": "John_Rockefeller",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 5,
+      "name": "Vagos Shop 24/7",
+      "x": 2818.48,
+      "y": -1614.46,
+      "price": 840000,
+      "owner": "Xavier_Ortiz",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 6,
+      "name": "Los-Santos East Fireworks",
+      "x": 2707.9,
+      "y": -1498.06,
+      "price": 450000,
+      "owner": "Diego_Delgado",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 7,
+      "name": "Central Cluckin Bell",
+      "x": 2419.71,
+      "y": -1509.05,
+      "price": 190000,
+      "owner": "Ace_Olderez",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 8,
+      "name": "Central Clothes Binco",
+      "x": 2244.34,
+      "y": -1665.55,
+      "price": 900000,
+      "owner": "Benjamin_Ellison",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 9,
+      "name": "Los-Santos Sport Hall",
+      "x": 2229.88,
+      "y": -1721.24,
+      "price": 1400000,
+      "owner": "Kayode_Wayne",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 10,
+      "name": "Grove Street Shop 24/7",
+      "x": 2424.29,
+      "y": -1742.73,
+      "price": 840000,
+      "owner": "Alex_Cobra",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 11,
+      "name": "South Cluckin Bell",
+      "x": 2397.85,
+      "y": -1899.01,
+      "price": 210000,
+      "owner": "Evgexa_Kamushkin",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 12,
+      "name": "Well Stacked Pizza",
+      "x": 2105.49,
+      "y": -1806.64,
+      "price": 500000,
+      "owner": "Minato_Kazama",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 13,
+      "name": "Bar ten green botteles",
+      "x": 2310,
+      "y": -1643.62,
+      "price": 650000,
+      "owner": "Abu_Bandit",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 14,
+      "name": "Montgomery Shop 24/7",
+      "x": 1374.86,
+      "y": 469.29,
+      "price": 440000,
+      "owner": "Illya_Matias",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 15,
+      "name": "Pig Pen",
+      "x": 2421.52,
+      "y": -1219.24,
+      "price": 870000,
+      "owner": "Madd_Dogg",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 16,
+      "name": "Italian Courtyard",
+      "x": 1568.11,
+      "y": -1898.01,
+      "price": 388000,
+      "owner": "Daniel_Forette",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 17,
+      "name": "Mayor Shop 24/7",
+      "x": 1352.4,
+      "y": -1759.22,
+      "price": 650000,
+      "owner": "Lance_Akkerman",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 18,
+      "name": "Los-Santos Ammu-Nation",
+      "x": 1368.84,
+      "y": -1279.84,
+      "price": 1450000,
+      "owner": "Omon_Vasquez",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 19,
+      "name": "VineWood Shop 24/7",
+      "x": 1315.53,
+      "y": -897.696,
+      "price": 650000,
+      "owner": "Ladislao_Castellano",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 20,
+      "name": "Store of pyrotechnics",
+      "x": 949.708,
+      "y": -987.675,
+      "price": 900000,
+      "owner": "Big_Bon",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 21,
+      "name": "Bus Station Shop 24/7",
+      "x": 1081.15,
+      "y": -1696.8,
+      "price": 1100000,
+      "owner": "Johnny_Sins",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 22,
+      "name": "Donuts",
+      "x": -144.16,
+      "y": 1225.21,
+      "price": 155000,
+      "owner": "Ded_Moroz",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 23,
+      "name": "Burger Shot",
+      "x": 1200.43,
+      "y": -918.555,
+      "price": 250000,
+      "owner": "Tony_Hollister",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 24,
+      "name": "Clothers Pro laps",
+      "x": 499.4,
+      "y": -1360.48,
+      "price": 940000,
+      "owner": "Gabriello_Murzella",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 25,
+      "name": "Clothers Victim",
+      "x": 461.615,
+      "y": -1500.95,
+      "price": 890000,
+      "owner": "Angel_Cassado",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 26,
+      "name": "Clothers Ds",
+      "x": 454.1,
+      "y": -1478,
+      "price": 745000,
+      "owner": "Gamulya_Flocka",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 27,
+      "name": "Restaurant Bastide",
+      "x": 512.168,
+      "y": -1486.98,
+      "price": 700000,
+      "owner": "Vinvicius_Caffrey",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 28,
+      "name": "Santa Maria Club",
+      "x": 387.165,
+      "y": -1817.83,
+      "price": 150000,
+      "owner": "Leo_Bellini",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 29,
+      "name": "Eatery",
+      "x": 387.953,
+      "y": -1870.69,
+      "price": 150000,
+      "owner": "Carl_Kennedy",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 30,
+      "name": "Santa Maria Shop 24/7",
+      "x": 388.021,
+      "y": -1897.14,
+      "price": 200000,
+      "owner": "Michael_Lowly",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 31,
+      "name": "Restaurant Victoria & Alberts",
+      "x": 279.586,
+      "y": -1435.4,
+      "price": 650000,
+      "owner": "Sergio_Capone",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 32,
+      "name": "Bluberry Shop 24/7",
+      "x": 171.858,
+      "y": -200.856,
+      "price": 170000,
+      "owner": "Omon_Vasquez",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 33,
+      "name": "Market Clothes Binco",
+      "x": 1143.91,
+      "y": -1521.35,
+      "price": 275000,
+      "owner": "Marco_Manhattan",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 34,
+      "name": "Market Shop 24/7",
+      "x": 1099.66,
+      "y": -1507.07,
+      "price": 370000,
+      "owner": "Jack_Wyndy",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 35,
+      "name": "Max Shop 24/7",
+      "x": 1398.66,
+      "y": -1881.77,
+      "price": 700000,
+      "owner": "Fernando_Florenzo",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 36,
+      "name": "Green Bluff Shop 24/7",
+      "x": 1070.84,
+      "y": -1873.71,
+      "price": 650000,
+      "owner": "Andre_Trayce",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 37,
+      "name": "Burger Shot",
+      "x": 2472.86,
+      "y": 2034.2,
+      "price": 140000,
+      "owner": "Yamato_Tamura",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 38,
+      "name": "San-Fierro Train Shop 24/7",
+      "x": -2032.97,
+      "y": 161.432,
+      "price": 890000,
+      "owner": "Alberto_Stewart",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 39,
+      "name": "NAVY Shop 24/7",
+      "x": -1676.07,
+      "y": 432.286,
+      "price": 800000,
+      "owner": "Esteban_Guerra",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 40,
+      "name": "Central San-Fierro Shop 24/7",
+      "x": -2050.05,
+      "y": -60.8195,
+      "price": 430000,
+      "owner": "Fernando_Torrero",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 41,
+      "name": "Club Jizzy",
+      "x": -2624.76,
+      "y": 1412.72,
+      "price": 1150000,
+      "owner": "Omon_Vasquez",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 42,
+      "name": "Donuts",
+      "x": -2767.86,
+      "y": 788.811,
+      "price": 160000,
+      "owner": "Elon_Musk",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 43,
+      "name": "Cluckin Bell",
+      "x": -1213.89,
+      "y": 1830.43,
+      "price": 124000,
+      "owner": "Pablo_Murzella",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 44,
+      "name": "Xoomer Shop 24/7",
+      "x": -1320.55,
+      "y": 2698.61,
+      "price": 245000,
+      "owner": "Stepan_Kroc",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 45,
+      "name": "Trailer Snackbar",
+      "x": -2524.5,
+      "y": 1216.21,
+      "price": 124000,
+      "owner": "Sebastian_Marlboro",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 46,
+      "name": "Clothers Victim",
+      "x": -1694.6,
+      "y": 951.924,
+      "price": 890000,
+      "owner": "Akella_Borz",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 47,
+      "name": "Pizza",
+      "x": 2331.92,
+      "y": 75.1169,
+      "price": 145300,
+      "owner": "Tony_Hollister",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 48,
+      "name": "Burger Shot",
+      "x": -2336.31,
+      "y": -166.847,
+      "price": 160000,
+      "owner": "Hunter_Miller",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 49,
+      "name": "Restouran \"Palamino\"",
+      "x": 2269.53,
+      "y": -74.2298,
+      "price": 450000,
+      "owner": "Raul_Moralez",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 50,
+      "name": "Ocean Ammu-Nation",
+      "x": -316.158,
+      "y": 829.872,
+      "price": 270000,
+      "owner": "Satana_Mitchell",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 51,
+      "name": "Pizza",
+      "x": 2083.37,
+      "y": 2224.7,
+      "price": 150000,
+      "owner": "Alexey_Morozov",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 52,
+      "name": "Fort Carson Shop 24/7",
+      "x": -145.879,
+      "y": 1172.39,
+      "price": 290000,
+      "owner": "Scott_Sweet",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 53,
+      "name": "Lil Probein",
+      "x": -89.6112,
+      "y": 1378.27,
+      "price": 311000,
+      "owner": "Clemente_Mendoza",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 54,
+      "name": "Land Forces Shop 24/7",
+      "x": 662.984,
+      "y": 1716.22,
+      "price": 840000,
+      "owner": "Shun_Kazama",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 55,
+      "name": "Stone County Ammu-Nation",
+      "x": 776.732,
+      "y": 1871.24,
+      "price": 1200000,
+      "owner": "Mark_Henry",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 56,
+      "name": "Big Ammo",
+      "x": 793.901,
+      "y": 1687,
+      "price": 620000,
+      "owner": "Snusoslav_Vkidovsky",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 57,
+      "name": "Clothin Store Binco",
+      "x": 1656.95,
+      "y": 1733.56,
+      "price": 360000,
+      "owner": "Eduardo_Villaescuza",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 58,
+      "name": "Sport hall Cobra",
+      "x": -2270.6,
+      "y": -155.919,
+      "price": 840000,
+      "owner": "Maksym_Medow",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 59,
+      "name": "Central Shop 24/7",
+      "x": 1565.81,
+      "y": -1171.34,
+      "price": 230000,
+      "owner": "Dimiano_Verdugo",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 60,
+      "name": "Las Venturas Shop 24/7",
+      "x": 2637.29,
+      "y": 1129.68,
+      "price": 840000,
+      "owner": "Vadim_Avery",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 61,
+      "name": "Bar Amnesia",
+      "x": 2507.44,
+      "y": 1242.26,
+      "price": 420000,
+      "owner": "Roberto_Catton",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 62,
+      "name": "Las Venturas Ammu-Nation",
+      "x": 2159.44,
+      "y": 943.409,
+      "price": 578000,
+      "owner": "Donkihote_Flou",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 63,
+      "name": "Shop \"24/7\"",
+      "x": 2117.62,
+      "y": 896.87,
+      "price": 950000,
+      "owner": "Sos_Mula",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 64,
+      "name": "Starfish Shop 24/7",
+      "x": 2546.56,
+      "y": 1972.67,
+      "price": 970000,
+      "owner": "Shun_Kazama",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 65,
+      "name": "Old Lance Shop \"24/7\"",
+      "x": 2452.51,
+      "y": 2065.19,
+      "price": 230000,
+      "owner": "Fenbi_Amadeo",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 66,
+      "name": "Cluckin Bell",
+      "x": -2672.38,
+      "y": 257.945,
+      "price": 160000,
+      "owner": "Takeshi_Chu",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 67,
+      "name": "Pizza",
+      "x": 203.501,
+      "y": -201.938,
+      "price": 129000,
+      "owner": "Mad_Dog",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 68,
+      "name": "Clothing Store \"Zip\"",
+      "x": 2090.36,
+      "y": 2224.7,
+      "price": 340000,
+      "owner": "Alex_Alvares",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 69,
+      "name": "Seven Shop 24/7",
+      "x": 2097.57,
+      "y": 2224.69,
+      "price": 214000,
+      "owner": "Tookie_Lonsdale",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 70,
+      "name": "Western Sands Shop 24/7",
+      "x": 1599.2,
+      "y": 2221.84,
+      "price": 283000,
+      "owner": "Geyms_Matias",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 71,
+      "name": "Tierra Robada Shop 24/7",
+      "x": -1465.63,
+      "y": 1873.43,
+      "price": 171000,
+      "owner": "Evgexa_Kamushkin",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 72,
+      "name": "Cluckin Bell",
+      "x": 2393.29,
+      "y": 2041.56,
+      "price": 150000,
+      "owner": "Donatello_Montes",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 73,
+      "name": "Bar \"The Smoking Beef Grill\"",
+      "x": -858.054,
+      "y": 1535.43,
+      "price": 333000,
+      "owner": "Boris_Kaban",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 74,
+      "name": "Pizza",
+      "x": -1720.95,
+      "y": 1359.72,
+      "price": 475000,
+      "owner": "Jove_Calibro",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 75,
+      "name": "Montgomery Sprunk Shop 24/7",
+      "x": 1310.99,
+      "y": 330.033,
+      "price": 222000,
+      "owner": "Eduardo_Villaescuza",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 76,
+      "name": "Palomino Ammo-Nation",
+      "x": 2333.2,
+      "y": 61.5414,
+      "price": 935000,
+      "owner": "Sage_Cox",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 77,
+      "name": "Palomino \"24/7\"",
+      "x": 2304.58,
+      "y": 31.0353,
+      "price": 514000,
+      "owner": "Pennywise_MacHolland",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 78,
+      "name": "Estate Agency",
+      "x": 597.198,
+      "y": -1249.31,
+      "price": 3200000,
+      "owner": "Mark_Henry",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 79,
+      "name": "\"Los-Santos\" 24/7",
+      "x": 1928.58,
+      "y": -1776.26,
+      "price": 900000,
+      "owner": "Andrey_Rosado",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 80,
+      "name": "\"Aztec\" 24/7",
+      "x": 2292.29,
+      "y": -1722.78,
+      "price": 970000,
+      "owner": "John_Rockefeller",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 81,
+      "name": "Ghetto Clothes",
+      "x": 2177.43,
+      "y": -1311.12,
+      "price": 900000,
+      "owner": "Maximus_Layers",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 82,
+      "name": "Accessories Shop LS",
+      "x": 1072.14,
+      "y": -1354.01,
+      "price": 1100000,
+      "owner": "Vakho_Bandit",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 83,
+      "name": "Accessories Shop SF",
+      "x": -2062.42,
+      "y": -60.6317,
+      "price": 1100000,
+      "owner": "Ace_Olderez",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 84,
+      "name": "Accessories Shop LV",
+      "x": 2014.75,
+      "y": 1150.52,
+      "price": 890000,
+      "owner": "Pasquale_Quincy",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 85,
+      "name": "Автосалон эконом класса",
+      "x": 555.263,
+      "y": -1293.58,
+      "price": 2500000,
+      "owner": "Tupac_Shakur",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 86,
+      "name": "Автосалон среднего класса",
+      "x": -1953.72,
+      "y": 300.836,
+      "price": 3500000,
+      "owner": "Hutch_Dano",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 87,
+      "name": "Автосалон спорт класса",
+      "x": 1658.41,
+      "y": 2200.35,
+      "price": 4500000,
+      "owner": "Armando_Nostra",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 88,
+      "name": "Мотосалон",
+      "x": 2131.78,
+      "y": -1151.32,
+      "price": 2000000,
+      "owner": "Hattori_Hanzo",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 89,
+      "name": "Shop Rifa",
+      "x": 2724.35,
+      "y": -2026.75,
+      "price": 935000,
+      "owner": "Carl_Kennedy",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 90,
+      "name": "\"SF Ammu-Nation\"",
+      "x": -2626.53,
+      "y": 208.253,
+      "price": 1500000,
+      "owner": "Lucifer_Dennitsa",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 91,
+      "name": "Cluckin Bell",
+      "x": 172.995,
+      "y": 1177.17,
+      "price": 120000,
+      "owner": "Angello_Nostra",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 92,
+      "name": "Grove St. Bar",
+      "x": 2466.97,
+      "y": -1744.13,
+      "price": 640000,
+      "owner": "Stariy_Vor",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 93,
+      "name": "Queen Shop 24/7",
+      "x": -78.5558,
+      "y": -1169.81,
+      "price": 900000,
+      "owner": "Dorian_Cresso",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 94,
+      "name": "Apple garden",
+      "x": 1936.71,
+      "y": 164.771,
+      "price": 5000000,
+      "owner": "Sos_Mula",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 95,
+      "name": "Orange garden",
+      "x": 1784.97,
+      "y": 153.649,
+      "price": 5000000,
+      "owner": "Sos_Mula",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 96,
+      "name": "Служба такси",
+      "x": 1273.53,
+      "y": -1802.01,
+      "price": 5500000,
+      "owner": "Aaron_Vips",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 97,
+      "name": "Служба такси",
+      "x": -2203.41,
+      "y": 298.092,
+      "price": 5500000,
+      "owner": "Carter_Skalete",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 98,
+      "name": "Служба такси",
+      "x": 2835.16,
+      "y": 1490.56,
+      "price": 5500000,
+      "owner": "Angello_Nostra",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 99,
+      "name": "Транспортная компания",
+      "x": -40.8353,
+      "y": -1134.16,
+      "price": 7500000,
+      "owner": "Lucifer_Disquze",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 100,
+      "name": "Транспортная компания",
+      "x": -504.421,
+      "y": -524.927,
+      "price": 7500000,
+      "owner": "Ryan_Wainwright",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 101,
+      "name": "Транспортная компания",
+      "x": -167.346,
+      "y": -243.54,
+      "price": 7500000,
+      "owner": "Alex_Cobra",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 102,
+      "name": "Island Shop 24/7",
+      "x": 3382.23,
+      "y": -220.338,
+      "price": 1500000,
+      "owner": "Aurelio_Martinez",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 103,
+      "name": "Station Shop 24/7",
+      "x": 1504.56,
+      "y": 2703.59,
+      "price": 1500000,
+      "owner": "Jordan_Stewart",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 104,
+      "name": "Clothin 24/7",
+      "x": 1656.98,
+      "y": 1728.2,
+      "price": 1500000,
+      "owner": "Jonathan_Statham",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 105,
+      "name": "Sawmill Shop 24/7",
+      "x": -2165.43,
+      "y": -2416.99,
+      "price": 1500000,
+      "owner": "Enzo_Rossentall",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 106,
+      "name": "Burger Shot",
+      "x": 810.485,
+      "y": -1616.18,
+      "price": 250000,
+      "owner": "Roberto_Ferrari",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 107,
+      "name": "Заправка",
+      "x": 1002.01,
+      "y": -936.958,
+      "price": 525500,
+      "owner": "Tekashi_Neikov",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 108,
+      "name": "Заправка",
+      "x": -97.3917,
+      "y": -1174.56,
+      "price": 525500,
+      "owner": "Armando_Nostra",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 109,
+      "name": "Заправка",
+      "x": 1941.84,
+      "y": -1769.32,
+      "price": 525500,
+      "owner": "Saul_Goodman",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 110,
+      "name": "Заправка",
+      "x": 655.77,
+      "y": -559.608,
+      "price": 525500,
+      "owner": "Salvatore_Perez",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 111,
+      "name": "Заправка",
+      "x": -1608.86,
+      "y": -2715.52,
+      "price": 525500,
+      "owner": "Victor_Auditore",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 112,
+      "name": "Заправка",
+      "x": 2207.77,
+      "y": 2473.21,
+      "price": 525500,
+      "owner": "Atlas_Marshall",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 113,
+      "name": "Заправка",
+      "x": 1596.2,
+      "y": 2193.74,
+      "price": 525500,
+      "owner": "Jose_Bullet",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 114,
+      "name": "Заправка",
+      "x": 2151.86,
+      "y": 2753.16,
+      "price": 525500,
+      "owner": "Evgexa_Kamushkin",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 115,
+      "name": "Заправка",
+      "x": 2641.57,
+      "y": 1111.92,
+      "price": 525500,
+      "owner": "Madd_Dogg",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 116,
+      "name": "Заправка",
+      "x": 2119.28,
+      "y": 925.397,
+      "price": 525500,
+      "owner": "Gabriello_Murzella",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 117,
+      "name": "Заправка",
+      "x": 615.056,
+      "y": 1693.01,
+      "price": 525500,
+      "owner": "Ace_Olderez",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 118,
+      "name": "Заправка",
+      "x": 72.6104,
+      "y": 1217.84,
+      "price": 525500,
+      "owner": "Chase_Postman",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 119,
+      "name": "Заправка",
+      "x": -1329.98,
+      "y": 2674.91,
+      "price": 525500,
+      "owner": "Alexander_Petrovich",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 120,
+      "name": "Заправка",
+      "x": -1476.56,
+      "y": 1859.91,
+      "price": 525500,
+      "owner": "Salvador_Lendazzo",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 121,
+      "name": "Заправка",
+      "x": -2410.99,
+      "y": 968.546,
+      "price": 525500,
+      "owner": "Carlo_Oddi",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 122,
+      "name": "Заправка",
+      "x": -1674.02,
+      "y": 408.617,
+      "price": 525500,
+      "owner": "Esteban_Guerra",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 123,
+      "name": "Заправка",
+      "x": -2026.94,
+      "y": 156.812,
+      "price": 525500,
+      "owner": "Fun_Lay",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 124,
+      "name": "Заправка",
+      "x": -2242.5,
+      "y": -2563.53,
+      "price": 525500,
+      "owner": "Fernando_Florenzo",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 125,
+      "name": "Заправка",
+      "x": 3368.71,
+      "y": -223.627,
+      "price": 525500,
+      "owner": "Aurelio_Martinez",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 126,
+      "name": "Jefferson Hotel",
+      "x": 2233.29,
+      "y": -1159.69,
+      "price": 4500000,
+      "owner": "Massima_Dniprovskiy",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 127,
+      "name": "Центральный отель г. Лос-Сантос",
+      "x": 1309.98,
+      "y": -1367.15,
+      "price": 5000000,
+      "owner": "Alex_Cobra",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 128,
+      "name": "Отель Форт-Карсон",
+      "x": -89.0788,
+      "y": 1229.73,
+      "price": 2500000,
+      "owner": "Alberto_Descarado",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 129,
+      "name": "Отель Санта Мария",
+      "x": 327.673,
+      "y": -1512.11,
+      "price": 4000000,
+      "owner": "Michael_Lowly",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 130,
+      "name": "Отель г.Сан-Фиерро",
+      "x": -2720.98,
+      "y": -320.762,
+      "price": 3500000,
+      "owner": "Esteban_Guerra",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 131,
+      "name": "Отель El Querbrados",
+      "x": -1514.73,
+      "y": 2518.95,
+      "price": 2500000,
+      "owner": "Ichiro_Fallen",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 132,
+      "name": "Отель Las-Venturas",
+      "x": 2085.25,
+      "y": 2486.23,
+      "price": 3000000,
+      "owner": "Seraphin_Fernando",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 133,
+      "name": "Отель Rock Hotel",
+      "x": 2628.04,
+      "y": 2349.3,
+      "price": 2500000,
+      "owner": "Donkihote_Flou",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 134,
+      "name": "Отель Pirates Hotel",
+      "x": 1965.05,
+      "y": 1623.15,
+      "price": 3000000,
+      "owner": "Donkihote_Flou",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 135,
+      "name": "Pizza",
+      "x": 1367.53,
+      "y": 248.301,
+      "price": 145300,
+      "owner": "Alexandr_Gill",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 136,
+      "name": "Заправка",
+      "x": 1382.28,
+      "y": 460.147,
+      "price": 525500,
+      "owner": "Fernando_Torrero",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 137,
+      "name": "Shop \"24/7\"",
+      "x": 1000.49,
+      "y": -919.934,
+      "price": 950000,
+      "owner": "Tony_Souljah",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 138,
+      "name": "Burger Shot",
+      "x": -2355.82,
+      "y": 1008.08,
+      "price": 250000,
+      "owner": "Hill_Bund",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 139,
+      "name": "Shop \"24/7\"",
+      "x": -2420.14,
+      "y": 969.829,
+      "price": 950000,
+      "owner": "Gamulya_Flocka",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 140,
+      "name": "\"Ghetto Ammu-Nation\"",
+      "x": 2400.46,
+      "y": -1981.97,
+      "price": 1500000,
+      "owner": "Pablo_Escobaro",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 141,
+      "name": "Shop \"24/7\"",
+      "x": 661.32,
+      "y": -573.403,
+      "price": 950000,
+      "owner": "Elias_Volfram",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 142,
+      "name": "Burger Shot",
+      "x": -1912.4,
+      "y": 827.931,
+      "price": 250000,
+      "owner": "Dmitriy_Impreza",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 143,
+      "name": "Clothing Store \"Zip\"",
+      "x": -1882.27,
+      "y": 866.51,
+      "price": 340000,
+      "owner": "Mezi_Infernales",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 144,
+      "name": "Pizza",
+      "x": -1808.73,
+      "y": 945.888,
+      "price": 145300,
+      "owner": "Kenny_Goth",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 145,
+      "name": "Clothin Store Urban",
+      "x": -2489.91,
+      "y": -29.0793,
+      "price": 360000,
+      "owner": "Alexey_Morozov",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 146,
+      "name": "Стрелковая арена LS",
+      "x": 2506.71,
+      "y": -1751.54,
+      "price": 380000,
+      "owner": "Contrage_Gunman",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 147,
+      "name": "Стрелковая арена LV",
+      "x": 1527.77,
+      "y": 2344.33,
+      "price": 380000,
+      "owner": "Carl_Kennedy",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 148,
+      "name": "Стоянка транспорта LS",
+      "x": 1643.68,
+      "y": -1520.75,
+      "price": 1420000,
+      "owner": "Maksym_Medow",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 149,
+      "name": "Стоянка транспорта SF",
+      "x": -1721.26,
+      "y": -116.952,
+      "price": 1420000,
+      "owner": "Eito_Ito",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 150,
+      "name": "Стоянка транспорта LV",
+      "x": 1605.4,
+      "y": 707.572,
+      "price": 1420000,
+      "owner": "Maksym_Medow",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 151,
+      "name": "Центр продажи недвижимости",
+      "x": 1746.56,
+      "y": -1129.68,
+      "price": 5000000,
+      "owner": "William_Walker",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 152,
+      "name": "Тюнинг ателье LS",
+      "x": 1000.61,
+      "y": -1358.56,
+      "price": 4600000,
+      "owner": "Elio_Scalfaro",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 153,
+      "name": "Тюнинг ателье SF",
+      "x": -1799.86,
+      "y": 1200.42,
+      "price": 4600000,
+      "owner": "Rai_Reedus",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 154,
+      "name": "Тюнинг ателье LV",
+      "x": 1770,
+      "y": 2081.2,
+      "price": 4600000,
+      "owner": "Madd_Dogg",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 155,
+      "name": "Home Repair LS",
+      "x": 1234.89,
+      "y": -1158.35,
+      "price": 2500000,
+      "owner": "Salvador_Ortega",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 156,
+      "name": "Home Repair SF",
+      "x": -2178.04,
+      "y": -42.3733,
+      "price": 2500000,
+      "owner": "Aleks_Taylor",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 157,
+      "name": "Авторынок",
+      "x": 1455.48,
+      "y": 750.919,
+      "price": 6000000,
+      "owner": "Dean_Arriano",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 158,
+      "name": "Городская Аптека LS",
+      "x": 908.337,
+      "y": -1382.13,
+      "price": 1228000,
+      "owner": "Ryan_Wainwright",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 159,
+      "name": "Городская Аптека SF",
+      "x": -2435.94,
+      "y": 49.6095,
+      "price": 1228000,
+      "owner": "Victor_Auditore",
+      "owned": true
+    },
+    {
+      "kind": "business",
+      "id": 160,
+      "name": "Городская Аптека LV",
+      "x": 2556.79,
+      "y": 2022.34,
+      "price": 1228000,
+      "owner": "Tyler_Pernyl",
       "owned": true
     }
   ]
