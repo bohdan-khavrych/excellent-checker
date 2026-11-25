@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T20:34:20.673Z",
+  "updatedAt": "2026-11-25T21:01:16.960Z",
   "properties": [
     {
       "kind": "house",
@@ -2698,8 +2698,8 @@
       "x": 693.548,
       "y": -1705.75,
       "price": 740000,
-      "owner": "Ito_Sora",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -9718,7 +9718,7 @@
       "x": 1656.95,
       "y": 1733.56,
       "price": 360000,
-      "owner": "Eduardo_Villaescuza",
+      "owner": "Ryan_Wainwright",
       "owned": true
     },
     {
@@ -9898,7 +9898,7 @@
       "x": 1310.99,
       "y": 330.033,
       "price": 222000,
-      "owner": "Eduardo_Villaescuza",
+      "owner": "Angello_Nostra",
       "owned": true
     },
     {
