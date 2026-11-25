@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T21:28:20.933Z",
+  "updatedAt": "2026-11-25T22:16:25.012Z",
   "properties": [
     {
       "kind": "house",
@@ -4318,8 +4318,8 @@
       "x": 2206.47,
       "y": 691.905,
       "price": 730000,
-      "owner": null,
-      "owned": false
+      "owner": "Kiyoshi_Saint",
+      "owned": true
     },
     {
       "kind": "house",
@@ -4328,8 +4328,8 @@
       "x": 2177.28,
       "y": 690.575,
       "price": 810000,
-      "owner": null,
-      "owned": false
+      "owner": "Kiyoshi_Saint",
+      "owned": true
     },
     {
       "kind": "house",
