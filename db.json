@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T22:16:25.012Z",
+  "updatedAt": "2026-11-25T22:20:53.239Z",
   "properties": [
     {
       "kind": "house",
@@ -4258,8 +4258,8 @@
       "x": 2396.96,
       "y": 690.418,
       "price": 780000,
-      "owner": "Eternal_Sleeps",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
