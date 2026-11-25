@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T17:10:45.215Z",
+  "updatedAt": "2026-11-25T18:08:33.968Z",
   "properties": [
     {
       "kind": "house",
@@ -3928,8 +3928,8 @@
       "x": 648.855,
       "y": -1489.39,
       "price": 950000,
-      "owner": null,
-      "owned": false
+      "owner": "Massima_Dniprovskiy",
+      "owned": true
     },
     {
       "kind": "house",
