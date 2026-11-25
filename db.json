@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T18:08:33.968Z",
+  "updatedAt": "2026-11-25T19:01:16.242Z",
   "properties": [
     {
       "kind": "house",
@@ -3838,8 +3838,8 @@
       "x": 652.662,
       "y": -1694,
       "price": 600000,
-      "owner": "Cody_Rooney",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -8098,8 +8098,8 @@
       "x": -2126.44,
       "y": 1087.56,
       "price": 180000,
-      "owner": "Koch_Bratanovich",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
