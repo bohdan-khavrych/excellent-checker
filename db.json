@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T13:10:50.421Z",
+  "updatedAt": "2026-11-25T15:24:25.821Z",
   "properties": [
     {
       "kind": "house",
@@ -3928,8 +3928,8 @@
       "x": 648.855,
       "y": -1489.39,
       "price": 950000,
-      "owner": "Alan_Massaro",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
