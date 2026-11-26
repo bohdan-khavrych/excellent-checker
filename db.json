@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T16:42:21.445Z",
+  "updatedAt": "2026-11-26T18:12:21.836Z",
   "properties": [
     {
       "kind": "house",
@@ -4818,8 +4818,8 @@
       "x": 1344.82,
       "y": 2609.86,
       "price": 890000,
-      "owner": null,
-      "owned": false
+      "owner": "Nortwood_Curtis",
+      "owned": true
     },
     {
       "kind": "house",
