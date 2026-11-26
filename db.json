@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T11:01:32.634Z",
+  "updatedAt": "2026-11-26T11:10:39.343Z",
   "properties": [
     {
       "kind": "house",
@@ -1788,8 +1788,8 @@
       "x": 2111.2,
       "y": -1278.99,
       "price": 160000,
-      "owner": null,
-      "owned": false
+      "owner": "Herman_Pinkman",
+      "owned": true
     },
     {
       "kind": "house",
