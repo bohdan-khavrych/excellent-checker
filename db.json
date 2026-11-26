@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T16:31:02.807Z",
+  "updatedAt": "2026-11-26T16:42:21.445Z",
   "properties": [
     {
       "kind": "house",
@@ -7918,8 +7918,8 @@
       "x": 2269.15,
       "y": -1882.08,
       "price": 81000,
-      "owner": "Arto_Silence",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
