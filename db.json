@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T19:01:13.092Z",
+  "updatedAt": "2026-11-26T20:01:12.135Z",
   "properties": [
     {
       "kind": "house",
@@ -198,8 +198,8 @@
       "x": 1715.17,
       "y": -2125.43,
       "price": 88000,
-      "owner": "Doredas_Bennett",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
