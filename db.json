@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T16:24:22.409Z",
+  "updatedAt": "2026-11-26T16:31:02.807Z",
   "properties": [
     {
       "kind": "house",
@@ -1098,8 +1098,8 @@
       "x": 2394.96,
       "y": -1133.56,
       "price": 150000,
-      "owner": null,
-      "owned": false
+      "owner": "Bounty_Hunter",
+      "owned": true
     },
     {
       "kind": "house",
