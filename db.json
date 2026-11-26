@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T14:54:22.126Z",
+  "updatedAt": "2026-11-26T15:01:22.798Z",
   "properties": [
     {
       "kind": "house",
@@ -2528,7 +2528,7 @@
       "x": 897.684,
       "y": -677.51,
       "price": 1600000,
-      "owner": "Liam_Lund",
+      "owner": "Richard_Markowkin",
       "owned": true
     },
     {
@@ -4418,8 +4418,8 @@
       "x": 2093.4,
       "y": 730.727,
       "price": 780000,
-      "owner": "Seraphin_Fernando",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -8038,8 +8038,8 @@
       "x": 2247.09,
       "y": -1795.92,
       "price": 91330,
-      "owner": "Geronimo_Calderon",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
