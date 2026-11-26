@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T14:52:20.557Z",
+  "updatedAt": "2026-11-26T14:54:22.126Z",
   "properties": [
     {
       "kind": "house",
@@ -4218,8 +4218,8 @@
       "x": 2065.75,
       "y": 650.114,
       "price": 510000,
-      "owner": null,
-      "owned": false
+      "owner": "Sam_Winstrike",
+      "owned": true
     },
     {
       "kind": "house",
