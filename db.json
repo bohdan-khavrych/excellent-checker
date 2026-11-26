@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T15:12:20.637Z",
+  "updatedAt": "2026-11-26T15:26:22.686Z",
   "properties": [
     {
       "kind": "house",
@@ -2968,7 +2968,7 @@
       "x": -2027.83,
       "y": -40.6418,
       "price": 450000,
-      "owner": "Richard_Markowkin",
+      "owner": "Donkihote_Flou",
       "owned": true
     },
     {
@@ -8228,8 +8228,8 @@
       "x": 289.853,
       "y": -1617.38,
       "price": 500000,
-      "owner": "Dima_Quinter",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
