@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T22:31:00.805Z",
+  "updatedAt": "2026-11-26T00:42:19.744Z",
   "properties": [
     {
       "kind": "house",
@@ -7538,8 +7538,8 @@
       "x": 1595.56,
       "y": 2038.45,
       "price": 132000,
-      "owner": null,
-      "owned": false
+      "owner": "James_Meloni",
+      "owned": true
     },
     {
       "kind": "house",
