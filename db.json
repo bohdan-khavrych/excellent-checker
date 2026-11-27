@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T20:24:22.296Z",
+  "updatedAt": "2026-11-27T20:30:58.273Z",
   "properties": [
     {
       "kind": "house",
@@ -298,8 +298,8 @@
       "x": 2013.57,
       "y": -1656.25,
       "price": 170000,
-      "owner": null,
-      "owned": false
+      "owner": "Slawamir_Disquze",
+      "owned": true
     },
     {
       "kind": "house",
