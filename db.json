@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T05:04:26.510Z",
+  "updatedAt": "2026-11-27T06:01:16.882Z",
   "properties": [
     {
       "kind": "house",
@@ -7988,8 +7988,8 @@
       "x": 2345.51,
       "y": -1785.71,
       "price": 87000,
-      "owner": "Takashi_Miike",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
