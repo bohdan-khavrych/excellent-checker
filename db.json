@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T11:10:44.355Z",
+  "updatedAt": "2026-11-27T14:01:16.971Z",
   "properties": [
     {
       "kind": "house",
@@ -728,8 +728,8 @@
       "x": 2652.82,
       "y": -1989.44,
       "price": 130000,
-      "owner": "Exoboss_Graizzex",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -4458,8 +4458,8 @@
       "x": 2014.06,
       "y": 774.36,
       "price": 780000,
-      "owner": "Leonardo_Boradetti",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
