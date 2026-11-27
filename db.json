@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T08:34:25.549Z",
+  "updatedAt": "2026-11-27T10:20:45.392Z",
   "properties": [
     {
       "kind": "house",
@@ -4928,8 +4928,8 @@
       "x": 1513.35,
       "y": 2565.81,
       "price": 1250000,
-      "owner": "Vakho_Bandit",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -9968,8 +9968,8 @@
       "x": 1072.14,
       "y": -1354.01,
       "price": 1100000,
-      "owner": "Vakho_Bandit",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "business",
