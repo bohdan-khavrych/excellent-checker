@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T22:18:21.514Z",
+  "updatedAt": "2026-11-27T22:24:21.479Z",
   "properties": [
     {
       "kind": "house",
@@ -88,8 +88,8 @@
       "x": 1851.76,
       "y": -2134.85,
       "price": 90000,
-      "owner": "Enzo_Rossentall",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -8898,8 +8898,8 @@
       "x": 1315.62,
       "y": 180.108,
       "price": 36000,
-      "owner": null,
-      "owned": false
+      "owner": "Richard_Markowkin",
+      "owned": true
     },
     {
       "kind": "house",
