@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T22:04:23.784Z",
+  "updatedAt": "2026-11-27T22:14:21.927Z",
   "properties": [
     {
       "kind": "house",
@@ -138,8 +138,8 @@
       "x": 1734,
       "y": -2098,
       "price": 82000,
-      "owner": null,
-      "owned": false
+      "owner": "Mauricio_Hayes",
+      "owned": true
     },
     {
       "kind": "house",
