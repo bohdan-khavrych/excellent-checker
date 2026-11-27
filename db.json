@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T23:01:15.315Z",
+  "updatedAt": "2026-11-27T23:10:37.510Z",
   "properties": [
     {
       "kind": "house",
@@ -6208,8 +6208,8 @@
       "x": 1989.13,
       "y": 2664.97,
       "price": 390000,
-      "owner": "Victor_Reynolds",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
