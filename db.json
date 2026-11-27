@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T14:01:16.971Z",
+  "updatedAt": "2026-11-27T15:02:22.462Z",
   "properties": [
     {
       "kind": "house",
@@ -2368,7 +2368,7 @@
       "x": 416.583,
       "y": -1154.03,
       "price": 1600000,
-      "owner": "Montiagu_Hoodrich",
+      "owner": "Tony_Hollister",
       "owned": true
     },
     {
@@ -5498,8 +5498,8 @@
       "x": 2313.86,
       "y": -124.441,
       "price": 140000,
-      "owner": "Montiagu_Hoodrich",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -10751,6 +10751,5 @@
       "owner": "Tyler_Pernyl",
       "owned": true
     }
-  ],
-  "fetchFailing": true
+  ]
 }
