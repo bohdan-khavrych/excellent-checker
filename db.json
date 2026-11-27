@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T19:52:23.637Z",
+  "updatedAt": "2026-11-27T20:12:21.893Z",
   "properties": [
     {
       "kind": "house",
@@ -588,8 +588,8 @@
       "x": 2413.9,
       "y": -1646.8,
       "price": 78000,
-      "owner": "Soprano_Mackenzie",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
