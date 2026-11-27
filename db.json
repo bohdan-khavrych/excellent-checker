@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T22:32:21.350Z",
+  "updatedAt": "2026-11-27T22:34:21.213Z",
   "properties": [
     {
       "kind": "house",
@@ -6558,8 +6558,8 @@
       "x": -905.429,
       "y": 1528.47,
       "price": 30000,
-      "owner": null,
-      "owned": false
+      "owner": "Enzo_Rossentall",
+      "owned": true
     },
     {
       "kind": "house",
