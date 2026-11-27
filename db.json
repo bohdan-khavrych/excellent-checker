@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T15:42:34.099Z",
+  "updatedAt": "2026-11-27T16:54:23.686Z",
   "properties": [
     {
       "kind": "house",
@@ -4388,8 +4388,8 @@
       "x": 891.083,
       "y": -782.673,
       "price": 1600000,
-      "owner": "Elon_Musk",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
