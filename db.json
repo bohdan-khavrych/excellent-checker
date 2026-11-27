@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T20:34:21.237Z",
+  "updatedAt": "2026-11-27T20:38:23.771Z",
   "properties": [
     {
       "kind": "house",
@@ -318,8 +318,8 @@
       "x": 2018.04,
       "y": -1629.83,
       "price": 160000,
-      "owner": null,
-      "owned": false
+      "owner": "Alexei_Navalny",
+      "owned": true
     },
     {
       "kind": "house",
@@ -9458,7 +9458,7 @@
       "x": 279.586,
       "y": -1435.4,
       "price": 650000,
-      "owner": "Sergio_Capone",
+      "owner": "Carolina_Ventura",
       "owned": true
     },
     {
@@ -10258,7 +10258,7 @@
       "x": -1608.86,
       "y": -2715.52,
       "price": 525500,
-      "owner": "Salvador_Lendazzo",
+      "owner": "Lil_Uzi",
       "owned": true
     },
     {
