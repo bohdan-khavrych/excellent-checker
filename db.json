@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T04:56:22.707Z",
+  "updatedAt": "2026-11-27T05:04:26.510Z",
   "properties": [
     {
       "kind": "house",
@@ -10751,6 +10751,5 @@
       "owner": "Tyler_Pernyl",
       "owned": true
     }
-  ],
-  "fetchFailing": true
+  ]
 }
