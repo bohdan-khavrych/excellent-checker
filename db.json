@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T17:06:21.027Z",
+  "updatedAt": "2026-11-27T17:20:40.264Z",
   "properties": [
     {
       "kind": "house",
@@ -2368,7 +2368,7 @@
       "x": 416.583,
       "y": -1154.03,
       "price": 1600000,
-      "owner": "Melantha_Evil",
+      "owner": "Tony_Hollister",
       "owned": true
     },
     {
@@ -2878,7 +2878,7 @@
       "x": 1068.43,
       "y": -1081.43,
       "price": 450000,
-      "owner": "Tony_Hollister",
+      "owner": "Melantha_Evil",
       "owned": true
     },
     {
