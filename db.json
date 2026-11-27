@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T22:56:24.124Z",
+  "updatedAt": "2026-11-27T23:01:15.315Z",
   "properties": [
     {
       "kind": "house",
@@ -6208,8 +6208,8 @@
       "x": 1989.13,
       "y": 2664.97,
       "price": 390000,
-      "owner": null,
-      "owned": false
+      "owner": "Victor_Reynolds",
+      "owned": true
     },
     {
       "kind": "house",
@@ -7928,8 +7928,8 @@
       "x": 2241.94,
       "y": -1882.07,
       "price": 77000,
-      "owner": "Feat_Axa",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
