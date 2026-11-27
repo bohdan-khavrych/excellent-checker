@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T15:12:30.880Z",
+  "updatedAt": "2026-11-27T15:42:34.099Z",
   "properties": [
     {
       "kind": "house",
@@ -5498,8 +5498,8 @@
       "x": 2313.86,
       "y": -124.441,
       "price": 140000,
-      "owner": null,
-      "owned": false
+      "owner": "Sean_Heartless",
+      "owned": true
     },
     {
       "kind": "house",
