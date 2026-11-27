@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T16:54:23.686Z",
+  "updatedAt": "2026-11-27T17:01:19.898Z",
   "properties": [
     {
       "kind": "house",
@@ -118,8 +118,8 @@
       "x": 1781.26,
       "y": -2101.28,
       "price": 90000,
-      "owner": "Melana_Jissy",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -128,8 +128,8 @@
       "x": 1762.33,
       "y": -2102,
       "price": 85000,
-      "owner": "Melana_Jissy",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -138,8 +138,8 @@
       "x": 1734,
       "y": -2098,
       "price": 82000,
-      "owner": "Melana_Jissy",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -498,7 +498,7 @@
       "x": 2459.46,
       "y": -1691.65,
       "price": 97000,
-      "owner": "Tekashi_Neikov",
+      "owner": "Che_Guevara",
       "owned": true
     },
     {
@@ -2878,7 +2878,7 @@
       "x": 1068.43,
       "y": -1081.43,
       "price": 450000,
-      "owner": "Tony_Barrera",
+      "owner": "Tony_Hollister",
       "owned": true
     },
     {
