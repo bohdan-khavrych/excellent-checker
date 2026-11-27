@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T19:30:59.623Z",
+  "updatedAt": "2026-11-27T19:52:23.637Z",
   "properties": [
     {
       "kind": "house",
@@ -178,7 +178,7 @@
       "x": 1673.67,
       "y": -2122.46,
       "price": 95000,
-      "owner": "Boris_Kaban",
+      "owner": "Borisukichi_Kabano",
       "owned": true
     },
     {
@@ -9878,7 +9878,7 @@
       "x": -858.054,
       "y": 1535.43,
       "price": 333000,
-      "owner": "Boris_Kaban",
+      "owner": "Borisukichi_Kabano",
       "owned": true
     },
     {
