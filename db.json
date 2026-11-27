@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T23:12:20.051Z",
+  "updatedAt": "2026-11-27T04:56:22.707Z",
   "properties": [
     {
       "kind": "house",
@@ -6948,8 +6948,8 @@
       "x": -152.473,
       "y": 881.84,
       "price": 36000,
-      "owner": null,
-      "owned": false
+      "owner": "Hal_Gibson",
+      "owned": true
     },
     {
       "kind": "house",
