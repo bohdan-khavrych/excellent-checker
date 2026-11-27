@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T22:24:21.479Z",
+  "updatedAt": "2026-11-27T22:32:21.350Z",
   "properties": [
     {
       "kind": "house",
@@ -8898,8 +8898,8 @@
       "x": 1315.62,
       "y": 180.108,
       "price": 36000,
-      "owner": "Richard_Markowkin",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
