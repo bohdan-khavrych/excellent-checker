@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T20:44:19.596Z",
+  "updatedAt": "2026-11-27T20:56:24.800Z",
   "properties": [
     {
       "kind": "house",
@@ -328,8 +328,8 @@
       "x": 2067.71,
       "y": -1628.83,
       "price": 150000,
-      "owner": null,
-      "owned": false
+      "owner": "Franck_Labranche",
+      "owned": true
     },
     {
       "kind": "house",
