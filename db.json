@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T05:34:25.622Z",
+  "updatedAt": "2026-11-28T06:28:20.734Z",
   "properties": [
     {
       "kind": "house",
@@ -5248,8 +5248,8 @@
       "x": 2518.5,
       "y": 128.338,
       "price": 158000,
-      "owner": "Masoniwe_Feat",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
