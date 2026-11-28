@@ -1,6 +1,9156 @@
 {
-  "updatedAt": "2026-11-28T10:12:30.020Z",
+  "updatedAt": "2026-11-28T10:14:19.045Z",
   "properties": [
+    {
+      "kind": "house",
+      "id": 1,
+      "name": null,
+      "x": 1854.03,
+      "y": -1914.27,
+      "price": 205000,
+      "owner": "Endru_Garcia",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 2,
+      "name": null,
+      "x": 1872.2,
+      "y": -1911.79,
+      "price": 205000,
+      "owner": "Matthew_Holland",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 3,
+      "name": null,
+      "x": 1891.75,
+      "y": -1914.42,
+      "price": 233000,
+      "owner": "Vitto_Virsetti",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 4,
+      "name": null,
+      "x": 1913.56,
+      "y": -1911.91,
+      "price": 233000,
+      "owner": "John_Nedovolniy",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 5,
+      "name": null,
+      "x": 977.302,
+      "y": -771.713,
+      "price": 1800000,
+      "owner": "Diego_Murzella",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 6,
+      "name": null,
+      "x": 1895.66,
+      "y": -2068.9,
+      "price": 100000,
+      "owner": "Bishop_Aquino",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 7,
+      "name": null,
+      "x": 1873.38,
+      "y": -2070.73,
+      "price": 100000,
+      "owner": "Joe_Sunset",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 8,
+      "name": null,
+      "x": 1851.83,
+      "y": -2070.45,
+      "price": 100000,
+      "owner": "Amadeo_Wiking",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 9,
+      "name": null,
+      "x": 1851.76,
+      "y": -2134.85,
+      "price": 90000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 10,
+      "name": null,
+      "x": 1893.88,
+      "y": -2133.22,
+      "price": 90000,
+      "owner": "Riccardo_Moretti",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 11,
+      "name": null,
+      "x": 1801.8,
+      "y": -2098.94,
+      "price": 80000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 12,
+      "name": null,
+      "x": 1781.26,
+      "y": -2101.28,
+      "price": 90000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 13,
+      "name": null,
+      "x": 1762.33,
+      "y": -2102,
+      "price": 85000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 14,
+      "name": null,
+      "x": 1734,
+      "y": -2098,
+      "price": 82000,
+      "owner": "Mauricio_Hayes",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 15,
+      "name": null,
+      "x": 1711.7,
+      "y": -2101.23,
+      "price": 81000,
+      "owner": "Soul_Mate",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 16,
+      "name": null,
+      "x": 1684.58,
+      "y": -2098.16,
+      "price": 130000,
+      "owner": "Tim_Jizzy",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 17,
+      "name": null,
+      "x": 1667.33,
+      "y": -2106.95,
+      "price": 110000,
+      "owner": "Daddy_Mallord",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 18,
+      "name": null,
+      "x": 1673.67,
+      "y": -2122.46,
+      "price": 95000,
+      "owner": "Borisukichi_Kabano",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 19,
+      "name": null,
+      "x": 1695.59,
+      "y": -2125.82,
+      "price": 90000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 20,
+      "name": null,
+      "x": 1715.17,
+      "y": -2125.43,
+      "price": 88000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 21,
+      "name": null,
+      "x": 1734.69,
+      "y": -2130.34,
+      "price": 79000,
+      "owner": "Vlad_Panov",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 22,
+      "name": null,
+      "x": 1761.25,
+      "y": -2125.43,
+      "price": 91000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 23,
+      "name": null,
+      "x": 1782.27,
+      "y": -2126.51,
+      "price": 90000,
+      "owner": "Santiago_Alvarado",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 24,
+      "name": null,
+      "x": 1804.21,
+      "y": -2124.9,
+      "price": 92000,
+      "owner": "Ichiro_Fallen",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 25,
+      "name": null,
+      "x": 1980.39,
+      "y": -1718.84,
+      "price": 350000,
+      "owner": "Minato_Kazama",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 26,
+      "name": null,
+      "x": 1981,
+      "y": -1682.73,
+      "price": 350000,
+      "owner": "Soprano_Mackenzie",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 27,
+      "name": null,
+      "x": 2015.33,
+      "y": -1732.54,
+      "price": 190000,
+      "owner": "Bishopioz_Aquino",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 28,
+      "name": null,
+      "x": 2016.2,
+      "y": -1716.93,
+      "price": 90000,
+      "owner": "Golden_Vice",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 29,
+      "name": null,
+      "x": 2018.23,
+      "y": -1703.16,
+      "price": 190000,
+      "owner": "Aaron_Vips",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 30,
+      "name": null,
+      "x": 2013.57,
+      "y": -1656.25,
+      "price": 170000,
+      "owner": "Vaas_MontEnegro",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 31,
+      "name": null,
+      "x": 2016.54,
+      "y": -1641.55,
+      "price": 169000,
+      "owner": "Maximus_Layers",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 32,
+      "name": null,
+      "x": 2018.04,
+      "y": -1629.83,
+      "price": 160000,
+      "owner": "Alexei_Navalny",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 33,
+      "name": null,
+      "x": 2067.71,
+      "y": -1628.83,
+      "price": 150000,
+      "owner": "Franck_Labranche",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 34,
+      "name": null,
+      "x": 2067.58,
+      "y": -1643.63,
+      "price": 143000,
+      "owner": "Kord_Hell",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 35,
+      "name": null,
+      "x": 2066.76,
+      "y": -1656.36,
+      "price": 100000,
+      "owner": "Jays_McCloud",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 36,
+      "name": null,
+      "x": 2065.12,
+      "y": -1703.61,
+      "price": 210000,
+      "owner": "Sunix_Tyga",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 37,
+      "name": null,
+      "x": 2066.25,
+      "y": -1716.91,
+      "price": 90000,
+      "owner": "Macho_Layers",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 38,
+      "name": null,
+      "x": 2067.09,
+      "y": -1731.56,
+      "price": 90000,
+      "owner": "Andrey_Burim",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 39,
+      "name": null,
+      "x": 2244.4,
+      "y": -1637.59,
+      "price": 80000,
+      "owner": "Kylusi_Yamada",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 40,
+      "name": null,
+      "x": 2257.28,
+      "y": -1643.97,
+      "price": 79000,
+      "owner": "John_Rockefeller",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 41,
+      "name": null,
+      "x": 2282.28,
+      "y": -1641.22,
+      "price": 80000,
+      "owner": "Jack_Wyndy",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 42,
+      "name": null,
+      "x": 2307.03,
+      "y": -1679.14,
+      "price": 80000,
+      "owner": "Texxe_Og",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 43,
+      "name": null,
+      "x": 2326.91,
+      "y": -1682.1,
+      "price": 150000,
+      "owner": "Domination_Shaitan",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 44,
+      "name": null,
+      "x": 2326.93,
+      "y": -1716.71,
+      "price": 78000,
+      "owner": "Angello_Nostra",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 45,
+      "name": null,
+      "x": 2308.93,
+      "y": -1714.34,
+      "price": 90000,
+      "owner": "Pablo_Escobaro",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 46,
+      "name": null,
+      "x": 2385.52,
+      "y": -1711.66,
+      "price": 140000,
+      "owner": "Sean_Heartless",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 47,
+      "name": null,
+      "x": 2368.44,
+      "y": -1675.34,
+      "price": 98000,
+      "owner": "Armando_Nostra",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 48,
+      "name": null,
+      "x": 2384.7,
+      "y": -1675.83,
+      "price": 110000,
+      "owner": "Tookie_Lonsdale",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 49,
+      "name": null,
+      "x": 2409.14,
+      "y": -1674.92,
+      "price": 89000,
+      "owner": "Aremis_Aquino",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 50,
+      "name": null,
+      "x": 2459.46,
+      "y": -1691.65,
+      "price": 97000,
+      "owner": "Che_Guevara",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 51,
+      "name": null,
+      "x": 2495.23,
+      "y": -1691.13,
+      "price": 400000,
+      "owner": "Contrage_Gunman",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 52,
+      "name": null,
+      "x": 2514.38,
+      "y": -1691.52,
+      "price": 90000,
+      "owner": "Xavier_Ortiz",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 53,
+      "name": null,
+      "x": 2523.25,
+      "y": -1679.46,
+      "price": 110000,
+      "owner": "Saul_Goodman",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 54,
+      "name": null,
+      "x": 2524.7,
+      "y": -1658.65,
+      "price": 99000,
+      "owner": "Abu_Bandit",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 55,
+      "name": null,
+      "x": 2513.69,
+      "y": -1650.24,
+      "price": 70000,
+      "owner": "Vakho_Bandit",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 56,
+      "name": null,
+      "x": 2498.61,
+      "y": -1642.26,
+      "price": 91000,
+      "owner": "Carolina_Ventura",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 57,
+      "name": null,
+      "x": 2469.35,
+      "y": -1646.37,
+      "price": 90000,
+      "owner": "Dmitriy_Impreza",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 58,
+      "name": null,
+      "x": 2451.81,
+      "y": -1641.41,
+      "price": 69000,
+      "owner": "Roman_Rivera",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 59,
+      "name": null,
+      "x": 2413.9,
+      "y": -1646.8,
+      "price": 78000,
+      "owner": "Roberto_Catton",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 60,
+      "name": null,
+      "x": 2393.04,
+      "y": -1646.05,
+      "price": 90000,
+      "owner": "Mike_Wazowski",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 61,
+      "name": null,
+      "x": 2362.98,
+      "y": -1643.16,
+      "price": 60000,
+      "owner": "Matthew_Holland",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 62,
+      "name": null,
+      "x": 2437.95,
+      "y": -2020.83,
+      "price": 110000,
+      "owner": "Richard_Rolinson",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 63,
+      "name": null,
+      "x": 2465.4,
+      "y": -2020.78,
+      "price": 100000,
+      "owner": "Mixail_Gogal",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 64,
+      "name": null,
+      "x": 2486.38,
+      "y": -2021.55,
+      "price": 115000,
+      "owner": "Monserrrrrrrr_Saxa",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 65,
+      "name": null,
+      "x": 2507.97,
+      "y": -2021.03,
+      "price": 111000,
+      "owner": "Dexter_Scaletta",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 66,
+      "name": null,
+      "x": 2522.8,
+      "y": -2018.93,
+      "price": 112000,
+      "owner": "Tiziano_Murz",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 67,
+      "name": null,
+      "x": 2524.33,
+      "y": -1998.3,
+      "price": 102000,
+      "owner": "Dracula_Provincent",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 68,
+      "name": null,
+      "x": 2508.42,
+      "y": -1998.37,
+      "price": 110000,
+      "owner": "Rey_Scorsese",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 69,
+      "name": null,
+      "x": 2483.44,
+      "y": -1995.35,
+      "price": 116000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 70,
+      "name": null,
+      "x": 2464.95,
+      "y": -1995.77,
+      "price": 103000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 71,
+      "name": null,
+      "x": 2696.41,
+      "y": -1990.38,
+      "price": 120000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 72,
+      "name": null,
+      "x": 2672.63,
+      "y": -1989.48,
+      "price": 113000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 73,
+      "name": null,
+      "x": 2652.82,
+      "y": -1989.44,
+      "price": 130000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 74,
+      "name": null,
+      "x": 2637.1,
+      "y": -1991.68,
+      "price": 113000,
+      "owner": "Adam_Vittorio",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 75,
+      "name": null,
+      "x": 2635.46,
+      "y": -2012.69,
+      "price": 113000,
+      "owner": "Carlo_Oddi",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 76,
+      "name": null,
+      "x": 2650.7,
+      "y": -2022.08,
+      "price": 115000,
+      "owner": "James_Liberty",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 77,
+      "name": null,
+      "x": 2673.18,
+      "y": -2020.27,
+      "price": 117000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 78,
+      "name": null,
+      "x": 2695.22,
+      "y": -2020.53,
+      "price": 140000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 79,
+      "name": null,
+      "x": 2851.89,
+      "y": -1365.91,
+      "price": 550000,
+      "owner": "Nick_Rover",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 80,
+      "name": null,
+      "x": 2809.53,
+      "y": -1281.2,
+      "price": 130000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 81,
+      "name": null,
+      "x": 2782.16,
+      "y": -1281.1,
+      "price": 130000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 82,
+      "name": null,
+      "x": 2809.52,
+      "y": -1303.02,
+      "price": 130000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 83,
+      "name": null,
+      "x": 2782.16,
+      "y": -1306.36,
+      "price": 130000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 84,
+      "name": null,
+      "x": 2797.52,
+      "y": -1245.39,
+      "price": 190000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 85,
+      "name": null,
+      "x": 2775.92,
+      "y": -1245.39,
+      "price": 190000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 86,
+      "name": null,
+      "x": 2750.38,
+      "y": -1238.57,
+      "price": 183000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 87,
+      "name": null,
+      "x": 2750.38,
+      "y": -1222.29,
+      "price": 182000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 88,
+      "name": null,
+      "x": 2750.37,
+      "y": -1205.62,
+      "price": 181000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 89,
+      "name": null,
+      "x": 2625.96,
+      "y": -1112.52,
+      "price": 260000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 90,
+      "name": null,
+      "x": 2625.94,
+      "y": -1098.75,
+      "price": 160000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 91,
+      "name": null,
+      "x": 2627.66,
+      "y": -1085.33,
+      "price": 178000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 92,
+      "name": null,
+      "x": 2628.11,
+      "y": -1067.94,
+      "price": 177000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 93,
+      "name": null,
+      "x": 2579.55,
+      "y": -1033.21,
+      "price": 120000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 94,
+      "name": null,
+      "x": 2562.09,
+      "y": -1034.25,
+      "price": 130000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 95,
+      "name": null,
+      "x": 2549.22,
+      "y": -1032.3,
+      "price": 120000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 96,
+      "name": null,
+      "x": 2526.82,
+      "y": -1033.55,
+      "price": 119999,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 97,
+      "name": null,
+      "x": 2512.74,
+      "y": -1027.17,
+      "price": 140000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 98,
+      "name": null,
+      "x": 2479.65,
+      "y": -1064.01,
+      "price": 110000,
+      "owner": "Maksim_Persie",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 99,
+      "name": null,
+      "x": 2499.75,
+      "y": -1065.74,
+      "price": 110000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 100,
+      "name": null,
+      "x": 2526.1,
+      "y": -1060.73,
+      "price": 111000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 101,
+      "name": null,
+      "x": 2534.46,
+      "y": -1063.29,
+      "price": 111000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 102,
+      "name": null,
+      "x": 2576.67,
+      "y": -1070.81,
+      "price": 150000,
+      "owner": "Scatch_Reyes",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 103,
+      "name": null,
+      "x": 2572.27,
+      "y": -1091.87,
+      "price": 150000,
+      "owner": "Eryxon_Hajt",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 104,
+      "name": null,
+      "x": 2519.04,
+      "y": -1113.01,
+      "price": 170000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 105,
+      "name": null,
+      "x": 2470.59,
+      "y": -1105.3,
+      "price": 140000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 106,
+      "name": null,
+      "x": 2456.87,
+      "y": -1102.48,
+      "price": 138000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 107,
+      "name": null,
+      "x": 2438.62,
+      "y": -1105.78,
+      "price": 135000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 108,
+      "name": null,
+      "x": 2407.82,
+      "y": -1106.95,
+      "price": 177000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 109,
+      "name": null,
+      "x": 2373.96,
+      "y": -1138.93,
+      "price": 140000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 110,
+      "name": null,
+      "x": 2394.96,
+      "y": -1133.56,
+      "price": 150000,
+      "owner": "Bounty_Hunter",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 111,
+      "name": null,
+      "x": 2427.22,
+      "y": -1135.79,
+      "price": 120000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 112,
+      "name": null,
+      "x": 2529.56,
+      "y": -1243.32,
+      "price": 130000,
+      "owner": "Travis_Ecje",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 113,
+      "name": null,
+      "x": 2510.57,
+      "y": -1132.48,
+      "price": 166661,
+      "owner": "Hypnoxus_Aon",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 114,
+      "name": null,
+      "x": 2491.45,
+      "y": -1012.1,
+      "price": 100000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 115,
+      "name": null,
+      "x": 2462.53,
+      "y": -1011.14,
+      "price": 100000,
+      "owner": "Andry_Johnson",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 116,
+      "name": null,
+      "x": 2439.68,
+      "y": -1010.08,
+      "price": 100000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 117,
+      "name": null,
+      "x": 2457.74,
+      "y": -1054.66,
+      "price": 100000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 118,
+      "name": null,
+      "x": 2440.56,
+      "y": -1057.33,
+      "price": 100000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 119,
+      "name": null,
+      "x": 2389.29,
+      "y": -1037.02,
+      "price": 70000,
+      "owner": "Leonardo_Garrido",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 120,
+      "name": null,
+      "x": 2370.1,
+      "y": -1034.56,
+      "price": 60000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 121,
+      "name": null,
+      "x": 2335.19,
+      "y": -1045.99,
+      "price": 70000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 122,
+      "name": null,
+      "x": 2297.61,
+      "y": -1053.03,
+      "price": 70000,
+      "owner": "Nikita_Vegas",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 123,
+      "name": null,
+      "x": 2284.14,
+      "y": -1046.07,
+      "price": 70000,
+      "owner": "Carla_Cute",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 124,
+      "name": null,
+      "x": 2454.18,
+      "y": -964.9,
+      "price": 100000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 125,
+      "name": null,
+      "x": 2472.33,
+      "y": -962.046,
+      "price": 120000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 126,
+      "name": null,
+      "x": 2492.1,
+      "y": -965.621,
+      "price": 110000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 127,
+      "name": null,
+      "x": 2517.87,
+      "y": -965.322,
+      "price": 100000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 128,
+      "name": null,
+      "x": 2552.04,
+      "y": -958.326,
+      "price": 95000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 129,
+      "name": null,
+      "x": 2582.94,
+      "y": -952.929,
+      "price": 100000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 130,
+      "name": null,
+      "x": 2581.51,
+      "y": -969.332,
+      "price": 110000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 131,
+      "name": null,
+      "x": 2499.41,
+      "y": -947.009,
+      "price": 100000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 132,
+      "name": null,
+      "x": 2459.41,
+      "y": -947.705,
+      "price": 100000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 133,
+      "name": null,
+      "x": 2388.41,
+      "y": -1279.67,
+      "price": 150000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 134,
+      "name": null,
+      "x": 2387.86,
+      "y": -1328.49,
+      "price": 150000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 135,
+      "name": null,
+      "x": 2389.72,
+      "y": -1346.05,
+      "price": 200000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 136,
+      "name": null,
+      "x": 2383.53,
+      "y": -1366.18,
+      "price": 150000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 137,
+      "name": null,
+      "x": 2439.6,
+      "y": -1357.12,
+      "price": 200000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 138,
+      "name": null,
+      "x": 2439.6,
+      "y": -1338.88,
+      "price": 220000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 139,
+      "name": null,
+      "x": 2433.94,
+      "y": -1320.66,
+      "price": 220000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 140,
+      "name": null,
+      "x": 2433.97,
+      "y": -1303.38,
+      "price": 220000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 141,
+      "name": null,
+      "x": 2434.81,
+      "y": -1289.28,
+      "price": 140000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 142,
+      "name": null,
+      "x": 2433.62,
+      "y": -1275.09,
+      "price": 145000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 143,
+      "name": null,
+      "x": 2472.96,
+      "y": -1238.12,
+      "price": 160000,
+      "owner": "Omon_Vasquez",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 144,
+      "name": null,
+      "x": 2492.06,
+      "y": -1239.01,
+      "price": 162000,
+      "owner": "Gonza_Lopez",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 145,
+      "name": null,
+      "x": 2469.18,
+      "y": -1278.33,
+      "price": 140000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 146,
+      "name": null,
+      "x": 2470.37,
+      "y": -1295.57,
+      "price": 140000,
+      "owner": "Bob_Velasco",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 147,
+      "name": null,
+      "x": 2488.23,
+      "y": -1135.37,
+      "price": 150000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 148,
+      "name": null,
+      "x": 2011.41,
+      "y": -1594.33,
+      "price": 160000,
+      "owner": "Arturka_Torrez",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 149,
+      "name": null,
+      "x": 2002.49,
+      "y": -1594.14,
+      "price": 160000,
+      "owner": "Fernando_Visconte",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 150,
+      "name": null,
+      "x": 2484.46,
+      "y": -28.3926,
+      "price": 192000,
+      "owner": "Victor_Auditore",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 151,
+      "name": null,
+      "x": 2148.93,
+      "y": -1484.88,
+      "price": 370000,
+      "owner": "Parrot_Raspisnoi",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 152,
+      "name": null,
+      "x": 2146.78,
+      "y": -1470.51,
+      "price": 140000,
+      "owner": "Haha_Skrillex",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 153,
+      "name": null,
+      "x": 2152.21,
+      "y": -1446.58,
+      "price": 140000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 154,
+      "name": null,
+      "x": 2149.84,
+      "y": -1433.84,
+      "price": 130000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 155,
+      "name": null,
+      "x": 2150.92,
+      "y": -1419.24,
+      "price": 150000,
+      "owner": "Leone_Castro",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 156,
+      "name": null,
+      "x": 2151.17,
+      "y": -1400.55,
+      "price": 140000,
+      "owner": "Alexey_Morozov",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 157,
+      "name": null,
+      "x": 2129.5,
+      "y": -1361.69,
+      "price": 120000,
+      "owner": "Dauren_Uzakbaev",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 158,
+      "name": null,
+      "x": 2147.67,
+      "y": -1366.13,
+      "price": 150000,
+      "owner": "Salvatore_Blizzard",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 159,
+      "name": null,
+      "x": 2185.08,
+      "y": -1363.72,
+      "price": 135000,
+      "owner": "Madness_Marquez",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 160,
+      "name": null,
+      "x": 2202.85,
+      "y": -1363.7,
+      "price": 135000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 161,
+      "name": null,
+      "x": 2196.23,
+      "y": -1403.99,
+      "price": 130000,
+      "owner": "Ilio_Gigante",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 162,
+      "name": null,
+      "x": 2191.13,
+      "y": -1455.77,
+      "price": 130000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 163,
+      "name": null,
+      "x": 2190.45,
+      "y": -1470.41,
+      "price": 130000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 164,
+      "name": null,
+      "x": 2230.46,
+      "y": -1397.23,
+      "price": 130000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 165,
+      "name": null,
+      "x": 2243.43,
+      "y": -1397.22,
+      "price": 130000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 166,
+      "name": null,
+      "x": 2256.54,
+      "y": -1397.23,
+      "price": 130000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 167,
+      "name": null,
+      "x": 2232.5,
+      "y": -1469.37,
+      "price": 130000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 168,
+      "name": null,
+      "x": 2247.61,
+      "y": -1469.35,
+      "price": 130000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 169,
+      "name": null,
+      "x": 2263.84,
+      "y": -1469.34,
+      "price": 130000,
+      "owner": "Ramon_Descarado",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 170,
+      "name": null,
+      "x": 2249.95,
+      "y": -1238.91,
+      "price": 150000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 171,
+      "name": null,
+      "x": 2229.81,
+      "y": -1241.61,
+      "price": 150000,
+      "owner": "Feo_Rattray",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 172,
+      "name": null,
+      "x": 2209.72,
+      "y": -1240.23,
+      "price": 130000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 173,
+      "name": null,
+      "x": 2191.81,
+      "y": -1239.23,
+      "price": 140000,
+      "owner": "Joker_Rattray",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 174,
+      "name": null,
+      "x": 2153.8,
+      "y": -1243.8,
+      "price": 150000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 175,
+      "name": null,
+      "x": 2133.32,
+      "y": -1232.99,
+      "price": 130000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 176,
+      "name": null,
+      "x": 2110.89,
+      "y": -1244.39,
+      "price": 140000,
+      "owner": "Extazzy_Godboy",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 177,
+      "name": null,
+      "x": 2090.66,
+      "y": -1235.17,
+      "price": 140000,
+      "owner": "Vadim_Paniotov",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 178,
+      "name": null,
+      "x": 2090.78,
+      "y": -1277.84,
+      "price": 180000,
+      "owner": "Zeus_Gragotores",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 179,
+      "name": null,
+      "x": 2111.2,
+      "y": -1278.99,
+      "price": 160000,
+      "owner": "Herman_Pinkman",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 180,
+      "name": null,
+      "x": 2132.12,
+      "y": -1280.06,
+      "price": 170000,
+      "owner": "Wayne_Toretto",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 181,
+      "name": null,
+      "x": 2150.1,
+      "y": -1285.04,
+      "price": 150000,
+      "owner": "Anna_Aleksandrova",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 182,
+      "name": null,
+      "x": 2148.64,
+      "y": -1320.07,
+      "price": 150000,
+      "owner": "John_Laimon",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 183,
+      "name": null,
+      "x": 2126.58,
+      "y": -1320.85,
+      "price": 350000,
+      "owner": "Cherry_Welmore",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 184,
+      "name": null,
+      "x": 2100.84,
+      "y": -1321.87,
+      "price": 140000,
+      "owner": "Monty_Hill",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 185,
+      "name": null,
+      "x": 2093.97,
+      "y": -1122.67,
+      "price": 140000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 186,
+      "name": null,
+      "x": 2095.35,
+      "y": -1145.19,
+      "price": 170000,
+      "owner": "Lubomito_Bellucci",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 187,
+      "name": null,
+      "x": 2092.23,
+      "y": -1166.27,
+      "price": 170000,
+      "owner": "Christian_Fukushima",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 188,
+      "name": null,
+      "x": 2091.6,
+      "y": -1184.3,
+      "price": 150000,
+      "owner": "Thomas_Levin",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 189,
+      "name": null,
+      "x": 2045.43,
+      "y": -1116.64,
+      "price": 150000,
+      "owner": "Sonny_Forelly",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 190,
+      "name": null,
+      "x": 2022.79,
+      "y": -1120.28,
+      "price": 170000,
+      "owner": "Salvadore_Rodriguez",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 191,
+      "name": null,
+      "x": 1955.13,
+      "y": -1115.4,
+      "price": 140000,
+      "owner": "Andreas_Lauren",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 192,
+      "name": null,
+      "x": 1939.29,
+      "y": -1114.5,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 193,
+      "name": null,
+      "x": 1921.31,
+      "y": -1115.28,
+      "price": 150000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 194,
+      "name": null,
+      "x": 1906.1,
+      "y": -1112.94,
+      "price": 170000,
+      "owner": "Leonardo_Chapman",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 195,
+      "name": null,
+      "x": 1885.89,
+      "y": -1113.62,
+      "price": 150000,
+      "owner": "Aleks_Taylor",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 196,
+      "name": null,
+      "x": 2287.51,
+      "y": -1081.05,
+      "price": 190000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 197,
+      "name": null,
+      "x": 2259.42,
+      "y": -1019.12,
+      "price": 160000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 198,
+      "name": null,
+      "x": 2218.72,
+      "y": -1031.68,
+      "price": 160000,
+      "owner": "Sowtix_Magosky",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 199,
+      "name": null,
+      "x": 2186.33,
+      "y": -997.316,
+      "price": 170000,
+      "owner": "Tony_Star",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 200,
+      "name": null,
+      "x": 2108.85,
+      "y": -1000.76,
+      "price": 160000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 201,
+      "name": null,
+      "x": 2045.16,
+      "y": -965.83,
+      "price": 150000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 202,
+      "name": null,
+      "x": 2073.36,
+      "y": -965.16,
+      "price": 150000,
+      "owner": "Armando_Samurai",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 203,
+      "name": null,
+      "x": 2023.02,
+      "y": -1052.95,
+      "price": 140000,
+      "owner": "Tony_Star",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 204,
+      "name": null,
+      "x": 2035.83,
+      "y": -1059.35,
+      "price": 140000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 205,
+      "name": null,
+      "x": 2050.78,
+      "y": -1065.68,
+      "price": 140000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 206,
+      "name": null,
+      "x": 1440.84,
+      "y": -926.171,
+      "price": 400000,
+      "owner": "Artem_Logachev",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 207,
+      "name": null,
+      "x": 1409.9,
+      "y": -920.688,
+      "price": 390000,
+      "owner": "Mad_Dog",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 208,
+      "name": null,
+      "x": 1421.9,
+      "y": -886.218,
+      "price": 650000,
+      "owner": "Ice_Moon",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 209,
+      "name": null,
+      "x": 1468.71,
+      "y": -906.175,
+      "price": 600000,
+      "owner": "Sergio_Capone",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 210,
+      "name": null,
+      "x": 1540.44,
+      "y": -851.304,
+      "price": 1400000,
+      "owner": "Omon_Vasquez",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 211,
+      "name": null,
+      "x": 1535.02,
+      "y": -800.262,
+      "price": 770000,
+      "owner": "Roberto_Catton",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 212,
+      "name": null,
+      "x": 1527.88,
+      "y": -772.661,
+      "price": 777000,
+      "owner": "Lil_Uzi",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 213,
+      "name": null,
+      "x": 1496.95,
+      "y": -687.903,
+      "price": 2850000,
+      "owner": "Dean_Arriano",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 214,
+      "name": null,
+      "x": 1442.52,
+      "y": -628.854,
+      "price": 1700000,
+      "owner": "Dread_Statham",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 215,
+      "name": null,
+      "x": 993.628,
+      "y": -1059.02,
+      "price": 1480000,
+      "owner": "Rusty_Rosado",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 216,
+      "name": null,
+      "x": 1050.92,
+      "y": -1059.28,
+      "price": 1480000,
+      "owner": "Sarah_Yummy",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 217,
+      "name": null,
+      "x": 2513.34,
+      "y": -28.3808,
+      "price": 193000,
+      "owner": "Alexander_Petrovich",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 218,
+      "name": null,
+      "x": 2551.22,
+      "y": 57.3172,
+      "price": 184000,
+      "owner": "Vin_Diesel",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 219,
+      "name": null,
+      "x": 2551.21,
+      "y": -5.5562,
+      "price": 190000,
+      "owner": "Pasha_Pel",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 220,
+      "name": null,
+      "x": 2549.22,
+      "y": 25.1872,
+      "price": 190000,
+      "owner": "Hunter_Miller",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 221,
+      "name": null,
+      "x": 984.544,
+      "y": 1930.66,
+      "price": 430000,
+      "owner": "Alberto_Kane",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 222,
+      "name": null,
+      "x": 985.417,
+      "y": 1901.27,
+      "price": 430000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 223,
+      "name": null,
+      "x": 983.982,
+      "y": 1878.9,
+      "price": 510000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 224,
+      "name": null,
+      "x": 1332.04,
+      "y": -633.523,
+      "price": 1600000,
+      "owner": "Jove_Calibro",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 225,
+      "name": null,
+      "x": 1298.54,
+      "y": -797.987,
+      "price": 5050000,
+      "owner": "Madd_Dogg",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 226,
+      "name": null,
+      "x": 1112.63,
+      "y": -742.055,
+      "price": 1450000,
+      "owner": "Melantha_Evil",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 227,
+      "name": null,
+      "x": 1094.17,
+      "y": -807.097,
+      "price": 1600000,
+      "owner": "Donkihote_Flou",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 228,
+      "name": null,
+      "x": 1034.65,
+      "y": -813.225,
+      "price": 1250000,
+      "owner": "Fernando_Torrero",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 229,
+      "name": null,
+      "x": 989.677,
+      "y": -828.717,
+      "price": 1320000,
+      "owner": "Sweet_Diaz",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 230,
+      "name": null,
+      "x": 938.011,
+      "y": -848.626,
+      "price": 1125000,
+      "owner": "Vinvicius_Caffrey",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 231,
+      "name": null,
+      "x": 923.912,
+      "y": -853.377,
+      "price": 1360000,
+      "owner": "Jame_Cameron",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 232,
+      "name": null,
+      "x": 836.023,
+      "y": -894.886,
+      "price": 2200000,
+      "owner": "Sos_Mula",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 233,
+      "name": null,
+      "x": 827.722,
+      "y": -858.021,
+      "price": 1220000,
+      "owner": "Salvatore_Perez",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 234,
+      "name": null,
+      "x": 724.732,
+      "y": -999.381,
+      "price": 2000000,
+      "owner": "Vincent_Carpenter",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 235,
+      "name": null,
+      "x": 700.25,
+      "y": -1060.32,
+      "price": 1650000,
+      "owner": "Tipo_Murz",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 236,
+      "name": null,
+      "x": 470.67,
+      "y": -1163.6,
+      "price": 2250000,
+      "owner": "Emrys_Stat",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 237,
+      "name": null,
+      "x": 416.583,
+      "y": -1154.03,
+      "price": 1600000,
+      "owner": "Ryan_Wainwright",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 238,
+      "name": null,
+      "x": 352.37,
+      "y": -1197.96,
+      "price": 1350000,
+      "owner": "John_Kennedy",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 239,
+      "name": null,
+      "x": 300.332,
+      "y": -1154.56,
+      "price": 2666000,
+      "owner": "Vadim_Avery",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 240,
+      "name": null,
+      "x": 251.511,
+      "y": -1220.17,
+      "price": 2455500,
+      "owner": "Daniel_Forette",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 241,
+      "name": null,
+      "x": 253.113,
+      "y": -1270.03,
+      "price": 2400000,
+      "owner": "Berya_Murz",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 242,
+      "name": null,
+      "x": 219.134,
+      "y": -1249.9,
+      "price": 1900000,
+      "owner": "Baron_Night",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 243,
+      "name": null,
+      "x": 189.48,
+      "y": -1308.16,
+      "price": 2680000,
+      "owner": "Alex_Cobra",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 244,
+      "name": null,
+      "x": 432.226,
+      "y": -1253.88,
+      "price": 700000,
+      "owner": "Angel_Cassado",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 245,
+      "name": null,
+      "x": 398.096,
+      "y": -1271.39,
+      "price": 1300000,
+      "owner": "Yuto_Markowkin",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 246,
+      "name": null,
+      "x": 355.371,
+      "y": -1281.02,
+      "price": 600000,
+      "owner": "Alex_Akimov",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 247,
+      "name": null,
+      "x": 298.86,
+      "y": -1338.48,
+      "price": 2500000,
+      "owner": "Che_Guevara",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 248,
+      "name": null,
+      "x": 254.44,
+      "y": -1367.2,
+      "price": 2408000,
+      "owner": "Aurelio_Martinez",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 249,
+      "name": null,
+      "x": 228.073,
+      "y": -1405.5,
+      "price": 900000,
+      "owner": "Shan_Mendez",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 250,
+      "name": null,
+      "x": 808.297,
+      "y": -759.437,
+      "price": 2050000,
+      "owner": "Sergio_Asad",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 251,
+      "name": null,
+      "x": 848.106,
+      "y": -745.622,
+      "price": 1100000,
+      "owner": "Carolina_Ventura",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 252,
+      "name": null,
+      "x": 867.745,
+      "y": -717.691,
+      "price": 1690000,
+      "owner": "Evgexa_Kamushkin",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 253,
+      "name": null,
+      "x": 897.684,
+      "y": -677.51,
+      "price": 1600000,
+      "owner": "Richard_Markowkin",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 254,
+      "name": null,
+      "x": 946.3,
+      "y": -710.682,
+      "price": 1200000,
+      "owner": "Pennywise_MacHolland",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 255,
+      "name": null,
+      "x": 980.683,
+      "y": -677.123,
+      "price": 1711000,
+      "owner": "Scott_Moralez",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 256,
+      "name": null,
+      "x": 1045.14,
+      "y": -642.927,
+      "price": 1888000,
+      "owner": "Donatello_Montes",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 257,
+      "name": null,
+      "x": 1094.96,
+      "y": -647.888,
+      "price": 2000000,
+      "owner": "Ryan_Wainwright",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 258,
+      "name": null,
+      "x": 559.401,
+      "y": -1076.22,
+      "price": 1899000,
+      "owner": "Ichiro_Fallen",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 259,
+      "name": null,
+      "x": 497.556,
+      "y": -1095.07,
+      "price": 1800000,
+      "owner": "Robbe_Manhattan",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 260,
+      "name": null,
+      "x": 315.85,
+      "y": -1769.43,
+      "price": 1500000,
+      "owner": "Lil_Uzi",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 261,
+      "name": null,
+      "x": 280.645,
+      "y": -1767.08,
+      "price": 1200000,
+      "owner": "Alan_Massaro",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 262,
+      "name": null,
+      "x": 207,
+      "y": -1769,
+      "price": 1410000,
+      "owner": "Fernando_Florenzo",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 263,
+      "name": null,
+      "x": 168.398,
+      "y": -1768.41,
+      "price": 1570000,
+      "owner": "Carl_Kennedy",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 264,
+      "name": null,
+      "x": 655.972,
+      "y": -1635.87,
+      "price": 755000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 265,
+      "name": null,
+      "x": 657.207,
+      "y": -1652.66,
+      "price": 765000,
+      "owner": "Jonathan_Statham",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 266,
+      "name": null,
+      "x": 1030.8,
+      "y": 1928.27,
+      "price": 480000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 267,
+      "name": null,
+      "x": 697.294,
+      "y": -1626.98,
+      "price": 845000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 268,
+      "name": null,
+      "x": 693.776,
+      "y": -1645.9,
+      "price": 845000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 269,
+      "name": null,
+      "x": 694.816,
+      "y": -1690.72,
+      "price": 740000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 270,
+      "name": null,
+      "x": 693.548,
+      "y": -1705.75,
+      "price": 740000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 271,
+      "name": null,
+      "x": 921.894,
+      "y": -1803.88,
+      "price": 550000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 272,
+      "name": null,
+      "x": 957.995,
+      "y": -1809.15,
+      "price": 550000,
+      "owner": "Vasil_Vasilkov",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 273,
+      "name": null,
+      "x": 893.548,
+      "y": -1635.7,
+      "price": 520000,
+      "owner": "Sergio_Capone",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 274,
+      "name": null,
+      "x": 865.147,
+      "y": -1633.85,
+      "price": 520000,
+      "owner": "Sergio_Capone",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 275,
+      "name": null,
+      "x": 903.431,
+      "y": -1512.97,
+      "price": 1650000,
+      "owner": "Elon_Musk",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 276,
+      "name": null,
+      "x": 898.403,
+      "y": -1472.83,
+      "price": 1600000,
+      "owner": "Tony_Hollister",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 277,
+      "name": null,
+      "x": 900.225,
+      "y": -1447.46,
+      "price": 1590000,
+      "owner": "Thomas_Levin",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 278,
+      "name": null,
+      "x": 841.229,
+      "y": -1471.36,
+      "price": 1500000,
+      "owner": "Gabriello_Murzella",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 279,
+      "name": null,
+      "x": 813.708,
+      "y": -1456.25,
+      "price": 1500000,
+      "owner": "Massima_Dniprovskiy",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 280,
+      "name": null,
+      "x": 852.152,
+      "y": -1423.25,
+      "price": 1450000,
+      "owner": "Santiago_Busto",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 281,
+      "name": null,
+      "x": 1030.8,
+      "y": 1848.27,
+      "price": 459000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 282,
+      "name": null,
+      "x": 822.256,
+      "y": -1505.5,
+      "price": 1510000,
+      "owner": "Tony_Hollister",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 283,
+      "name": null,
+      "x": 849.617,
+      "y": -1519.93,
+      "price": 1630000,
+      "owner": "Bane_DeCollantes",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 284,
+      "name": null,
+      "x": -2662.21,
+      "y": 876.695,
+      "price": 1500000,
+      "owner": "Michael_Lowly",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 285,
+      "name": null,
+      "x": -2641.14,
+      "y": 935.708,
+      "price": 1500000,
+      "owner": "Alex_Adams",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 286,
+      "name": null,
+      "x": 1118.13,
+      "y": -1021.19,
+      "price": 1450000,
+      "owner": "Martin_Matovich",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 287,
+      "name": null,
+      "x": 1127.94,
+      "y": -1021.2,
+      "price": 1455000,
+      "owner": "Alex_Exsellent",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 288,
+      "name": null,
+      "x": 1068.43,
+      "y": -1081.43,
+      "price": 450000,
+      "owner": "Carl_Kennedy",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 289,
+      "name": null,
+      "x": 2415.45,
+      "y": -52.2616,
+      "price": 170000,
+      "owner": "Maximilliano_Rosado",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 290,
+      "name": null,
+      "x": 2438.79,
+      "y": -54.951,
+      "price": 169000,
+      "owner": "Kane_Stewart",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 291,
+      "name": null,
+      "x": 985.726,
+      "y": -1094.4,
+      "price": 450000,
+      "owner": "Roberto_Ferrari",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 292,
+      "name": null,
+      "x": 1326.27,
+      "y": -1089.51,
+      "price": 450000,
+      "owner": "Kayode_Wayne",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 293,
+      "name": null,
+      "x": 1325.95,
+      "y": -1069.14,
+      "price": 450000,
+      "owner": "Matthew_West",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 294,
+      "name": null,
+      "x": 951.137,
+      "y": -909.212,
+      "price": 2500000,
+      "owner": "Maksym_Medow",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 295,
+      "name": null,
+      "x": 954.099,
+      "y": -909.018,
+      "price": 2500000,
+      "owner": "Maksym_Medow",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 296,
+      "name": null,
+      "x": 1382.15,
+      "y": -1088.75,
+      "price": 3355000,
+      "owner": "Rai_Reedus",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 297,
+      "name": null,
+      "x": -2027.83,
+      "y": -40.6418,
+      "price": 450000,
+      "owner": "Donkihote_Flou",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 298,
+      "name": null,
+      "x": -2515.38,
+      "y": -189.402,
+      "price": 625000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 299,
+      "name": null,
+      "x": -2515.38,
+      "y": -170.942,
+      "price": 465000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 300,
+      "name": null,
+      "x": -2515.38,
+      "y": -154.156,
+      "price": 465000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 301,
+      "name": null,
+      "x": -2524.32,
+      "y": -118.729,
+      "price": 455000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 302,
+      "name": null,
+      "x": -2541.51,
+      "y": -119.031,
+      "price": 406000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 303,
+      "name": null,
+      "x": -2558.66,
+      "y": -118.729,
+      "price": 406000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 304,
+      "name": null,
+      "x": -2576.42,
+      "y": -118.732,
+      "price": 406000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 305,
+      "name": null,
+      "x": -2623.42,
+      "y": -99.2828,
+      "price": 380000,
+      "owner": "Shaddy_Noganno",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 306,
+      "name": null,
+      "x": -2625.84,
+      "y": -105.181,
+      "price": 380000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 307,
+      "name": null,
+      "x": -2621.01,
+      "y": -134.773,
+      "price": 460000,
+      "owner": "Denys_Puma",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 308,
+      "name": null,
+      "x": -2620.77,
+      "y": -146.216,
+      "price": 480000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 309,
+      "name": null,
+      "x": -2625.84,
+      "y": -162.426,
+      "price": 460000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 310,
+      "name": null,
+      "x": -2620.79,
+      "y": -185.875,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 311,
+      "name": null,
+      "x": -2625.84,
+      "y": -191.035,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 312,
+      "name": null,
+      "x": -2686.82,
+      "y": -188.248,
+      "price": 345000,
+      "owner": "Marco_Tomaso",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 313,
+      "name": null,
+      "x": -2720.87,
+      "y": 923.812,
+      "price": 1900000,
+      "owner": "Tim_Jizzy",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 314,
+      "name": null,
+      "x": -2710.67,
+      "y": 967.476,
+      "price": 1900000,
+      "owner": "Esteban_Guerra",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 315,
+      "name": null,
+      "x": -2706.64,
+      "y": 864.454,
+      "price": 1745000,
+      "owner": "Tlacuache_Panini",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 316,
+      "name": null,
+      "x": -2737.56,
+      "y": 866.208,
+      "price": 270000,
+      "owner": "Vik_Boll",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 317,
+      "name": null,
+      "x": -2736.88,
+      "y": 846.738,
+      "price": 270000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 318,
+      "name": null,
+      "x": -2737.84,
+      "y": 836.725,
+      "price": 270000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 319,
+      "name": null,
+      "x": -2709.74,
+      "y": 803.084,
+      "price": 270000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 320,
+      "name": null,
+      "x": -2698.9,
+      "y": 803.082,
+      "price": 270000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 321,
+      "name": null,
+      "x": -2687.76,
+      "y": 803.084,
+      "price": 270000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 322,
+      "name": null,
+      "x": -2677.11,
+      "y": 803.086,
+      "price": 270000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 323,
+      "name": null,
+      "x": -2670.47,
+      "y": 803.089,
+      "price": 270000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 324,
+      "name": null,
+      "x": -2660.03,
+      "y": 803.089,
+      "price": 270000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 325,
+      "name": null,
+      "x": -2645.56,
+      "y": 803.087,
+      "price": 270000,
+      "owner": "Miro_Guretto",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 326,
+      "name": null,
+      "x": -2640.3,
+      "y": 730.62,
+      "price": 380000,
+      "owner": "Die_Antwoord",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 327,
+      "name": null,
+      "x": -2661.52,
+      "y": 722.253,
+      "price": 380000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 328,
+      "name": null,
+      "x": -2665.63,
+      "y": 722.252,
+      "price": 380000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 329,
+      "name": null,
+      "x": -2678.23,
+      "y": 722.252,
+      "price": 450000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 330,
+      "name": null,
+      "x": -2372.53,
+      "y": 783.978,
+      "price": 320000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 331,
+      "name": null,
+      "x": -2368.82,
+      "y": 763.444,
+      "price": 320000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 332,
+      "name": null,
+      "x": -2368.82,
+      "y": 740.664,
+      "price": 320000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 333,
+      "name": null,
+      "x": -2368.82,
+      "y": 711.861,
+      "price": 320000,
+      "owner": "Stive_Revazz",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 334,
+      "name": null,
+      "x": -2372.54,
+      "y": 692.734,
+      "price": 320000,
+      "owner": "Mikhail_Rothwell",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 335,
+      "name": null,
+      "x": -2285.32,
+      "y": 829.31,
+      "price": 380000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 336,
+      "name": null,
+      "x": -2285.08,
+      "y": 849.735,
+      "price": 380000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 337,
+      "name": null,
+      "x": -2159.23,
+      "y": 753.36,
+      "price": 360000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 338,
+      "name": null,
+      "x": -2159.23,
+      "y": 786.146,
+      "price": 360000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 339,
+      "name": null,
+      "x": -2099.58,
+      "y": 897.361,
+      "price": 1800000,
+      "owner": "Vinvicius_Caffrey",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 340,
+      "name": null,
+      "x": -2058.89,
+      "y": 889.375,
+      "price": 1800000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 341,
+      "name": null,
+      "x": -2016.35,
+      "y": 897.33,
+      "price": 370000,
+      "owner": "Alberto_Stewart",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 342,
+      "name": null,
+      "x": -2018.55,
+      "y": 849.231,
+      "price": 370000,
+      "owner": "James_Nait",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 343,
+      "name": null,
+      "x": -2018.55,
+      "y": 832.006,
+      "price": 370000,
+      "owner": "Akella_Borz",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 344,
+      "name": null,
+      "x": -2043.89,
+      "y": 1261.37,
+      "price": 230000,
+      "owner": "Valery_Venturas",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 345,
+      "name": null,
+      "x": -1970.37,
+      "y": 1272.98,
+      "price": 230000,
+      "owner": "Mark_Henry",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 346,
+      "name": null,
+      "x": -2024.46,
+      "y": 1275.92,
+      "price": 250000,
+      "owner": "Vasya_Vasilkov",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 347,
+      "name": null,
+      "x": -2028.86,
+      "y": 1275.92,
+      "price": 250000,
+      "owner": "Vasilina_Vasilkova",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 348,
+      "name": null,
+      "x": -2224.78,
+      "y": 902.666,
+      "price": 345000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 349,
+      "name": null,
+      "x": -2174.13,
+      "y": 902.671,
+      "price": 345000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 350,
+      "name": null,
+      "x": -2174.3,
+      "y": 934.384,
+      "price": 345000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 351,
+      "name": null,
+      "x": -2229.22,
+      "y": 934.383,
+      "price": 345000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 352,
+      "name": null,
+      "x": -2238.8,
+      "y": 962.273,
+      "price": 277000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 353,
+      "name": null,
+      "x": -2238.79,
+      "y": 944.094,
+      "price": 277000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 354,
+      "name": null,
+      "x": -2160.13,
+      "y": 1002,
+      "price": 355000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 355,
+      "name": null,
+      "x": -2160.15,
+      "y": 983.837,
+      "price": 355000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 356,
+      "name": null,
+      "x": -2160.15,
+      "y": 965.507,
+      "price": 355000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 357,
+      "name": null,
+      "x": -2160.15,
+      "y": 947.187,
+      "price": 355000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 358,
+      "name": null,
+      "x": -2563.01,
+      "y": 1149.07,
+      "price": 465000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 359,
+      "name": null,
+      "x": -2549.27,
+      "y": 1145.76,
+      "price": 480000,
+      "owner": "Ray_Merrimen",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 360,
+      "name": null,
+      "x": -2534.65,
+      "y": 1143.79,
+      "price": 475000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 361,
+      "name": null,
+      "x": -2523.92,
+      "y": 1142.69,
+      "price": 465000,
+      "owner": "Alexjo_Kalsin",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 362,
+      "name": null,
+      "x": -2517.11,
+      "y": 1142.41,
+      "price": 480000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 363,
+      "name": null,
+      "x": -2506.39,
+      "y": 1142.15,
+      "price": 470000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 364,
+      "name": null,
+      "x": -2493.32,
+      "y": 1141.98,
+      "price": 482000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 365,
+      "name": null,
+      "x": 1241.95,
+      "y": -1075.39,
+      "price": 400000,
+      "owner": "Samuel_Escobar",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 366,
+      "name": null,
+      "x": 1242.27,
+      "y": -1100.58,
+      "price": 400000,
+      "owner": "Ronald_Fletcher",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 367,
+      "name": null,
+      "x": 1285.26,
+      "y": -1091.58,
+      "price": 400000,
+      "owner": "Marco_Manhattan",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 368,
+      "name": null,
+      "x": 1285.26,
+      "y": -1066.06,
+      "price": 400000,
+      "owner": "Christian_Fukushima",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 369,
+      "name": null,
+      "x": 1141.81,
+      "y": -1068.6,
+      "price": 400000,
+      "owner": "Robbe_Manhattan",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 370,
+      "name": null,
+      "x": 1142.12,
+      "y": -1094.07,
+      "price": 400000,
+      "owner": "Kevin_Escobar",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 371,
+      "name": null,
+      "x": 1183.47,
+      "y": -1100.13,
+      "price": 400000,
+      "owner": "Mauricio_Emerald",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 372,
+      "name": null,
+      "x": 1183.47,
+      "y": -1077.54,
+      "price": 400000,
+      "owner": "Fun_Lay",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 373,
+      "name": null,
+      "x": 1103.4,
+      "y": -1093.48,
+      "price": 400000,
+      "owner": "Victor_Auditore",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 374,
+      "name": null,
+      "x": 1103.4,
+      "y": -1068.11,
+      "price": 400000,
+      "owner": "Stariy_Vor",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 375,
+      "name": null,
+      "x": 1059.21,
+      "y": -1105.14,
+      "price": 650000,
+      "owner": "Alex_Alvares",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 376,
+      "name": null,
+      "x": 793.984,
+      "y": -1707.43,
+      "price": 600000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 377,
+      "name": null,
+      "x": 794.991,
+      "y": -1692.08,
+      "price": 310000,
+      "owner": "Oliver_Ghost",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 378,
+      "name": null,
+      "x": 797.265,
+      "y": -1729.4,
+      "price": 450000,
+      "owner": "Han_Twerrta",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 379,
+      "name": null,
+      "x": 791.474,
+      "y": -1753.22,
+      "price": 400000,
+      "owner": "Alexander_Molnov",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 380,
+      "name": null,
+      "x": 769.197,
+      "y": -1745.93,
+      "price": 600000,
+      "owner": "Michael_Freeman",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 381,
+      "name": null,
+      "x": 769.205,
+      "y": -1696.57,
+      "price": 700000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 382,
+      "name": null,
+      "x": 768.063,
+      "y": -1655.93,
+      "price": 650000,
+      "owner": "Enzo_Finelli",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 383,
+      "name": null,
+      "x": 653.24,
+      "y": -1619.93,
+      "price": 600000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 384,
+      "name": null,
+      "x": 652.662,
+      "y": -1694,
+      "price": 600000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 385,
+      "name": null,
+      "x": 771.128,
+      "y": -1510.73,
+      "price": 900000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 386,
+      "name": null,
+      "x": 782.782,
+      "y": -1464.58,
+      "price": 900000,
+      "owner": "Sam_Murz",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 387,
+      "name": null,
+      "x": 784.405,
+      "y": -1436.04,
+      "price": 800000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 388,
+      "name": null,
+      "x": -2545.21,
+      "y": 920.343,
+      "price": 374500,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 389,
+      "name": null,
+      "x": 761.058,
+      "y": -1564.19,
+      "price": 900000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 390,
+      "name": null,
+      "x": -2551.85,
+      "y": 920.375,
+      "price": 374000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 391,
+      "name": null,
+      "x": -2562.31,
+      "y": 920.376,
+      "price": 375000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 392,
+      "name": null,
+      "x": 648.854,
+      "y": -1536.88,
+      "price": 950000,
+      "owner": "Jose_Bullet",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 393,
+      "name": null,
+      "x": 648.855,
+      "y": -1489.39,
+      "price": 950000,
+      "owner": "Massima_Dniprovskiy",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 394,
+      "name": null,
+      "x": 648.853,
+      "y": -1442.3,
+      "price": 950000,
+      "owner": "Kostya_Soriano",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 395,
+      "name": null,
+      "x": 685.528,
+      "y": -1421.91,
+      "price": 960000,
+      "owner": "Grysha_Walter",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 396,
+      "name": null,
+      "x": 739.061,
+      "y": -1418.51,
+      "price": 1000000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 397,
+      "name": null,
+      "x": 142.818,
+      "y": -1470.52,
+      "price": 700000,
+      "owner": "Martin_Hollyday",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 398,
+      "name": null,
+      "x": -683.931,
+      "y": 939.513,
+      "price": 1450000,
+      "owner": "Biron_Presley",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 399,
+      "name": null,
+      "x": -692.33,
+      "y": 939.724,
+      "price": 1500000,
+      "owner": "Battista_McGazzilo",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 400,
+      "name": null,
+      "x": 1029.36,
+      "y": 1905.93,
+      "price": 455000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 401,
+      "name": null,
+      "x": 1030.36,
+      "y": 1876.43,
+      "price": 470000,
+      "owner": "Skez_Espayzer",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 402,
+      "name": null,
+      "x": -2240.52,
+      "y": 786.229,
+      "price": 371000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 403,
+      "name": null,
+      "x": -2223.72,
+      "y": 821.132,
+      "price": 371000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 404,
+      "name": null,
+      "x": -2112.42,
+      "y": 795.746,
+      "price": 305000,
+      "owner": "Sergio_Vasquez",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 405,
+      "name": null,
+      "x": -2094.22,
+      "y": 795.753,
+      "price": 307000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 406,
+      "name": null,
+      "x": 2450.27,
+      "y": 742.691,
+      "price": 755000,
+      "owner": "Franklin_Saint",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 407,
+      "name": null,
+      "x": 2392.47,
+      "y": -54.9591,
+      "price": 165000,
+      "owner": "Enzo_Rossentall",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 408,
+      "name": null,
+      "x": 2367.27,
+      "y": -49.1056,
+      "price": 165000,
+      "owner": "Esteban_Guerra",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 409,
+      "name": null,
+      "x": 2398.14,
+      "y": 736.096,
+      "price": 780000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 410,
+      "name": null,
+      "x": 2369.18,
+      "y": 735.188,
+      "price": 890000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 411,
+      "name": null,
+      "x": 2346.47,
+      "y": 736.427,
+      "price": 560000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 412,
+      "name": null,
+      "x": 2258.24,
+      "y": 655.922,
+      "price": 780000,
+      "owner": "Luciano_Barzini",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 413,
+      "name": null,
+      "x": 2450.74,
+      "y": 714.152,
+      "price": 560000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 414,
+      "name": null,
+      "x": 2449.05,
+      "y": 689.874,
+      "price": 760000,
+      "owner": "Fernando_Florenzo",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 415,
+      "name": null,
+      "x": 2450.23,
+      "y": 662.618,
+      "price": 760000,
+      "owner": "Luciano_Barzini",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 416,
+      "name": null,
+      "x": 2317.75,
+      "y": 656.034,
+      "price": 780000,
+      "owner": "Luciano_Barzini",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 417,
+      "name": null,
+      "x": 2346.26,
+      "y": 656.286,
+      "price": 510000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 418,
+      "name": null,
+      "x": 2368.52,
+      "y": 655.144,
+      "price": 775000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 419,
+      "name": null,
+      "x": 2397.6,
+      "y": 656.013,
+      "price": 524000,
+      "owner": "Max_Verstappen",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 420,
+      "name": null,
+      "x": 2123.28,
+      "y": 651.711,
+      "price": 900000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 421,
+      "name": null,
+      "x": 2094.1,
+      "y": 650.895,
+      "price": 760000,
+      "owner": "Gamulya_Flocka",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 422,
+      "name": null,
+      "x": 2065.75,
+      "y": 650.114,
+      "price": 510000,
+      "owner": "Sam_Winstrike",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 423,
+      "name": null,
+      "x": 2043.19,
+      "y": 651.768,
+      "price": 520000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 424,
+      "name": null,
+      "x": 2011.46,
+      "y": 694.678,
+      "price": 850000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 425,
+      "name": null,
+      "x": 2040.74,
+      "y": 695.806,
+      "price": 630000,
+      "owner": "Ivan_Rainbaw",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 426,
+      "name": null,
+      "x": 2396.96,
+      "y": 690.418,
+      "price": 780000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 427,
+      "name": null,
+      "x": 2368.61,
+      "y": 690.183,
+      "price": 520000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 428,
+      "name": null,
+      "x": 2346.35,
+      "y": 691.61,
+      "price": 780000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 429,
+      "name": null,
+      "x": 2014.14,
+      "y": 650.736,
+      "price": 480000,
+      "owner": "Tyler_Pernyl",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 430,
+      "name": null,
+      "x": 2256.97,
+      "y": 690.875,
+      "price": 760000,
+      "owner": "Kiyoshi_Saint",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 431,
+      "name": null,
+      "x": 2228.73,
+      "y": 690.125,
+      "price": 466000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 432,
+      "name": null,
+      "x": 2206.47,
+      "y": 691.905,
+      "price": 730000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 433,
+      "name": null,
+      "x": 2177.28,
+      "y": 690.575,
+      "price": 810000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 434,
+      "name": null,
+      "x": 553.073,
+      "y": -1200.15,
+      "price": 1200000,
+      "owner": "Madd_Dogg",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 435,
+      "name": null,
+      "x": 2257.54,
+      "y": 735.856,
+      "price": 830000,
+      "owner": "Flerken_Hayden",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 436,
+      "name": null,
+      "x": 2317.12,
+      "y": 690.71,
+      "price": 970000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 437,
+      "name": null,
+      "x": 2228.25,
+      "y": 734.924,
+      "price": 540000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 438,
+      "name": null,
+      "x": 2205.79,
+      "y": 736.294,
+      "price": 710000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 439,
+      "name": null,
+      "x": 891.083,
+      "y": -782.673,
+      "price": 1600000,
+      "owner": "Maksym_Medow",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 440,
+      "name": null,
+      "x": 1106.06,
+      "y": -299.701,
+      "price": 180000,
+      "owner": "Sage_Cox",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 441,
+      "name": null,
+      "x": 2122.62,
+      "y": 732.104,
+      "price": 870000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 442,
+      "name": null,
+      "x": 2093.4,
+      "y": 730.727,
+      "price": 780000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 443,
+      "name": null,
+      "x": 2065.13,
+      "y": 730.155,
+      "price": 610000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 444,
+      "name": null,
+      "x": 2042.51,
+      "y": 732.024,
+      "price": 605000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 445,
+      "name": null,
+      "x": 2013.24,
+      "y": 730.954,
+      "price": 560000,
+      "owner": "Bernardo_Curtis",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 446,
+      "name": null,
+      "x": 2014.06,
+      "y": 774.36,
+      "price": 780000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 447,
+      "name": null,
+      "x": 2043.34,
+      "y": 775.734,
+      "price": 509000,
+      "owner": "Darixal_Nazarbaev",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 448,
+      "name": null,
+      "x": 2071.47,
+      "y": 775.968,
+      "price": 450000,
+      "owner": "Eito_Ito",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 449,
+      "name": null,
+      "x": 2094.23,
+      "y": 774.39,
+      "price": 604000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 450,
+      "name": null,
+      "x": 2123.42,
+      "y": 776.102,
+      "price": 540000,
+      "owner": "Mergo_Esposito",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 451,
+      "name": null,
+      "x": 1465.15,
+      "y": 1895.04,
+      "price": 407000,
+      "owner": "Minato_Kazama",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 452,
+      "name": null,
+      "x": 1465.13,
+      "y": 1920.04,
+      "price": 406000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 453,
+      "name": null,
+      "x": 1439.71,
+      "y": 1952.07,
+      "price": 450000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 454,
+      "name": null,
+      "x": 1412.64,
+      "y": 1952.04,
+      "price": 430000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 455,
+      "name": null,
+      "x": 1364.51,
+      "y": 1896.74,
+      "price": 386000,
+      "owner": "Tupac_Shakur",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 456,
+      "name": null,
+      "x": 1363.97,
+      "y": 1931.7,
+      "price": 310000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 457,
+      "name": null,
+      "x": -2791.79,
+      "y": 212.492,
+      "price": 900000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 458,
+      "name": null,
+      "x": -2789.71,
+      "y": 183.752,
+      "price": 900000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 459,
+      "name": null,
+      "x": -2791.83,
+      "y": 103.794,
+      "price": 900000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 460,
+      "name": null,
+      "x": -2792.64,
+      "y": 92.0599,
+      "price": 800000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 461,
+      "name": null,
+      "x": -2792.78,
+      "y": -17.7866,
+      "price": 910000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 462,
+      "name": null,
+      "x": -347.894,
+      "y": -1045.66,
+      "price": 800000,
+      "owner": "Johnny_Sins",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 463,
+      "name": null,
+      "x": -2789.81,
+      "y": -52.7272,
+      "price": 900000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 464,
+      "name": null,
+      "x": -2789.8,
+      "y": -181.36,
+      "price": 900000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 465,
+      "name": null,
+      "x": -2792.89,
+      "y": -146.017,
+      "price": 850000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 466,
+      "name": null,
+      "x": -2791.86,
+      "y": -133.638,
+      "price": 900000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 467,
+      "name": null,
+      "x": -2725.07,
+      "y": -92.5829,
+      "price": 950000,
+      "owner": "Joshua_Reed",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 468,
+      "name": null,
+      "x": -2690.18,
+      "y": -114.193,
+      "price": 900000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 469,
+      "name": null,
+      "x": -2690.46,
+      "y": -152.788,
+      "price": 800000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 470,
+      "name": null,
+      "x": -2722.04,
+      "y": -127.999,
+      "price": 800000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 471,
+      "name": null,
+      "x": -310.685,
+      "y": 1303.54,
+      "price": 1140000,
+      "owner": "Angel_Murz",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 472,
+      "name": null,
+      "x": 986.409,
+      "y": 2271.74,
+      "price": 640000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 473,
+      "name": null,
+      "x": 956.935,
+      "y": 2270.9,
+      "price": 625000,
+      "owner": "Ben_Wiggins",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 474,
+      "name": null,
+      "x": 985.976,
+      "y": 2314.27,
+      "price": 654000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 475,
+      "name": null,
+      "x": 984.978,
+      "y": 2343.63,
+      "price": 430000,
+      "owner": "Franco_Bainsizo",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 476,
+      "name": null,
+      "x": 1032.7,
+      "y": 2316.19,
+      "price": 530000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 477,
+      "name": null,
+      "x": 1223.33,
+      "y": 2616.86,
+      "price": 1200000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 478,
+      "name": null,
+      "x": 1225.61,
+      "y": 2585,
+      "price": 1130000,
+      "owner": "Adelante_Cortez",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 479,
+      "name": null,
+      "x": 1265.57,
+      "y": 2609.45,
+      "price": 1230000,
+      "owner": "Hyped_Shiro",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 480,
+      "name": null,
+      "x": 1285.03,
+      "y": 2610.4,
+      "price": 1230000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 481,
+      "name": null,
+      "x": 1313.82,
+      "y": 2609.8,
+      "price": 890000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 482,
+      "name": null,
+      "x": 1344.82,
+      "y": 2609.86,
+      "price": 890000,
+      "owner": "Nortwood_Curtis",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 483,
+      "name": null,
+      "x": 1274.42,
+      "y": 2522.6,
+      "price": 1250000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 484,
+      "name": null,
+      "x": 1269.98,
+      "y": 2554.42,
+      "price": 1100000,
+      "owner": "Michael_Lowly",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 485,
+      "name": null,
+      "x": 1315.72,
+      "y": 2524.67,
+      "price": 1150000,
+      "owner": "Lance_Akkerman",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 486,
+      "name": null,
+      "x": 1325.54,
+      "y": 2567.93,
+      "price": 980000,
+      "owner": "Salvador_Lendazzo",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 487,
+      "name": null,
+      "x": 1359.69,
+      "y": 2566.04,
+      "price": 1100000,
+      "owner": "Ladislao_Castellano",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 488,
+      "name": null,
+      "x": 1349.51,
+      "y": 2568.03,
+      "price": 1100000,
+      "owner": "Bruno_Cortez",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 489,
+      "name": null,
+      "x": 1417.75,
+      "y": 2567.84,
+      "price": 980000,
+      "owner": "Lina_Decado",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 490,
+      "name": null,
+      "x": 1441.76,
+      "y": 2568.3,
+      "price": 1050000,
+      "owner": "Steven_Jefferson",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 491,
+      "name": null,
+      "x": 1451.34,
+      "y": 2565.8,
+      "price": 1100000,
+      "owner": "Mark_Henry",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 492,
+      "name": null,
+      "x": 1503.24,
+      "y": 2568.29,
+      "price": 1100000,
+      "owner": "Pablo_Murzella",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 493,
+      "name": null,
+      "x": 1513.35,
+      "y": 2565.81,
+      "price": 1250000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 494,
+      "name": null,
+      "x": 1551.49,
+      "y": 2567.69,
+      "price": 1230000,
+      "owner": "Fernando_Torrero",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 495,
+      "name": null,
+      "x": 1564.63,
+      "y": 2566.15,
+      "price": 1240000,
+      "owner": "Rufus_Winchester",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 496,
+      "name": null,
+      "x": 1596.45,
+      "y": 2568.04,
+      "price": 1230000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 497,
+      "name": null,
+      "x": 1623.6,
+      "y": 2568.06,
+      "price": 1230000,
+      "owner": "Evgexa_Kamushkin",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 498,
+      "name": null,
+      "x": 1646.44,
+      "y": 2570.31,
+      "price": 560000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 499,
+      "name": null,
+      "x": 1665.63,
+      "y": 2569.8,
+      "price": 610000,
+      "owner": "Barry_Winchester",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 500,
+      "name": null,
+      "x": 1666.88,
+      "y": 2609.5,
+      "price": 610000,
+      "owner": "Staff_Wolden",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 501,
+      "name": null,
+      "x": 1638.19,
+      "y": 2609.71,
+      "price": 540000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 502,
+      "name": null,
+      "x": 1554.61,
+      "y": 2610.39,
+      "price": 540000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 503,
+      "name": null,
+      "x": 1673.08,
+      "y": 2801.14,
+      "price": 540000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 504,
+      "name": null,
+      "x": 1564.75,
+      "y": 2757.28,
+      "price": 587000,
+      "owner": "Astray_Soul",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 505,
+      "name": null,
+      "x": 1563.92,
+      "y": 2776.61,
+      "price": 523000,
+      "owner": "Xochipilli_Mandolini",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 506,
+      "name": null,
+      "x": 1564.55,
+      "y": 2793.57,
+      "price": 597000,
+      "owner": "Dino_Shved",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 507,
+      "name": null,
+      "x": 1654.87,
+      "y": 2801.49,
+      "price": 569000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 508,
+      "name": null,
+      "x": 1637.8,
+      "y": 2802.33,
+      "price": 546000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 509,
+      "name": null,
+      "x": 1618.34,
+      "y": 2801.38,
+      "price": 561000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 510,
+      "name": null,
+      "x": 2481.71,
+      "y": 1525.86,
+      "price": 580000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 511,
+      "name": null,
+      "x": 2461.28,
+      "y": 1558.8,
+      "price": 580000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 512,
+      "name": null,
+      "x": 2532.77,
+      "y": 1507.72,
+      "price": 580000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 513,
+      "name": null,
+      "x": 2560.23,
+      "y": 1561.85,
+      "price": 580000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 514,
+      "name": null,
+      "x": -2655.33,
+      "y": 986.688,
+      "price": 1600000,
+      "owner": "Emiliano_Martines",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 515,
+      "name": null,
+      "x": 2410.87,
+      "y": -5.5263,
+      "price": 165000,
+      "owner": "Vitaliette_Descarado",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 516,
+      "name": null,
+      "x": 2410.62,
+      "y": 21.7506,
+      "price": 165000,
+      "owner": "Alberto_Descarado",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 517,
+      "name": null,
+      "x": 2374.19,
+      "y": 22.0242,
+      "price": 165000,
+      "owner": "Aurelio_Martinez",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 518,
+      "name": null,
+      "x": 2374.17,
+      "y": 42.2234,
+      "price": 160000,
+      "owner": "Daniel_Richmond",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 519,
+      "name": null,
+      "x": 2374.3,
+      "y": 71.1556,
+      "price": 160000,
+      "owner": "Alistair_Reign",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 520,
+      "name": null,
+      "x": 2398.58,
+      "y": 111.087,
+      "price": 160000,
+      "owner": "Evil_Dark",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 521,
+      "name": null,
+      "x": -2132.07,
+      "y": -2511.26,
+      "price": 144000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 522,
+      "name": null,
+      "x": 2458.93,
+      "y": 128.262,
+      "price": 155000,
+      "owner": "Hattori_Hanzo",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 523,
+      "name": null,
+      "x": 2444.18,
+      "y": 92.225,
+      "price": 162000,
+      "owner": "Diego_Delgado",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 524,
+      "name": null,
+      "x": 2480.64,
+      "y": 126.409,
+      "price": 162000,
+      "owner": "Piter_Black",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 525,
+      "name": null,
+      "x": 2518.5,
+      "y": 128.338,
+      "price": 158000,
+      "owner": "Leonardo_Restrero",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 526,
+      "name": null,
+      "x": 2514,
+      "y": 94.6706,
+      "price": 145000,
+      "owner": "Vitto_Virsetti",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 527,
+      "name": null,
+      "x": -2551.93,
+      "y": 2267.01,
+      "price": 999000,
+      "owner": "Yung_Trappa",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 528,
+      "name": null,
+      "x": -2523.71,
+      "y": 2239.37,
+      "price": 1000000,
+      "owner": "Ace_Olderez",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 529,
+      "name": null,
+      "x": 691.576,
+      "y": -1275.91,
+      "price": 12500000,
+      "owner": "Baron_Night",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 530,
+      "name": null,
+      "x": 252.266,
+      "y": -121.284,
+      "price": 140000,
+      "owner": "Hans_Onehammerfeld",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 531,
+      "name": null,
+      "x": 2363.25,
+      "y": 116.209,
+      "price": 220000,
+      "owner": "Hattori_Hanzo",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 532,
+      "name": null,
+      "x": -2220.17,
+      "y": -2400.02,
+      "price": 145000,
+      "owner": "Panteleimon_Despaund",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 533,
+      "name": null,
+      "x": -2238.59,
+      "y": -2424.41,
+      "price": 145000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 534,
+      "name": null,
+      "x": -2214.4,
+      "y": -2451.59,
+      "price": 140000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 535,
+      "name": null,
+      "x": -2224.23,
+      "y": -2482.41,
+      "price": 150000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 536,
+      "name": null,
+      "x": -2174.08,
+      "y": -2481.85,
+      "price": 145000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 537,
+      "name": null,
+      "x": -2192.79,
+      "y": -2509.99,
+      "price": 147000,
+      "owner": "Hunter_Burbon",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 538,
+      "name": null,
+      "x": -2180.76,
+      "y": -2519.72,
+      "price": 148000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 539,
+      "name": null,
+      "x": -2161.03,
+      "y": -2535.15,
+      "price": 143000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 540,
+      "name": null,
+      "x": 2363.63,
+      "y": 142.04,
+      "price": 225000,
+      "owner": "Salvador_Ortega",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 541,
+      "name": null,
+      "x": 2363.62,
+      "y": 166.234,
+      "price": 215000,
+      "owner": "Raul_Moralez",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 542,
+      "name": null,
+      "x": 2363.49,
+      "y": 187.192,
+      "price": 230000,
+      "owner": "Stan_Stirling",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 543,
+      "name": null,
+      "x": 2324.33,
+      "y": 191.248,
+      "price": 230000,
+      "owner": "Big_Bon",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 544,
+      "name": null,
+      "x": 2324.46,
+      "y": 162.369,
+      "price": 225000,
+      "owner": "Gabriello_Murzella",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 545,
+      "name": null,
+      "x": 2324.03,
+      "y": 136.579,
+      "price": 215000,
+      "owner": "Yamato_Tamura",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 546,
+      "name": null,
+      "x": 2324.54,
+      "y": 116.182,
+      "price": 200000,
+      "owner": "Rina_Pups",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 547,
+      "name": null,
+      "x": 2245.49,
+      "y": -121.73,
+      "price": 130000,
+      "owner": "Alessandro_Ricci",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 548,
+      "name": null,
+      "x": 2272.47,
+      "y": -118.696,
+      "price": 140000,
+      "owner": "Gamulya_Flocka",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 549,
+      "name": null,
+      "x": 2293.82,
+      "y": -124.224,
+      "price": 132000,
+      "owner": "Hugo_Hegwin",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 550,
+      "name": null,
+      "x": 2313.86,
+      "y": -124.441,
+      "price": 140000,
+      "owner": "Sean_Heartless",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 551,
+      "name": null,
+      "x": 2203.62,
+      "y": -89.3191,
+      "price": 139000,
+      "owner": "Larry_Lee",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 552,
+      "name": null,
+      "x": 2197.8,
+      "y": -60.7232,
+      "price": 129000,
+      "owner": "Ewear_Feal",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 553,
+      "name": null,
+      "x": 2200.44,
+      "y": -37.3088,
+      "price": 142000,
+      "owner": "Chase_Postman",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 554,
+      "name": null,
+      "x": 2245.65,
+      "y": -1.6718,
+      "price": 132000,
+      "owner": "Gustavo_Alvarez",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 555,
+      "name": null,
+      "x": 2270.48,
+      "y": -7.5124,
+      "price": 142000,
+      "owner": "Salvador_Ortega",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 556,
+      "name": null,
+      "x": -607.673,
+      "y": -1074.12,
+      "price": 42000,
+      "owner": "Dimetrio_Floyd",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 557,
+      "name": null,
+      "x": -601.157,
+      "y": -1065.74,
+      "price": 39000,
+      "owner": "Michael_Guerra",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 558,
+      "name": null,
+      "x": -594.727,
+      "y": -1057.11,
+      "price": 37000,
+      "owner": "Giuliano_Enderson",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 559,
+      "name": null,
+      "x": -588.812,
+      "y": -1048.75,
+      "price": 41000,
+      "owner": "Leo_Lendazzo",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 560,
+      "name": null,
+      "x": -582.634,
+      "y": -1040.52,
+      "price": 46000,
+      "owner": "Dean_Reyes",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 561,
+      "name": null,
+      "x": -576.775,
+      "y": -1032.24,
+      "price": 37500,
+      "owner": "Armando_Nostra",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 562,
+      "name": null,
+      "x": -2081.6,
+      "y": -2547.72,
+      "price": 95000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 563,
+      "name": null,
+      "x": -2069.6,
+      "y": -2495.04,
+      "price": 32000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 564,
+      "name": null,
+      "x": -2087.32,
+      "y": -2510.57,
+      "price": 35000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 565,
+      "name": null,
+      "x": -2101.73,
+      "y": -2532.13,
+      "price": 32000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 566,
+      "name": null,
+      "x": -2074.86,
+      "y": -2526.81,
+      "price": 39000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 567,
+      "name": null,
+      "x": -2058.59,
+      "y": -2503.41,
+      "price": 45000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 568,
+      "name": null,
+      "x": -2045.38,
+      "y": -2522.79,
+      "price": 43000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 569,
+      "name": null,
+      "x": -2053.49,
+      "y": -2544.36,
+      "price": 49000,
+      "owner": "Olivia_Reiner",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 570,
+      "name": null,
+      "x": -2069.29,
+      "y": -2561.42,
+      "price": 46500,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 571,
+      "name": null,
+      "x": -2042.76,
+      "y": -2559.02,
+      "price": 51000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 572,
+      "name": null,
+      "x": -2031,
+      "y": -2539,
+      "price": 53200,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 573,
+      "name": null,
+      "x": -2348.54,
+      "y": 2423.25,
+      "price": 370000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 574,
+      "name": null,
+      "x": -2379.49,
+      "y": 2444.14,
+      "price": 400000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 575,
+      "name": null,
+      "x": -2424.7,
+      "y": 2448.52,
+      "price": 399000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 576,
+      "name": null,
+      "x": -2479.81,
+      "y": 2449.27,
+      "price": 410000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 577,
+      "name": null,
+      "x": -2437.41,
+      "y": 2354.57,
+      "price": 200000,
+      "owner": "Martin_Forlan",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 578,
+      "name": null,
+      "x": -2583.13,
+      "y": 2307.98,
+      "price": 350000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 579,
+      "name": null,
+      "x": -2627.14,
+      "y": 2292.08,
+      "price": 450000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 580,
+      "name": null,
+      "x": -2626.72,
+      "y": 2318.69,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 581,
+      "name": null,
+      "x": -1667.31,
+      "y": 2486.32,
+      "price": 45100,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 582,
+      "name": null,
+      "x": -1670.26,
+      "y": 2546.04,
+      "price": 46120,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 583,
+      "name": null,
+      "x": -1669.86,
+      "y": 2597.97,
+      "price": 46000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 584,
+      "name": null,
+      "x": -1587.55,
+      "y": 2650.03,
+      "price": 52100,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 585,
+      "name": null,
+      "x": -1568.16,
+      "y": 2629.67,
+      "price": 53200,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 586,
+      "name": null,
+      "x": -1563.01,
+      "y": 2651.22,
+      "price": 52390,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 587,
+      "name": null,
+      "x": -1512.67,
+      "y": 2646.82,
+      "price": 51200,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 588,
+      "name": null,
+      "x": -1459.29,
+      "y": 2653.38,
+      "price": 52100,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 589,
+      "name": null,
+      "x": -1444.62,
+      "y": 2653.1,
+      "price": 52700,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 590,
+      "name": null,
+      "x": -1589.9,
+      "y": 2706.28,
+      "price": 54240,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 591,
+      "name": null,
+      "x": -1577.7,
+      "y": 2686.77,
+      "price": 56000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 592,
+      "name": null,
+      "x": -1564.39,
+      "y": 2712.07,
+      "price": 51400,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 593,
+      "name": null,
+      "x": -1551.2,
+      "y": 2699.71,
+      "price": 53000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 594,
+      "name": null,
+      "x": -1529.37,
+      "y": 2686.32,
+      "price": 53100,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 595,
+      "name": null,
+      "x": -1511.83,
+      "y": 2695.46,
+      "price": 51360,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 596,
+      "name": null,
+      "x": -1491.5,
+      "y": 2685.77,
+      "price": 52700,
+      "owner": "William_Homor",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 597,
+      "name": null,
+      "x": -1482.5,
+      "y": 2702.52,
+      "price": 51000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 598,
+      "name": null,
+      "x": -1466.36,
+      "y": 2692.93,
+      "price": 54321,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 599,
+      "name": null,
+      "x": -1450.45,
+      "y": 2690.85,
+      "price": 52000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 600,
+      "name": null,
+      "x": -911.27,
+      "y": 2686.34,
+      "price": 800000,
+      "owner": "William_Walker",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 601,
+      "name": null,
+      "x": 1956.69,
+      "y": 731.328,
+      "price": 170000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 602,
+      "name": null,
+      "x": 1942.76,
+      "y": 742.499,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 603,
+      "name": null,
+      "x": 1929.4,
+      "y": 742.528,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 604,
+      "name": null,
+      "x": 2066.13,
+      "y": 2721.83,
+      "price": 390000,
+      "owner": "Chase_Delgado",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 605,
+      "name": null,
+      "x": 1897.09,
+      "y": 681.888,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 606,
+      "name": null,
+      "x": 1915.91,
+      "y": 742.618,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 607,
+      "name": null,
+      "x": 1896.93,
+      "y": 668.552,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 608,
+      "name": null,
+      "x": 1918.84,
+      "y": 664.081,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 609,
+      "name": null,
+      "x": 1945.51,
+      "y": 663.803,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 610,
+      "name": null,
+      "x": 1956.68,
+      "y": 677.892,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 611,
+      "name": null,
+      "x": 1897.06,
+      "y": 729.169,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 612,
+      "name": null,
+      "x": 1901.88,
+      "y": 742.557,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 613,
+      "name": null,
+      "x": -1478.82,
+      "y": 2547.1,
+      "price": 52000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 614,
+      "name": null,
+      "x": -1476.33,
+      "y": 2562.96,
+      "price": 52300,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 615,
+      "name": null,
+      "x": -1450.01,
+      "y": 2562.91,
+      "price": 48000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 616,
+      "name": null,
+      "x": -1446.51,
+      "y": 2636.91,
+      "price": 52000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 617,
+      "name": null,
+      "x": -1603.86,
+      "y": 2689.75,
+      "price": 52740,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 618,
+      "name": null,
+      "x": 2056.46,
+      "y": 2664.56,
+      "price": 380000,
+      "owner": "Alberto_Darkwood",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 619,
+      "name": null,
+      "x": 2037,
+      "y": 2663.98,
+      "price": 382000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 620,
+      "name": null,
+      "x": 2017.89,
+      "y": 2664.01,
+      "price": 405000,
+      "owner": "Kevin_Newman",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 621,
+      "name": null,
+      "x": 1989.13,
+      "y": 2664.97,
+      "price": 390000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 622,
+      "name": null,
+      "x": 1969.64,
+      "y": 2664.25,
+      "price": 390000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 623,
+      "name": null,
+      "x": 1950.62,
+      "y": 2664.37,
+      "price": 405000,
+      "owner": "Yami_Sukehiro",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 624,
+      "name": null,
+      "x": 1921.88,
+      "y": 2664.82,
+      "price": 405000,
+      "owner": "Daisuke_Hyuuzu",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 625,
+      "name": null,
+      "x": 1931.32,
+      "y": 2721.5,
+      "price": 390000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 626,
+      "name": null,
+      "x": 1950.64,
+      "y": 2722.35,
+      "price": 405000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 627,
+      "name": null,
+      "x": 1969.86,
+      "y": 2721.99,
+      "price": 405000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 628,
+      "name": null,
+      "x": 1998.75,
+      "y": 2721.81,
+      "price": 390000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 629,
+      "name": null,
+      "x": 2018.26,
+      "y": 2722.41,
+      "price": 405000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 630,
+      "name": null,
+      "x": 2037.26,
+      "y": 2721.83,
+      "price": 405000,
+      "owner": "Luca_Barzini",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 631,
+      "name": null,
+      "x": 2049.77,
+      "y": 2763.96,
+      "price": 1230000,
+      "owner": "Leonardo_Restrero",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 632,
+      "name": null,
+      "x": 2039.45,
+      "y": 2766.32,
+      "price": 1230000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 633,
+      "name": null,
+      "x": 2018.62,
+      "y": 2766.68,
+      "price": 1150000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 634,
+      "name": null,
+      "x": 1992.68,
+      "y": 2764.28,
+      "price": 1150000,
+      "owner": "Mark_Darkwood",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 635,
+      "name": null,
+      "x": 1967.28,
+      "y": 2766.08,
+      "price": 1145000,
+      "owner": "Robert_Darkwood",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 636,
+      "name": null,
+      "x": 1929.5,
+      "y": 2774.33,
+      "price": 1200000,
+      "owner": "Alex_Arasaka",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 637,
+      "name": null,
+      "x": -275.313,
+      "y": 2736.33,
+      "price": 35000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 638,
+      "name": null,
+      "x": -362.749,
+      "y": 1110.72,
+      "price": 400000,
+      "owner": "Esteban_Guerra",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 639,
+      "name": null,
+      "x": -360.521,
+      "y": 1141.88,
+      "price": 400000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 640,
+      "name": null,
+      "x": -369.497,
+      "y": 1169.36,
+      "price": 450000,
+      "owner": "Salvador_Lendazzo",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 641,
+      "name": null,
+      "x": -324.451,
+      "y": 1165.42,
+      "price": 320000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 642,
+      "name": null,
+      "x": -32.2775,
+      "y": 1038.56,
+      "price": 300000,
+      "owner": "Scott_Sweet",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 643,
+      "name": null,
+      "x": -328.466,
+      "y": 1118.98,
+      "price": 300000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 644,
+      "name": null,
+      "x": -298.367,
+      "y": 1115.59,
+      "price": 320000,
+      "owner": "Gavrilia_Escobar",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 645,
+      "name": null,
+      "x": -290.786,
+      "y": 1176.75,
+      "price": 300000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 646,
+      "name": null,
+      "x": -258.31,
+      "y": 1151.12,
+      "price": 340000,
+      "owner": "Gabriel_Martell",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 647,
+      "name": null,
+      "x": -44.953,
+      "y": 1081.2,
+      "price": 320000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 648,
+      "name": null,
+      "x": -258.471,
+      "y": 1168.85,
+      "price": 340000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 649,
+      "name": null,
+      "x": -260.591,
+      "y": 1120.06,
+      "price": 320000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 650,
+      "name": null,
+      "x": -258.334,
+      "y": 1043.8,
+      "price": 300000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 651,
+      "name": null,
+      "x": -278.926,
+      "y": 1003.14,
+      "price": 320000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 652,
+      "name": null,
+      "x": -247.866,
+      "y": 1001.14,
+      "price": 300000,
+      "owner": "Eugenio_Saltaformajo",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 653,
+      "name": null,
+      "x": -258.909,
+      "y": 1083.18,
+      "price": 340000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 654,
+      "name": null,
+      "x": -886.497,
+      "y": 1514.17,
+      "price": 35000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 655,
+      "name": null,
+      "x": -906.372,
+      "y": 1514.82,
+      "price": 32000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 656,
+      "name": null,
+      "x": -905.429,
+      "y": 1528.47,
+      "price": 30000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 657,
+      "name": null,
+      "x": -881.763,
+      "y": 1531.76,
+      "price": 35000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 658,
+      "name": null,
+      "x": -905.749,
+      "y": 1542.87,
+      "price": 36000,
+      "owner": "Sasha_Tesla",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 659,
+      "name": null,
+      "x": -884.116,
+      "y": 1552.75,
+      "price": 30000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 660,
+      "name": null,
+      "x": -881.467,
+      "y": 1562.61,
+      "price": 32000,
+      "owner": "Kenny_Goth",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 661,
+      "name": null,
+      "x": -2116.8,
+      "y": 927.753,
+      "price": 2000000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 662,
+      "name": null,
+      "x": -314.09,
+      "y": 1774.78,
+      "price": 1600000,
+      "owner": "Snusoslav_Vkidovsky",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 663,
+      "name": null,
+      "x": -884.265,
+      "y": 1538.23,
+      "price": 35000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 664,
+      "name": null,
+      "x": -636.528,
+      "y": 1446.85,
+      "price": 36000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 665,
+      "name": null,
+      "x": -650.831,
+      "y": 1445.65,
+      "price": 32000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 666,
+      "name": null,
+      "x": -658.418,
+      "y": 1447.11,
+      "price": 32000,
+      "owner": "Angel_Black",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 667,
+      "name": null,
+      "x": -690.017,
+      "y": 1444.42,
+      "price": 40000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 668,
+      "name": null,
+      "x": -715.584,
+      "y": 1438.95,
+      "price": 42000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 669,
+      "name": null,
+      "x": -743.08,
+      "y": 1432.51,
+      "price": 42000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 670,
+      "name": null,
+      "x": -91.1863,
+      "y": -1592.48,
+      "price": 38000,
+      "owner": "Max_Stivenson",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 671,
+      "name": null,
+      "x": -89.1267,
+      "y": -1564.49,
+      "price": 38000,
+      "owner": "John_Rockefeller",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 672,
+      "name": null,
+      "x": -68.8457,
+      "y": -1545.68,
+      "price": 40000,
+      "owner": "Sveta_Monroe",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 673,
+      "name": null,
+      "x": -2478.34,
+      "y": 2489.01,
+      "price": 45000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 674,
+      "name": null,
+      "x": -2479.06,
+      "y": 2510.02,
+      "price": 42000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 675,
+      "name": null,
+      "x": -2446.82,
+      "y": 2512.37,
+      "price": 45000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 676,
+      "name": null,
+      "x": -2422.41,
+      "y": 2490.76,
+      "price": 40000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 677,
+      "name": null,
+      "x": -1802.62,
+      "y": 2037.79,
+      "price": 34000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 678,
+      "name": null,
+      "x": -1827.15,
+      "y": 2042.36,
+      "price": 45000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 679,
+      "name": null,
+      "x": -1500.1,
+      "y": 1960.16,
+      "price": 50000,
+      "owner": "Sova_Insane",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 680,
+      "name": null,
+      "x": -1427.05,
+      "y": 2171.32,
+      "price": 36000,
+      "owner": "Alex_Cobra",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 681,
+      "name": null,
+      "x": -311.401,
+      "y": 2726.88,
+      "price": 42000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 682,
+      "name": null,
+      "x": -279.652,
+      "y": 2721.89,
+      "price": 150000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 683,
+      "name": null,
+      "x": -287.567,
+      "y": 2758.14,
+      "price": 38000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 684,
+      "name": null,
+      "x": -257.987,
+      "y": 2782.9,
+      "price": 32000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 685,
+      "name": null,
+      "x": -268.768,
+      "y": 2769.42,
+      "price": 37000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 686,
+      "name": null,
+      "x": -232.284,
+      "y": 2807.7,
+      "price": 38000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 687,
+      "name": null,
+      "x": -219.717,
+      "y": 2767.48,
+      "price": 35000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 688,
+      "name": null,
+      "x": -201.867,
+      "y": 2771.54,
+      "price": 36000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 689,
+      "name": null,
+      "x": -161.375,
+      "y": 2728.2,
+      "price": 38000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 690,
+      "name": null,
+      "x": -168.64,
+      "y": 2707.33,
+      "price": 38000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 691,
+      "name": null,
+      "x": -150.196,
+      "y": 2687.87,
+      "price": 34000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 692,
+      "name": null,
+      "x": -207.823,
+      "y": 1119.28,
+      "price": 1200000,
+      "owner": "Shun_Kazama",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 693,
+      "name": null,
+      "x": -121.185,
+      "y": 857.596,
+      "price": 35000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 694,
+      "name": null,
+      "x": -123.171,
+      "y": 874.883,
+      "price": 42000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 695,
+      "name": null,
+      "x": -152.473,
+      "y": 881.84,
+      "price": 36000,
+      "owner": "Hal_Gibson",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 696,
+      "name": null,
+      "x": -153.328,
+      "y": 907.052,
+      "price": 34000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 697,
+      "name": null,
+      "x": -151.157,
+      "y": 933.933,
+      "price": 34000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 698,
+      "name": null,
+      "x": -92.0501,
+      "y": 887.069,
+      "price": 36000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 699,
+      "name": null,
+      "x": -53.0071,
+      "y": 894.219,
+      "price": 38000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 700,
+      "name": null,
+      "x": -54.8259,
+      "y": 918.774,
+      "price": 34000,
+      "owner": "Daniel_Shadow",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 701,
+      "name": null,
+      "x": -56.5929,
+      "y": 935.33,
+      "price": 32000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 702,
+      "name": null,
+      "x": -67.0379,
+      "y": 971.44,
+      "price": 32000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 703,
+      "name": null,
+      "x": -92.6956,
+      "y": 970.099,
+      "price": 32000,
+      "owner": "Corporal_Right",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 704,
+      "name": null,
+      "x": -37.6293,
+      "y": 962.545,
+      "price": 32000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 705,
+      "name": null,
+      "x": -15.4408,
+      "y": 934.22,
+      "price": 36000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 706,
+      "name": null,
+      "x": 20.5944,
+      "y": 948.912,
+      "price": 32000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 707,
+      "name": null,
+      "x": 1295.39,
+      "y": 174.625,
+      "price": 34000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 708,
+      "name": null,
+      "x": 1283.35,
+      "y": 158.463,
+      "price": 32000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 709,
+      "name": null,
+      "x": 1311.79,
+      "y": 169.617,
+      "price": 32000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 710,
+      "name": null,
+      "x": 1451.56,
+      "y": 375.708,
+      "price": 32000,
+      "owner": "Gordon_Matthews",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 711,
+      "name": null,
+      "x": 1447.49,
+      "y": 361.794,
+      "price": 32000,
+      "owner": "Dorian_Cresso",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 712,
+      "name": null,
+      "x": 1465.73,
+      "y": 364.276,
+      "price": 36000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 713,
+      "name": null,
+      "x": 1435.03,
+      "y": 334.95,
+      "price": 36000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 714,
+      "name": null,
+      "x": 1428.5,
+      "y": 356.421,
+      "price": 40000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 715,
+      "name": null,
+      "x": 1409.22,
+      "y": 346.87,
+      "price": 32000,
+      "owner": "Terraden_Lendazzo",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 716,
+      "name": null,
+      "x": 1413.21,
+      "y": 363.135,
+      "price": 36000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 717,
+      "name": null,
+      "x": 1419.41,
+      "y": 389.579,
+      "price": 35000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 718,
+      "name": null,
+      "x": 772.841,
+      "y": 348.264,
+      "price": 35000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 719,
+      "name": null,
+      "x": 758.839,
+      "y": 375.017,
+      "price": 36000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 720,
+      "name": null,
+      "x": 805.377,
+      "y": 358.444,
+      "price": 36000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 721,
+      "name": null,
+      "x": 746.463,
+      "y": 305.027,
+      "price": 34000,
+      "owner": "Steve_More",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 722,
+      "name": null,
+      "x": 719.002,
+      "y": 300.683,
+      "price": 36000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 723,
+      "name": null,
+      "x": 748.133,
+      "y": 257.174,
+      "price": 36000,
+      "owner": "Andre_Trayce",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 724,
+      "name": null,
+      "x": 723.64,
+      "y": 269.611,
+      "price": 37000,
+      "owner": "Garry_Dias",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 725,
+      "name": null,
+      "x": 705.483,
+      "y": 292.012,
+      "price": 31000,
+      "owner": "Evgeniy_Sliva",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 726,
+      "name": null,
+      "x": 286.124,
+      "y": 41.2482,
+      "price": 36000,
+      "owner": "Dmitry_McReary",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 727,
+      "name": null,
+      "x": 309.216,
+      "y": 44.4058,
+      "price": 37000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 728,
+      "name": null,
+      "x": 342.534,
+      "y": 62.7402,
+      "price": 36000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 729,
+      "name": null,
+      "x": 312.792,
+      "y": -92.3188,
+      "price": 150000,
+      "owner": "Carl_Kennedy",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 730,
+      "name": null,
+      "x": 340.031,
+      "y": 33.7524,
+      "price": 36000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 731,
+      "name": null,
+      "x": 312.79,
+      "y": -121.31,
+      "price": 140000,
+      "owner": "Salvador_Lendazzo",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 732,
+      "name": null,
+      "x": 252.828,
+      "y": -92.4046,
+      "price": 150000,
+      "owner": "Jesus_Tramp",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 733,
+      "name": null,
+      "x": 295.042,
+      "y": -54.6301,
+      "price": 140000,
+      "owner": "Dread_Statham",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 734,
+      "name": null,
+      "x": 267.814,
+      "y": -54.6225,
+      "price": 130000,
+      "owner": "Clemente_Mendoza",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 735,
+      "name": null,
+      "x": 743.349,
+      "y": -509.372,
+      "price": 212000,
+      "owner": "Maximus_Walker",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 736,
+      "name": null,
+      "x": 745.134,
+      "y": -556.713,
+      "price": 220000,
+      "owner": "Itsuke_Tanaka",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 737,
+      "name": null,
+      "x": 768.363,
+      "y": -503.54,
+      "price": 214000,
+      "owner": "Illya_Matias",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 738,
+      "name": null,
+      "x": 766.657,
+      "y": -556.78,
+      "price": 209000,
+      "owner": "Itsuke_Tanaka",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 739,
+      "name": null,
+      "x": 795.269,
+      "y": -506.218,
+      "price": 198000,
+      "owner": "Geyms_Matias",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 740,
+      "name": null,
+      "x": 818.344,
+      "y": -509.394,
+      "price": 230000,
+      "owner": "Tony_Stark",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 741,
+      "name": null,
+      "x": 745.61,
+      "y": -591.227,
+      "price": 215000,
+      "owner": "Theodore_Hudson",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 742,
+      "name": null,
+      "x": 1549.27,
+      "y": 2125.44,
+      "price": 150000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 743,
+      "name": null,
+      "x": 1550.2,
+      "y": 2096.49,
+      "price": 150000,
+      "owner": "Lorenzo_Meloni",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 744,
+      "name": null,
+      "x": 1554.42,
+      "y": 2074.11,
+      "price": 135000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 745,
+      "name": null,
+      "x": 1596.48,
+      "y": 2147.53,
+      "price": 137000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 746,
+      "name": null,
+      "x": 1595.59,
+      "y": 2123.34,
+      "price": 141000,
+      "owner": "Guzman_Castellano",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 747,
+      "name": null,
+      "x": 1641.19,
+      "y": 2149.81,
+      "price": 143000,
+      "owner": "Jonathan_Nicholson",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 748,
+      "name": null,
+      "x": 1645.37,
+      "y": 2127.44,
+      "price": 147000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 749,
+      "name": null,
+      "x": 1640.28,
+      "y": 2102.74,
+      "price": 150000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 750,
+      "name": null,
+      "x": 1640.27,
+      "y": 2075.7,
+      "price": 148000,
+      "owner": "Mio_Nakamura",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 751,
+      "name": null,
+      "x": 1596.46,
+      "y": 2093.76,
+      "price": 140000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 752,
+      "name": null,
+      "x": 1595.02,
+      "y": 2071.08,
+      "price": 150000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 753,
+      "name": null,
+      "x": 1641.72,
+      "y": 2044.92,
+      "price": 130000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 754,
+      "name": null,
+      "x": 1595.56,
+      "y": 2038.45,
+      "price": 132000,
+      "owner": "James_Meloni",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 755,
+      "name": null,
+      "x": 1684.55,
+      "y": 2046.72,
+      "price": 144000,
+      "owner": "Alvaro_Statham",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 756,
+      "name": null,
+      "x": 1680.38,
+      "y": 2069.17,
+      "price": 148000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 757,
+      "name": null,
+      "x": 1685.79,
+      "y": 2093.84,
+      "price": 140000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 758,
+      "name": null,
+      "x": 1684.56,
+      "y": 2123.42,
+      "price": 150000,
+      "owner": "Dimiano_Verdugo",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 759,
+      "name": null,
+      "x": 1495.76,
+      "y": 2033.21,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 760,
+      "name": null,
+      "x": 1503.17,
+      "y": 2033.19,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 761,
+      "name": null,
+      "x": 1495.75,
+      "y": 2027.11,
+      "price": 50000,
+      "owner": "Dante_Martini",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 762,
+      "name": null,
+      "x": 1503.2,
+      "y": 2027.04,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 763,
+      "name": null,
+      "x": 1495.74,
+      "y": 2033.25,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 764,
+      "name": null,
+      "x": 1503.17,
+      "y": 2033.22,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 765,
+      "name": null,
+      "x": 1496.03,
+      "y": 2027.1,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 766,
+      "name": null,
+      "x": 1503.21,
+      "y": 2026.83,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 767,
+      "name": null,
+      "x": 1548.72,
+      "y": 2003.86,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 768,
+      "name": null,
+      "x": 1548.59,
+      "y": 1996.41,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 769,
+      "name": null,
+      "x": 1542.62,
+      "y": 2003.85,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 770,
+      "name": null,
+      "x": 1542.42,
+      "y": 1996.42,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 771,
+      "name": null,
+      "x": 1548.65,
+      "y": 2003.85,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 772,
+      "name": null,
+      "x": 1548.79,
+      "y": 1996.42,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 773,
+      "name": null,
+      "x": 1542.56,
+      "y": 2003.84,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 774,
+      "name": null,
+      "x": 1542.46,
+      "y": 1996.42,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 775,
+      "name": null,
+      "x": 1408.26,
+      "y": 1996.41,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 776,
+      "name": null,
+      "x": 1408.26,
+      "y": 2003.86,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 777,
+      "name": null,
+      "x": 1414.53,
+      "y": 1996.42,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 778,
+      "name": null,
+      "x": 1414.57,
+      "y": 2003.85,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 779,
+      "name": null,
+      "x": 1408.29,
+      "y": 1996.47,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 780,
+      "name": null,
+      "x": 1408.31,
+      "y": 2003.78,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 781,
+      "name": null,
+      "x": 1414.51,
+      "y": 1996.46,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 782,
+      "name": null,
+      "x": 1414.41,
+      "y": 2003.78,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 783,
+      "name": null,
+      "x": 1453.8,
+      "y": 2033.28,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 784,
+      "name": null,
+      "x": 1461.21,
+      "y": 2033.26,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 785,
+      "name": null,
+      "x": 1453.8,
+      "y": 2027,
+      "price": 50000,
+      "owner": "Daryi_Sobakov",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 786,
+      "name": null,
+      "x": 1461.15,
+      "y": 2027.02,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 787,
+      "name": null,
+      "x": 1453.82,
+      "y": 2033.25,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 788,
+      "name": null,
+      "x": 1461,
+      "y": 2032,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 789,
+      "name": null,
+      "x": 1453.82,
+      "y": 2026.99,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 790,
+      "name": null,
+      "x": 1461.21,
+      "y": 2027.05,
+      "price": 50000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 791,
+      "name": null,
+      "x": 2296.71,
+      "y": -1882.08,
+      "price": 85000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 792,
+      "name": null,
+      "x": 2269.15,
+      "y": -1882.08,
+      "price": 81000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 793,
+      "name": null,
+      "x": 2241.94,
+      "y": -1882.07,
+      "price": 77000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 794,
+      "name": null,
+      "x": 2284.59,
+      "y": -1906.54,
+      "price": 80000,
+      "owner": "Borellia_Burgdorferi",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 795,
+      "name": null,
+      "x": 2261.33,
+      "y": -1906.69,
+      "price": 83000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 796,
+      "name": null,
+      "x": 2237.96,
+      "y": -1906.76,
+      "price": 82300,
+      "owner": "Sebastian_Twerrta",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 797,
+      "name": null,
+      "x": 2380.61,
+      "y": -1785.78,
+      "price": 90000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 798,
+      "name": null,
+      "x": 2359.91,
+      "y": -1795.95,
+      "price": 91000,
+      "owner": "Edward_Tornero",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 799,
+      "name": null,
+      "x": 2345.51,
+      "y": -1785.71,
+      "price": 87000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 800,
+      "name": null,
+      "x": 2321.96,
+      "y": -1795.99,
+      "price": 89500,
+      "owner": "Lex_Luger",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 801,
+      "name": null,
+      "x": 2307.67,
+      "y": -1785.63,
+      "price": 87000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 802,
+      "name": null,
+      "x": 2290.14,
+      "y": -1795.87,
+      "price": 90000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 803,
+      "name": null,
+      "x": 2275.82,
+      "y": -1785.58,
+      "price": 88200,
+      "owner": "Liam_Sterling",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 804,
+      "name": null,
+      "x": 2247.09,
+      "y": -1795.92,
+      "price": 91330,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 805,
+      "name": null,
+      "x": 2373.45,
+      "y": 1642.6,
+      "price": 60000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 806,
+      "name": null,
+      "x": 2368.45,
+      "y": 1642.59,
+      "price": 60000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 807,
+      "name": null,
+      "x": 2363.58,
+      "y": 1642.6,
+      "price": 60000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 808,
+      "name": null,
+      "x": -2160.15,
+      "y": 1030.35,
+      "price": 180000,
+      "owner": "Abybachir_Trahov",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 809,
+      "name": null,
+      "x": -2160.15,
+      "y": 1066.97,
+      "price": 180000,
+      "owner": "Jack_Blackwood",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 810,
+      "name": null,
+      "x": -2126.44,
+      "y": 1087.56,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 811,
+      "name": null,
+      "x": -2126.43,
+      "y": 1069.52,
+      "price": 180000,
+      "owner": "Katia_Katerok",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 812,
+      "name": null,
+      "x": -2126.43,
+      "y": 1050.96,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 813,
+      "name": null,
+      "x": -2126.44,
+      "y": 1032.72,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 814,
+      "name": null,
+      "x": -2126.44,
+      "y": 1014.25,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 815,
+      "name": null,
+      "x": -2126.44,
+      "y": 996.424,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 816,
+      "name": null,
+      "x": -2126.44,
+      "y": 978.576,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 817,
+      "name": null,
+      "x": -2129.63,
+      "y": 942.587,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 818,
+      "name": null,
+      "x": -2129.52,
+      "y": 895.007,
+      "price": 180000,
+      "owner": "Nikita_Kondratenko",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 819,
+      "name": null,
+      "x": -2158.66,
+      "y": 889.227,
+      "price": 180000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 820,
+      "name": null,
+      "x": 1465.27,
+      "y": -90.1909,
+      "price": 2000000,
+      "owner": "Pennywise_MacHolland",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 821,
+      "name": null,
+      "x": 1457.51,
+      "y": -87.3792,
+      "price": 2000000,
+      "owner": "Molly_MacHolland",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 822,
+      "name": null,
+      "x": 1588.8,
+      "y": -651.798,
+      "price": 10000000,
+      "owner": "Ded_Moroz",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 823,
+      "name": null,
+      "x": 289.853,
+      "y": -1617.38,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 824,
+      "name": null,
+      "x": 294.57,
+      "y": -1623.59,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 825,
+      "name": null,
+      "x": 283.143,
+      "y": -1616.42,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 826,
+      "name": null,
+      "x": 276.377,
+      "y": -1620.37,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 827,
+      "name": null,
+      "x": 289.817,
+      "y": -1617.47,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 828,
+      "name": null,
+      "x": 294.811,
+      "y": -1623.67,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 829,
+      "name": null,
+      "x": 283.007,
+      "y": -1616.33,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 830,
+      "name": null,
+      "x": 276.148,
+      "y": -1620.35,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 831,
+      "name": null,
+      "x": 289.943,
+      "y": -1617.5,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 832,
+      "name": null,
+      "x": 294.694,
+      "y": -1623.66,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 833,
+      "name": null,
+      "x": 283.238,
+      "y": -1616.42,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 834,
+      "name": null,
+      "x": 276.382,
+      "y": -1620.39,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 835,
+      "name": null,
+      "x": 289.905,
+      "y": -1617.47,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 836,
+      "name": null,
+      "x": 294.729,
+      "y": -1623.65,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 837,
+      "name": null,
+      "x": 283.201,
+      "y": -1616.39,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 838,
+      "name": null,
+      "x": 276.44,
+      "y": -1620.37,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 839,
+      "name": null,
+      "x": 289.892,
+      "y": -1617.47,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 840,
+      "name": null,
+      "x": 294.772,
+      "y": -1623.7,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 841,
+      "name": null,
+      "x": 283.002,
+      "y": -1616.28,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 842,
+      "name": null,
+      "x": 276.176,
+      "y": -1620.34,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 843,
+      "name": null,
+      "x": 289.945,
+      "y": -1617.44,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 844,
+      "name": null,
+      "x": 294.852,
+      "y": -1623.66,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 845,
+      "name": null,
+      "x": 282.97,
+      "y": -1616.34,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 846,
+      "name": null,
+      "x": 276.231,
+      "y": -1620.36,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 847,
+      "name": null,
+      "x": 290.046,
+      "y": -1617.47,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 848,
+      "name": null,
+      "x": 294.762,
+      "y": -1623.67,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 849,
+      "name": null,
+      "x": 282.906,
+      "y": -1616.33,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 850,
+      "name": null,
+      "x": 276.105,
+      "y": -1620.35,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 851,
+      "name": null,
+      "x": 290.014,
+      "y": -1617.43,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 852,
+      "name": null,
+      "x": 294.723,
+      "y": -1623.63,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 853,
+      "name": null,
+      "x": 283.071,
+      "y": -1616.37,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 854,
+      "name": null,
+      "x": 276.135,
+      "y": -1620.32,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 855,
+      "name": null,
+      "x": 289.997,
+      "y": -1617.44,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 856,
+      "name": null,
+      "x": 294.785,
+      "y": -1623.66,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 857,
+      "name": null,
+      "x": 283.061,
+      "y": -1616.34,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 858,
+      "name": null,
+      "x": 276.449,
+      "y": -1620.37,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 859,
+      "name": null,
+      "x": 290.01,
+      "y": -1617.44,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 860,
+      "name": null,
+      "x": 294.778,
+      "y": -1623.68,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 861,
+      "name": null,
+      "x": 282.997,
+      "y": -1616.37,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 862,
+      "name": null,
+      "x": 276.508,
+      "y": -1620.44,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 863,
+      "name": null,
+      "x": 289.744,
+      "y": -1617.45,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 864,
+      "name": null,
+      "x": 294.565,
+      "y": -1623.68,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 865,
+      "name": null,
+      "x": 283.234,
+      "y": -1616.42,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 866,
+      "name": null,
+      "x": 276.472,
+      "y": -1620.32,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 867,
+      "name": null,
+      "x": 289.946,
+      "y": -1617.4,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 868,
+      "name": null,
+      "x": 294.873,
+      "y": -1623.71,
+      "price": 500000,
+      "owner": "Ross_Disquze",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 869,
+      "name": null,
+      "x": 283.101,
+      "y": -1616.32,
+      "price": 500000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 870,
+      "name": null,
+      "x": 276.284,
+      "y": -1620.39,
+      "price": 500000,
+      "owner": "Akira_Fujimoto",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 871,
+      "name": null,
+      "x": 930.809,
+      "y": 1928.12,
+      "price": 435000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 872,
+      "name": null,
+      "x": 885.468,
+      "y": 1980.6,
+      "price": 448000,
+      "owner": "Josef_Schweik",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 873,
+      "name": null,
+      "x": 1030.37,
+      "y": 1976.13,
+      "price": 475000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 874,
+      "name": null,
+      "x": 984.062,
+      "y": 1978.36,
+      "price": 456000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 875,
+      "name": null,
+      "x": 985.392,
+      "y": 2000.48,
+      "price": 435000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 876,
+      "name": null,
+      "x": 1029.37,
+      "y": 2005.57,
+      "price": 488000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 877,
+      "name": null,
+      "x": 1030.81,
+      "y": 2028.15,
+      "price": 478000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 878,
+      "name": null,
+      "x": 984.31,
+      "y": 2030.11,
+      "price": 450000,
+      "owner": "David_Stewart",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 879,
+      "name": null,
+      "x": 1083.96,
+      "y": 2031.69,
+      "price": 479000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 880,
+      "name": null,
+      "x": 1085.41,
+      "y": 2000.86,
+      "price": 479000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 881,
+      "name": null,
+      "x": 1084.6,
+      "y": 1976.71,
+      "price": 449000,
+      "owner": "Sebastian_Marlboro",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 882,
+      "name": null,
+      "x": 1415.83,
+      "y": 324.669,
+      "price": 39000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 883,
+      "name": null,
+      "x": 1403.2,
+      "y": 333.893,
+      "price": 34000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 884,
+      "name": null,
+      "x": 1461.09,
+      "y": 342.466,
+      "price": 35000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 885,
+      "name": null,
+      "x": 1469.65,
+      "y": 351.502,
+      "price": 36000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 886,
+      "name": null,
+      "x": 1475.37,
+      "y": 372.727,
+      "price": 39000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 887,
+      "name": null,
+      "x": 1488.61,
+      "y": 360.907,
+      "price": 35000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 888,
+      "name": null,
+      "x": 1300.43,
+      "y": 193.273,
+      "price": 36000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 889,
+      "name": null,
+      "x": 1303.6,
+      "y": 186.089,
+      "price": 34000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 890,
+      "name": null,
+      "x": 1315.62,
+      "y": 180.108,
+      "price": 36000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 891,
+      "name": null,
+      "x": 1307.29,
+      "y": 153.333,
+      "price": 38000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 892,
+      "name": null,
+      "x": 1299.18,
+      "y": 140.34,
+      "price": 36000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 893,
+      "name": null,
+      "x": 1294.51,
+      "y": 157.643,
+      "price": 37000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 894,
+      "name": null,
+      "x": 3156.14,
+      "y": -395.497,
+      "price": 10000000,
+      "owner": "Guzman_Castellano",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 895,
+      "name": null,
+      "x": 3212.2,
+      "y": -390.046,
+      "price": 10000000,
+      "owner": "Roberto_Green",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 896,
+      "name": null,
+      "x": 3151.32,
+      "y": -346.761,
+      "price": 10000000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 897,
+      "name": null,
+      "x": 3206.94,
+      "y": -341.251,
+      "price": 10000000,
+      "owner": "Michael_Lowly",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 898,
+      "name": null,
+      "x": 3146.45,
+      "y": -297.948,
+      "price": 10000000,
+      "owner": "Alex_Exsellent",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 899,
+      "name": null,
+      "x": 3136.31,
+      "y": -195.559,
+      "price": 10000000,
+      "owner": "Johnathan_Wendel",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 900,
+      "name": null,
+      "x": 3131.43,
+      "y": -146.669,
+      "price": 10000000,
+      "owner": "Carter_Skalete",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 901,
+      "name": null,
+      "x": 3187.15,
+      "y": -141.264,
+      "price": 10000000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 902,
+      "name": null,
+      "x": 3126.6,
+      "y": -97.9587,
+      "price": 10000000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 903,
+      "name": null,
+      "x": 3182.3,
+      "y": -92.471,
+      "price": 10000000,
+      "owner": "Dominic_Toretto",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 904,
+      "name": null,
+      "x": 3310.32,
+      "y": -79.7904,
+      "price": 10000000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 905,
+      "name": null,
+      "x": 3366.02,
+      "y": -74.2684,
+      "price": 10000000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 906,
+      "name": null,
+      "x": 3314.59,
+      "y": -128.538,
+      "price": 10000000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 907,
+      "name": null,
+      "x": 3370.88,
+      "y": -122.988,
+      "price": 10000000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 908,
+      "name": null,
+      "x": 3375.72,
+      "y": -171.818,
+      "price": 10000000,
+      "owner": "Vittoria_LaFuente",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 909,
+      "name": null,
+      "x": 3385.86,
+      "y": -274.251,
+      "price": 10000000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 910,
+      "name": null,
+      "x": 3390.73,
+      "y": -323.002,
+      "price": 10000000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 911,
+      "name": null,
+      "x": 3334.44,
+      "y": -328.53,
+      "price": 10000000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 912,
+      "name": null,
+      "x": 3395.55,
+      "y": -371.772,
+      "price": 10000000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 913,
+      "name": null,
+      "x": 3339.86,
+      "y": -377.266,
+      "price": 10000000,
+      "owner": null,
+      "owned": false
+    },
+    {
+      "kind": "house",
+      "id": 914,
+      "name": null,
+      "x": 870.438,
+      "y": -24.9377,
+      "price": 100000,
+      "owner": "Madd_Dogg",
+      "owned": true
+    },
+    {
+      "kind": "house",
+      "id": 915,
+      "name": null,
+      "x": -1427.31,
+      "y": -960.849,
+      "price": 1600000,
+      "owner": "Lucifer_Dennitsa",
+      "owned": true
+    },
     {
       "kind": "business",
       "id": 1,
