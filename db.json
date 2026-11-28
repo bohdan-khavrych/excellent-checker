@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T23:10:37.510Z",
+  "updatedAt": "2026-11-28T00:01:18.258Z",
   "properties": [
     {
       "kind": "house",
@@ -788,8 +788,8 @@
       "x": 2851.89,
       "y": -1365.91,
       "price": 550000,
-      "owner": "Amadeo_Miller",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
@@ -2728,8 +2728,8 @@
       "x": 893.548,
       "y": -1635.7,
       "price": 520000,
-      "owner": "Sasha_Chuprov",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
