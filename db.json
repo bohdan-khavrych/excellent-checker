@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T07:44:21.616Z",
+  "updatedAt": "2026-11-28T07:46:20.763Z",
   "properties": [
     {
       "kind": "house",
@@ -2738,8 +2738,8 @@
       "x": 865.147,
       "y": -1633.85,
       "price": 520000,
-      "owner": null,
-      "owned": false
+      "owner": "Sergio_Capone",
+      "owned": true
     },
     {
       "kind": "house",
