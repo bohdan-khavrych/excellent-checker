@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T10:14:19.045Z",
+  "updatedAt": "2026-11-28T10:18:21.358Z",
   "properties": [
     {
       "kind": "house",
@@ -4828,8 +4828,8 @@
       "x": 1274.42,
       "y": 2522.6,
       "price": 1250000,
-      "owner": null,
-      "owned": false
+      "owner": "Danila_Capuero",
+      "owned": true
     },
     {
       "kind": "house",
