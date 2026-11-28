@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T09:01:10.687Z",
+  "updatedAt": "2026-11-28T09:20:41.761Z",
   "properties": [
     {
       "kind": "house",
@@ -6238,8 +6238,8 @@
       "x": 1921.88,
       "y": 2664.82,
       "price": 405000,
-      "owner": null,
-      "owned": false
+      "owner": "Daisuke_Hyuuzu",
+      "owned": true
     },
     {
       "kind": "house",
