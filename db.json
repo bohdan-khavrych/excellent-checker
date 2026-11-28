@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T06:28:20.734Z",
+  "updatedAt": "2026-11-28T07:40:38.831Z",
   "properties": [
     {
       "kind": "house",
@@ -5248,8 +5248,8 @@
       "x": 2518.5,
       "y": 128.338,
       "price": 158000,
-      "owner": null,
-      "owned": false
+      "owner": "Leonardo_Restrero",
+      "owned": true
     },
     {
       "kind": "house",
