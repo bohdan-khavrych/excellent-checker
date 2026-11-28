@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T11:28:21.709Z",
+  "updatedAt": "2026-11-28T11:54:19.982Z",
   "properties": [
     {
       "kind": "house",
@@ -128,8 +128,8 @@
       "x": 1762.33,
       "y": -2102,
       "price": 85000,
-      "owner": null,
-      "owned": false
+      "owner": "Drakula_Ward",
+      "owned": true
     },
     {
       "kind": "house",
