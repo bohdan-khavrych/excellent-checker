@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T09:24:23.487Z",
+  "updatedAt": "2026-11-28T09:26:21.997Z",
   "properties": [
     {
       "kind": "house",
@@ -7078,8 +7078,8 @@
       "x": 1283.35,
       "y": 158.463,
       "price": 32000,
-      "owner": "Damian_Velasco",
-      "owned": true
+      "owner": null,
+      "owned": false
     },
     {
       "kind": "house",
